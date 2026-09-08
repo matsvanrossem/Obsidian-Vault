@@ -248,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,7 +271,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b2d3c6f82928c0e",
+  "active": "2c02cc20cbb5c898",
   "lastOpenFiles": [
     "Stage Logboek/Week 2.md",
     "Stage Logboek/Week 3.md",
