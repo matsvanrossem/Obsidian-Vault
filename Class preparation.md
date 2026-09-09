@@ -1,6 +1,0 @@
-```
-	custom-frames 
-frame: LessonUp
-```
-
-
