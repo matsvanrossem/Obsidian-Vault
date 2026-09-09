@@ -38,10 +38,13 @@ De onrust die het tekort aan informatie teweeg bracht. De administratie van *[[D
 	*Leerdoel vanuit Stepping Stones met behulp van ERK leerdoelen A2/B1. Voornamelijk gebruik digitale opdrachten.* 
 	Duidelijke opbouw met concrete voorbeelden om zo de klassikale vragen op context te geven. 
 <u>25 min zelfwerktijd om huiswerkopdrachten te maken</u>
-	 *Tijdens opzet de opdrachten op digibord schrijven om zo duidelijkheid te creëeren. Bordwerk Onderverdeeld in taken en leerwerk met kleuren.*
+	 *Tijdens opzet de opdrachten op digibord schrijven om zo duidelijkheid te creëren. Bordwerk Onderverdeeld in taken en leerwerk met kleuren.*
+	Gwendolyn slaat een brug tussen leerling gesprek en lezen door de belevingswereld van de leerling aan te spreken over series. 
+<u>lesafsluiting</u>
+	Uitleg over wat de leerlingen kunnen verwachten in de volgende les. 
+11:35 - Tussenuur + Pauze
 
-	
-	
+
 	
 	
 	
