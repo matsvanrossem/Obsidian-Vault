@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://www.lessonup.com/app/explorer/lessons/acxiPkG8tbLW9r2Dm",
+      "displayName": "LessonUp",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
