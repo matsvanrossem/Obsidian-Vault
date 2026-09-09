@@ -6,4 +6,4 @@ afdelingen hebben een onderbouw- en bovenbouwteam.
 **Onderwijsgroep Amersfoort**
 	De Amersfoortse Berg is één van de acht scholen van [Onderwijsgroep Amersfoort](https://onderwijsgroepamersfoort.nl/). Binnen dezeonderwijsorganisatie werken scholen samen aan goed en toekomstgericht onderwijs. Als leerling merk je dat bijvoorbeeld doordat scholen kennis en ervaringen met elkaar delen en elkaar helpen om het onderwijs verder te verbeteren.
 
-[Verdere informatie op de Schoolwiki](https://amersfoortseberg.schoolwiki.nl)
+[WIKI](https://amersfoortseberg.schoolwiki.nl)

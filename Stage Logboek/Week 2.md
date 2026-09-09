@@ -1,6 +1,6 @@
 **Maandag 6 Sept(Studie):**
 	Mentorgesprek met Monique Verhoeven (Tutor) Hierin zijn een aantal onderwerpen aan bod gekomen zoals:
-De onrust die het tekort aan informatie teweeg bracht. De administratie van *[[De Berg]]* was niet op orde door langdurige ziekte, hierdoor waren roosters en digitale infrastructuur niet werkende voor stagiares. De informatie die ik nodig had heb ik bij elkaar gesprokkeld door overal bij iedereen vragen te stellen.  
+	De onrust die het tekort aan informatie teweeg bracht. De administratie van *[[De Berg]]* was niet op orde door langdurige ziekte, hierdoor waren roosters en digitale infrastructuur niet werkende voor stagiares. De informatie die ik nodig had heb ik bij elkaar gesprokkeld door overal bij iedereen vragen te stellen.  
 
 **Woensdag 8 Sept:**
 	**Rooster Bijlage**
