@@ -1,7 +1,7 @@
-## Lesson blueprint template: 3 VWO
+## Lesson Blueprint: 2 VWO
 
 **Subject:** **English Grammar**  
-**Class: 3 VWO**  
+**Class: 2 VWO**  
 **Coursebook:** **Stepping Stones**  
 **Unit/Chapter:** __________  
 Lesson: Lesson 1 Grammar 
