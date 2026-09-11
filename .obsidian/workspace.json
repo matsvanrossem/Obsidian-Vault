@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d045a6317cbe82a",
+            "id": "bb40e5b9138b5a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,49 +22,7 @@
             }
           },
           {
-            "id": "c7ab563223db216c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage Logboek/Week 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 2"
-            }
-          },
-          {
-            "id": "5a28c99ff5cee5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage Logboek/Week 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 2"
-            }
-          },
-          {
-            "id": "206007b37ccc00bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenten/Externe Observaties.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Externe Observaties"
-            }
-          },
-          {
-            "id": "7f8763312140cc61",
+            "id": "04886dc441541da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,17 +36,35 @@
             }
           },
           {
-            "id": "54a67725191430f6",
+            "id": "8cbb946f0d568f88",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-lessonup",
-              "state": {},
-              "icon": "documents",
-              "title": "LessonUp"
+              "type": "markdown",
+              "state": {
+                "file": "Class preparation 2VWO Week 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class preparation 2VWO Week 3"
+            }
+          },
+          {
+            "id": "fcf647ead283d217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage Logboek/Week 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 2"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stage Logboek/Week 3.md",
+                "file": "Lesplannen/Lesplan Template 2 VWO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stage Logboek/Week 3.md",
+                "file": "Lesplannen/Lesplan Template 2 VWO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -256,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stage Logboek/Week 3.md",
+                "file": "Lesplannen/Lesplan Template 2 VWO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -271,8 +247,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -281,8 +257,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "fantasy-statblocks-creature-pane"
+              "icon": "skull",
+              "title": "Combatant"
             }
           },
           {
@@ -300,14 +276,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-custom-frames:Open LessonUp": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -321,45 +294,50 @@
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5a28c99ff5cee5f8",
+  "active": "fcf647ead283d217",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled 1.md",
-    "Stage Logboek/Week 2.md",
-    "Lesplannen/VWO 2/Lesplan 2 VWO Grammar; Compounds.md",
-    "Lesplannen/HAVO 3",
-    "Lesplannen/VWO 3",
-    "Lesplannen/VWO 2",
-    "Class preparation 2VWO Week 3.md",
-    "Documenten/Stagebespreking.md",
-    "Lesplannen/Lesplan Template 2 VWO.md",
-    "Sectievergaderingen.md",
-    "Documenten/Externe Observaties.md",
     "Stage Logboek/Week 3.md",
     "Stage Logboek/Week 4.md",
+    "Class preparation 2VWO Week 3.md",
+    "Sectievergaderingen.md",
+    "Untitled.md",
+    "Documenten/Externe Observaties.md",
+    "Documenten/Stagebespreking.md",
+    "Lesplannen/VWO 2/Lesplan 2 VWO Grammar; Compounds.md",
+    "Lesplannen/VWO 2",
     "Documenten/Bijlages/Week 2-1788964845760.webp",
+    "Stage Logboek/Stagebespreking.md",
+    "Stage Logboek/Week 2.md",
+    "Lesplannen/Lesplan Template 2 VWO.md",
+    "Documenten/Bijlages/De Berg.md",
+    "Documenten/Bijlages/Week 2-1788891239507.webp",
+    "Documenten/Bijlages/Programma startdagen De Amersfoortse Berg 26-27.pdf",
+    "Documenten/Bijlages",
+    "Documenten",
     "Lesplannen/Lesplan Template 3 HAVO.md",
     "Stage Logboek/Week 1.md",
-    "Class preparation 2 Week 3.md",
-    "Lesvoorbereiding",
-    "Documenten",
+    "Stage Logboek/Bijlages/De Berg.md",
+    "Lesplannen/Lesplan Template 3 VWO.md",
     "Lesplannen/Untitled.canvas",
-    "Documenten/Bijlages/De Berg.md",
     "Schoolopdrachten/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
     "Lesplannen",
     "Schoolopdrachten/Handelingsopdracht;Vakautobiografie.md",
     "Schoolopdrachten/Cursushandleidingen/Cursushandleiding VAKD1 (2026-2027) 07072026_sem 1 2026.pdf",
     "Editor/Drawing 2026-09-08 17.49.46.excalidraw.md",
-    "Documenten/Bijlages/Week 2-1788891239507.webp",
-    "Documenten/Bijlages/Programma startdagen De Amersfoortse Berg 26-27.pdf",
-    "Documenten/Bijlages",
+    "Stage Logboek/Bijlages/Week 2-1788891239507.webp",
+    "Stage Logboek/Bijlages/Programma startdagen De Amersfoortse Berg 26-27.pdf",
+    "Stage Logboek/Bijlages",
     "Stage Logboek/Untitled.canvas",
     "Week 1-1788890643412.webp",
     "Excalidraw/Drawing 2026-09-08 17.49.46.excalidraw 1.md",
     "Editor",
+    "Schoolopdrachten/Handelelingsopdracht;Vakautobiografie.docx",
     "Schoolopdrachten/Framework voor je vakvisie Engels.md",
     "Welcome.md"
   ]
