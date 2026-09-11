@@ -23,18 +23,18 @@ Teacher: Mats van Rossem__________
 
 ### EDI lesson sequence, 3 VWO
 
-| Time      | EDI phase                          | Teacher actions                                                                                                    | Student actions                                                            | Stepping Stones/LessonUp application                                     |
-| --------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 0-5 min   | **Lesson start**                   | For the first Class I am going to give a small introduction and then establish focus and display lesson objective. | Prepare and read objective.                                                | Unit/chapter introduction.                                               |
-| 5-8 min   | **Activate prior knowledge**       | Use retrieval questions from previous classes. Include one question requiring explanation.                         | Retrieve previous knowledge about The grammatical function of any and some | Previous chapter/lesson content.                                         |
-| 8-11 min  | **Lesson objective and relevance** | Explain objective, success criteria and connection with previous/future learning.                                  | Explain what successful performance will look like.                        | Link to unit learning goal.                                              |
-| 11-20 min | **Concept instruction**            | Explain new content (How the Compounds are used)explicitly using examples.                                         | Respond to questions and compare examples.                                 | Grammar                                                                  |
-| 20-27 min | **Modeling**                       | Think aloud while completing a more demanding task. Explicitly model reasoning.                                    | Identify steps and explain teacher choices.                                | Model one Stepping Stones assignment and have some examples in LessonUp. |
-| 27-34 min | **Guided practice**                | Gradually reduce support. Ask students to justify answers.                                                         | Complete tasks and explain reasoning.                                      | Stepping Stones p54-56 27c.                                              |
-| 34-37 min | **Check for understanding**        | Use whole-class questioning or mini-whiteboards. Identify students requiring extra instruction.                    | Demonstrate understanding individually.                                    | Short application exercise.                                              |
-| 37-45 min | **Independent processing**         | Assign independent task. Give extended instruction to a small group if required.                                   | Apply knowledge independently.                                             | steppign stones p 55-56 28a + 29a and b.                                 |
-| 45-48 min | **Evaluation**                     | Revisit success criteria and analyse one final question/example.                                                   | Self-assess and correct misconceptions.                                    | Final application question in lessonup.                                  |
-| 48-50 min | **Closure/homework**               | Summarise lesson and set homework.                                                                                 | Complete exit ticket.                                                      | Homework:                                                                |
+| Time      | EDI phase                                                             | Teacher actions                                                                                                    | Student actions                                                            | Stepping Stones/LessonUp application                                     |
+| --------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 0-5 min   | **Lesson start**                                                      | For the first Class I am going to give a small introduction and then establish focus and display lesson objective. | Prepare and read objective.                                                | Unit/chapter introduction.                                               |
+| 5-8 min   | **Activate prior knowledge**                                          | Use retrieval questions from previous classes. Include one question requiring explanation.                         | Retrieve previous knowledge about The grammatical function of any and some | Previous chapter/lesson content.                                         |
+| 8-11 min  | **Lesson objective and relevance**                                    | Explain objective, success criteria and connection with previous/future learning.                                  | Explain what successful performance will look like.                        | Link to unit learning goal.                                              |
+| 11-20 min | **Concept instruction**                                               | Explain new content (How the Compounds are used)explicitly using examples.                                         | Respond to questions and compare examples.                                 | Grammar                                                                  |
+| 20-27 min | **Modeling**                                                          | Think aloud while completing a more demanding task. Explicitly model reasoning.                                    | Identify steps and explain teacher choices.                                | Model one Stepping Stones assignment and have some examples in LessonUp. |
+| 27-34 min | **Guided practice**                                                   | Gradually reduce support. Ask students to justify answers.                                                         | Complete tasks and explain reasoning.                                      | Stepping Stones p54-56 27c.                                              |
+| 34-37 min | **Check for understanding**                                           | Use whole-class questioning or mini-whiteboards. Identify students requiring extra instruction.                    | Demonstrate understanding individually.                                    | Short application exercise.                                              |
+| 37-45 min | **Independent  processing (can become homework if pressed for time)** | Assign independent task. Give extended instruction to a small group if required.                                   | Apply knowledge independently.                                             | steppign stones p 55-56 28a + 29a and b.                                 |
+| 45-48 min | **Evaluation**                                                        | Revisit success criteria and analyse one final question/example.                                                   | Self-assess and correct misconceptions.                                    | Final application questions in lessonup for global evaluation.           |
+| 48-50 min | **Closure/homework**                                                  | Summarise lesson and set homework.                                                                                 | Complete exit ticket.                                                      | Homework:                                                                |
 
 --- start-multi-column: ID_bqe9
 ```column-settings
@@ -92,6 +92,32 @@ Bijvoorbeeld **like, love, hate, prefer**:
 - I like **playing** tennis.
 - I like **to play** tennis.
 
+# gerund of to-infinitive
+
+Vul de juiste vorm in.
+
+1. I enjoy ________ (watch) films.
+2. She wants ________ (become) a doctor.
+3. We finished ________ (do) our homework.
+4. He decided ________ (buy) a new phone.
+5. They love ________ (play) basketball.
+6. I hope ________ (see) you soon.
+7. Stop ________ (make) so much noise.
+8. She is good at ________ (dance).
+9. We plan ________ (visit) Paris.
+10. Do you mind ________ (help) me?
+
+## Antwoorden
+1. **watching**
+2. **to become**
+3. **doing**
+4. **to buy**
+5. **playing**
+6. **to see**
+7. **making**
+8. **dancing**
+9. **to visit**
+10. **helping**
 
 --- column-break ---
 ## Compounds met some-, any-, every- en no-
@@ -157,6 +183,53 @@ Ook correct:
 Niet:
 - I don't know nothing.
 
+# some-, any-, every- of no-
+
+Kies het juiste woord.
+1. There is ________ at the door.  
+    someone / anyone / everyone
+2. I don't have ________ to wear.  
+    something / anything / nothing
+3. ________ in my class has a laptop.  
+    Everyone / Anyone / No one
+4. We looked ______, but we couldn't find the keys.  
+    somewhere / anywhere / everywhere
+5. There is ________ in the fridge. It is empty.  
+    anything / nothing / something
+6. Did ________ call me?  
+    someone / anyone / no one
+7. I want to go ________ warm on holiday.  
+    somewhere / anywhere / nowhere
+8. ________ knows the answer. The question is too difficult.  
+    Nobody / Anybody / Somebody
+9. She didn't say ______.  
+    something / anything / nothing
+10. ________ was excited about the school trip.  
+    Everyone / Anyone / Someone
+
+## Antwoorden
+
+1. **someone**
+2. **anything**
+3. **Everyone**
+4. **everywhere**
+5. **nothing**
+6. **anyone**
+7. **somewhere**
+8. **Nobody**
+9. **anything**
+10. **Everyone**
+
+**Gerund:**  
+enjoy, finish, stop, avoid, mind + **-ing**
+
+**To-infinitive:**  
+want, need, hope, decide, plan, promise + **to + werkwoord**
+
+**some-:** meestal positieve zin  
+**any-:** meestal vraag of ontkenning  
+**every-:** iedereen / alles / overal  
+**no-:** niemand / niets / nergens
 
 --- end-multi-column
 
