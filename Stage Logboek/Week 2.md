@@ -87,6 +87,10 @@
 		Docent spoort leerlingen aan om naast een antwoord ook na te denken over waarom ze dat antwoord hebben gegeven. 
 		*Leerling die zijn icetea in zijn tas open heeft gelaten is met zijn andere bidon aan het spelen en wordt direct door sarcasme op zijn plek gezet "Ik heb slechte ervaringen met waterflessen, oh wacht... JIJ OOK! (Overdreven lachend)"*
 		Elke zelfverwerkingsopdracht wordt op het digibord gezet zodat leerlingen de tijd hebben om deze over te nemen. 
+**Vrijdag 11 sept**
+	09:45 2VE
+		Vervolg op 9/11 met de internationale en culturele repercussies. hoe keek de westerse wereld naar het midden-oosten. Uitleg waar en wie Al qaida is en de claims die ze hebben gemaakt.
+		*Verwerking van Oorlogsmisdadigers/Detainees in Guantanamo Bay *
 		
 		
 		
