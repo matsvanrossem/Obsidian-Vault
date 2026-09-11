@@ -92,7 +92,25 @@
 		Vervolg op 9/11 met de internationale en culturele repercussies. hoe keek de westerse wereld naar het midden-oosten. Uitleg waar en wie Al qaida is en de claims die ze hebben gemaakt.
 		*Verwerking van Oorlogsmisdadigers/Detainees in Guantanamo Bay*
 		Duidelijke beelden van hoe Amerika mensenrechten schond door marteling en inhumane hechtenis. 
-		Psychologiche marteling(Zie Michel faucault). 
+		Psychologiche marteling(Zie Michel faucault).
+	10:50 3V
+		Activeren van voorkennis over de aanslag van 9/11  
+		*geen ruimte voor onrust geven. leerlingen die niet luisteren of afgeleid zijn door hun laptop wordt de laptop even tijdelijk ingenomen.*
+		Documentaire over reactie van amerika en hoe ze in excess reageerde.
+		*Leerlingen beginnen af te dwalen omdat de documentaire miss iets te langdradig is met veel interviews.* 
+		**Weten leerlingen wat de Geneva convention is?**
+			Beperkte voorkennis, niet geleerd met geschiedenis!
+		**Was de documentaire dense?**
+			Het was best wel veel en een aantal woorden waren onbekend. maar de beelden en context gaven genoeg informatie om het te volgen. 
+	11:35 	
+		Een iets meer globale introductie en activatie over voorkennis van de aanslagen. 
+		Documentaire met beelden van 9/11 trekken sterk de aandacht van de leerlingen. 
+		**Hoe versimpel je complexe context zonder misconcepties te creëren?**
+		*Terugkoppelen van situatie aan Lynn.*
+		
+		
+		
+		
 		
 		
 		
