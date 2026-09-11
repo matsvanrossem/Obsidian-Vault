@@ -90,7 +90,9 @@
 **Vrijdag 11 sept**
 	09:45 2VE
 		Vervolg op 9/11 met de internationale en culturele repercussies. hoe keek de westerse wereld naar het midden-oosten. Uitleg waar en wie Al qaida is en de claims die ze hebben gemaakt.
-		*Verwerking van Oorlogsmisdadigers/Detainees in Guantanamo Bay *
+		*Verwerking van Oorlogsmisdadigers/Detainees in Guantanamo Bay*
+		Duidelijke beelden van hoe Amerika mensenrechten schond door marteling en inhumane hechtenis. 
+		Psychologiche marteling(Zie Michel faucault). 
 		
 		
 		
