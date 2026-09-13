@@ -1,9 +1,7 @@
-## Lesson Blueprint: 2 VWO
-
 **Subject:** **English Grammar**  
-**Class: 2 VWO**  
+**Class: 3 VWO**  
 **Coursebook:** **Stepping Stones**  
-**Unit/Chapter:** __________  
+**Unit/Chapter:** Chapter 1 unit E__________  
 Lesson: Lesson 1 Grammar 
 Duration: 45 minutes  
 Date: 16 september 2026  
@@ -16,9 +14,9 @@ Teacher: Mats van Rossem__________
 | **Main skill**                    | Reading / Listening / Speaking / Writing / **Grammar** / Vocabulary                                                                                                               |
 | **Lesson objective**              | By the end of the lesson, students can  Implement compounds and Gerunds into context sentences and create their own context sentences.__________________________________________. |
 | **Success criteria**              | Students can: 1. _Recognize_________ 2.Apply__________ 3. Reproducce__________                                                                                                    |
-| **Prior knowledge**               | __Students know about any and some and how to recognise these from last year.________________________________________                                                             |
+| **Prior knowledge**               | __Students know about any,some and continueous tense and how to recognise these from last year.________________________________________                                           |
 | **Key language**                  | English __with some Dutch when required________________________________________                                                                                                   |
-| **Common misconception**          | __The use of any and some are often interchanged________________________________________                                                                                          |
+| **Common misconception**          | __The use of any and some are often interchanged__this is also true for gerunds and continious tense__________________                                                            |
 | **Materials**                     | Stepping Stones, workbook, digital materials, LessonUp board/slides, Student Chromebooks.                                                                                         |
 
 ### EDI lesson sequence, 3 VWO
@@ -34,7 +32,7 @@ Teacher: Mats van Rossem__________
 | 34-37 min | **Check for understanding**                                           | Use whole-class questioning or mini-whiteboards. Identify students requiring extra instruction.                    | Demonstrate understanding individually.                                    | Short application exercise.                                              |
 | 37-45 min | **Independent  processing (can become homework if pressed for time)** | Assign independent task. Give extended instruction to a small group if required.                                   | Apply knowledge independently.                                             | steppign stones p 55-56 28a + 29a and b.                                 |
 | 45-48 min | **Evaluation**                                                        | Revisit success criteria and analyse one final question/example.                                                   | Self-assess and correct misconceptions.                                    | Final application questions in lessonup for global evaluation.           |
-| 48-50 min | **Closure/homework**                                                  | Summarise lesson and set homework.                                                                                 | Complete exit ticket.                                                      | Homework:                                                                |
+
 
 --- start-multi-column: ID_bqe9
 ```column-settings

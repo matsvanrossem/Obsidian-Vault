@@ -1,11 +1,11 @@
 **To Do**
 	- [ ] Magister regelen admninistratie
 	Grammatica onderdelen lesgeven vanaf 16 Sept:
-		- [ ] 4e uur 3VE  - Past simple met negation
+		- [ ] 4e uur 3VE  - Compounds via lessonup
 	Donderdag 17 sept:
-		- [ ] 2e 2hd - Compounds via lessonup
-		- [ ] 3e 2vA - Compounds via lessonup
-		- [ ] 4 3VD - Past simple met negation
+		- [ ] 2e 2hd - Past simple met negation
+		- [ ] 3e 2vA - Past simple met negation
+		- [ ] 4 3VD - Compounds via lessonup
 	Woensdag 23 Sept:
 		
 	Donderdag 24 Sept: 
