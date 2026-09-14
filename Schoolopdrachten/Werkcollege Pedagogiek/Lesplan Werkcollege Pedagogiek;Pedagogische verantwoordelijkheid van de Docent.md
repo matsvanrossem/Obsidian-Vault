@@ -1,8 +1,7 @@
 
 **Subject:** Pedagogische verantwoordelijkheid 
 **Class:** Werkcollege   __________  
-**Lesson:** __________  
-**Duration:** 45 minutes  
+**Duration:** 30 minutes  
 **Date:** 21 September__________  
 **Teachers:** Arnout, Jelmer, Kas, Hannelys, Mats  __________
 
@@ -28,7 +27,7 @@
 | 34-36 min | **Check for understanding**     | Ask all students questions. Decide whether the class is ready for independent work.       | Show answers simultaneously or explain reasoning.     |                                                                    |
 | 35-45 min | **Independent practice**        | Students practise independently. Provide extended instruction to students who need it.    | Complete Stepping Stones tasks independently.         |                                                                    |
 | 45 min    | **Lesson closure**              | Return to the lesson objective. Ask students what they learned.                           | Demonstrate whether they have achieved the objective. |                                                                    |
-| 45 min    | **Exit ticket/homework**        | Give a short exit question and explain homework.                                          | Complete exit ticket and note homework.               |                                                                    |
+| 27 min    | **Exit ticket/homework**        | Give a short exit question and explain homework.                                          | Complete exit ticket and note homework.               |                                                                    |
 *Vakoverstijgend denken*
 *Critisch en Relationeel denken* 
 *Welke machtstructuren zijn er cultureel en instationeel ingesteld*
@@ -47,4 +46,8 @@
 
 
 
-
+Stellingen voor de werkgroep leervorm 
+	1. Een leerling onderbreekt je les met een verbetering van de gegeven, ik:
+	   Accepteer dit/ Accepteer dit niet.
+	2. Ik laat mijn politieke orientatie blijken in mijn lessen  Een/Oneens
+	3. Ik hou mijzelf 

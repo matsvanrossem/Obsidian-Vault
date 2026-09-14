@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenten/Hoorcollege; Werkcollege pedagogiek.md",
+                "file": "Schoolopdrachten/Werkcollege Pedagogiek/Lesplan Werkcollege Pedagogiek;Pedagogische verantwoordelijkheid van de Docent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hoorcollege; Werkcollege pedagogiek"
+              "title": "Lesplan Werkcollege Pedagogiek;Pedagogische verantwoordelijkheid van de Docent"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -312,13 +312,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c02cc20cbb5c898",
+  "active": "6d068e23f00485dd",
   "lastOpenFiles": [
+    "Documenten/Hoorcollege; Werkcollege pedagogiek.md",
+    "Schoolopdrachten/Werkcollege Pedagogiek/Lesplan Werkcollege Pedagogiek;Pedagogische verantwoordelijkheid van de Docent.md",
     "Stage Logboek/Week 2.md",
     "Documenten/Bijlages/Programma startdagen De Amersfoortse Berg 26-27.pdf",
     "Documenten/Bijlages/Week 2-1788891239507.webp",
-    "Documenten/Hoorcollege; Werkcollege pedagogiek.md",
-    "Schoolopdrachten/Werkcollege Pedagogiek/Lesplan Werkcollege Pedagogiek;Pedagogische verantwoordelijkheid van de Docent.md",
     "Lesplannen/Lesplan Template.md",
     "Schoolopdrachten/Werkcollege Pedagogiek/Untitled.md",
     "Schoolopdrachten/Werkcollege Pedagogiek",
