@@ -249,7 +249,7 @@ want, need, hope, decide, plan, promise + **to + werkwoord**
 some-**body** for a person in general.
 
 
-Good morning everyone. My name is [name], and I’m an intern English teacher. I don’t think **anyone** here  has had a proper introduction of who I am, and I definitely don’t know the names of **everyone** here, so I thought I’d tell you **something** about myself.
+Good morning everyone. My name is [name], and I’m an intern English teacher. I don’t think **anyone** here  has had a proper introduction of who I am, and I definitely don’t know **everyone** here, so I thought I’d tell you **something** about myself.
 
 I’m from [place], and in my free time I like [hobby]. When I have some extra time off, I also like going **somewhere** with friends or doing **something** relaxing, like drawing or reading.
 
@@ -261,4 +261,4 @@ During my lessons, **everyone** should have the opportunity to participate. **No
 
 I also don’t expect **everyone** to understand **everything** immediately. If you don’t understand **something**, tell me. I would rather explain it again than have **somebody** sit there without understanding **anything**.
 
-So, now you know **something** about me. Let’s see if you noticed **anything** interesting about the words I just used.
+So, now you know **something** about me. Let’s see if you noticed **anything** interesting about the introduction i just gave you .
