@@ -246,6 +246,6 @@ want, need, hope, decide, plan, promise + **to + werkwoord**
 --- end-multi-column
 
 
-
+some-**body** for a person in general.
 
 
