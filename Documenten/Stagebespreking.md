@@ -25,4 +25,8 @@
 	Woensdag 5e of 8e uur 
 	
 **Wanneer overstap naar lesgeven in plaats van Observeren**
-	
+
+## Algemene stagebespreking
+
+- Robinn mailen over stageovereenkomst en werkelijke uren. 
+- 
