@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "157735a36cd635ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "2814419867f6596d",
             "type": "leaf",
             "state": {
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -312,12 +326,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d068e23f00485dd",
+  "active": "157735a36cd635ff",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Stage Logboek/Week 2.md",
     "Stage Logboek/Week 3.md",
     "Documenten/Stagebespreking.md",
     "Lesplannen/VWO 3/Lesplan 3 VWO Grammar; Compounds and Gerunds.md",
-    "Stage Logboek/Week 2.md",
     "Lesplannen/Lesplan Template.md",
     "Schoolopdrachten/Werkcollege Pedagogiek/Lesplan Werkcollege Pedagogiek;Pedagogische verantwoordelijkheid van de Docent.md",
     "Documenten/Hoorcollege; Werkcollege pedagogiek.md",
