@@ -22,41 +22,39 @@
 		In deze les was een van de dingen die mij opviel dat ik moeite had met het stoppen van de leerlingen met vreemde namen in te voeren in de lessonup. Ik was redelijk tevreden met hoe ik de klas aansprak, maar ik zal iets meer moeten optreden. er was een verschil met de 2h klas doordat ze in deze 2v klas veel meer in gingen op de stof en duidelijk maakte wat ze wilden leren. ik merkte dat ik dat heel prettig vond. 
 	4e 3VD - Compounds via lessonup
 		In deze les wilde ik kijken naar het verschil tussen de 3V klassen. het grootste vershil wat ik merkte was dat de leerlingen minder gedreven waren om grammatica te leren. er waren net minder mensen met vragen. 
+		Ook een 3V klas. Merk je een verschil met 3VE? Zo ja > wat dan?*
+
+*Uitleg van de grammatica in het Engels > hoe kun je weten of ze begrijpen?*
+
+*Hoe kun je checken of ze de stof daadwerkelijk snappen?*
+
+*Hoe voelt deze les voor jou?*
+
+*Waar ben je blij mee?*
+
+*Wat zou je volgende keer anders doen?*
+
+*Hoe voelt de sfeer in de klas?*
 	5e 3HB  - Compounds via lessonup
+*Is een 3de klas Havo. Merk je een verschil met de twee 3V klassen? Zo ja > wat?
+
+*Hoe kun je checken of ze de stof daadwerkelijk snappen?*
+
+*Hoe voelt deze les voor jou?*
+
+*Waar ben je blij mee?*
+
+*Wat zou je volgende keer anders doen?*
+
+*Hoe voelt de sfeer in de klas?*
 
 
 
 
 
-17-9-2026 3VD > 4de uur
 
-Ook een 3V klas. Merk je een verschil met 3VE? Zo ja > wat dan?
 
-Uitleg van de grammatica in het Engels > hoe kun je weten of ze begrijpen?
 
-Hoe kun je checken of ze de stof daadwerkelijk snappen?
-
-Hoe voelt deze les voor jou?
-
-Waar ben je blij mee?
-
-Wat zou je volgende keer anders doen?
-
-Hoe voelt de sfeer in de klas?
-
-17-9-2026 3HB > 5de uur
-
-Is een 3de klas Havo. Merk je een verschil met de twee 3V klassen? Zo ja > wat?
-
-Hoe kun je checken of ze de stof daadwerkelijk snappen?
-
-Hoe voelt deze les voor jou?
-
-Waar ben je blij mee?
-
-Wat zou je volgende keer anders doen?
-
-Hoe voelt de sfeer in de klas?
 
 
 
