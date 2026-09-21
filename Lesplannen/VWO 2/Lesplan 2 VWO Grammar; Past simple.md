@@ -1,4 +1,4 @@
-**Subject:** English  
+	**Subject:** English  
 **Class:** 2 VWO  
 **Coursebook:** Stepping Stones  
 **Unit/Chapter:** Chapter 1 unit E __________  
@@ -65,13 +65,13 @@ Bij **regelmatige werkwoorden** maak je de Past Simple meestal met:
 
 **werkwoord + -ed**
 
-|Werkwoord|Past Simple|Voorbeeld|
-|---|---|---|
-|work|worked|I **worked** yesterday.|
-|play|played|She **played** tennis.|
-|watch|watched|We **watched** a film.|
-|clean|cleaned|He **cleaned** his room.|
-|visit|visited|They **visited** London.|
+| Werkwoord | Past Simple | Voorbeeld                |
+| --------- | ----------- | ------------------------ |
+| work      | worked      | I **worked** yesterday.  |
+| play      | played      | She **played** tennis.   |
+| watch     | watched     | We **watched** a film.   |
+| clean     | cleaned     | He **cleaned** his room. |
+| visit     | visited     | They **visited** London. |
 
 In je LessonUp wordt dezelfde hoofdregel gebruikt: bij regelmatige werkwoorden gebruik je de infinitive + **-ed**.
 
@@ -81,18 +81,18 @@ Bij **onregelmatige werkwoorden** kun je niet gewoon **-ed** toevoegen.
 
 Je gebruikt de **tweede vorm van het werkwoord**.
 
-|Werkwoord|Past Simple|Voorbeeld|
-|---|---|---|
-|go|went|We **went** home.|
-|swim|swam|They **swam** in the sea.|
-|eat|ate|I **ate** a sandwich.|
-|write|wrote|She **wrote** a letter.|
-|buy|bought|He **bought** a new bike.|
-|see|saw|We **saw** a film.|
-|do|did|I **did** my homework.|
-|have|had|She **had** a headache.|
-|come|came|They **came** home late.|
-|take|took|He **took** the bus.|
+| Werkwoord | Past Simple | Voorbeeld                 |
+| --------- | ----------- | ------------------------- |
+| go        | went        | We **went** home.         |
+| swim      | swam        | They **swam** in the sea. |
+| eat       | ate         | I **ate** a sandwich.     |
+| write     | wrote       | She **wrote** a letter.   |
+| buy       | bought      | He **bought** a new bike. |
+| see       | saw         | We **saw** a film.        |
+| do        | did         | I **did** my homework.    |
+| have      | had         | She **had** a headache.   |
+| come      | came        | They **came** home late.  |
+| take      | took        | He **took** the bus.      |
 
 Deze vormen moet je leren. In je LessonUp worden bijvoorbeeld **go / went** en **swim / swam** gebruikt.
 
@@ -104,13 +104,13 @@ Voor een ontkenning gebruik je:
 
 Na **didn't** gebruik je dus altijd het **hele werkwoord**.
 
-|Positief|Negatief|
-|---|---|
-|I played football.|I **didn't play** football.|
-|She worked yesterday.|She **didn't work** yesterday.|
-|They went home.|They **didn't go** home.|
-|He ate pizza.|He **didn't eat** pizza.|
-|We saw the film.|We **didn't see** the film.|
+| Positief              | Negatief                       |
+| --------------------- | ------------------------------ |
+| I played football.    | I **didn't play** football.    |
+| She worked yesterday. | She **didn't work** yesterday. |
+| They went home.       | They **didn't go** home.       |
+| He ate pizza.         | He **didn't eat** pizza.       |
+| We saw the film.      | We **didn't see** the film.    |
 
 De regel in je LessonUp is: **subject + did not (didn't) + infinitive**.
 
@@ -144,13 +144,13 @@ Voor een vraag gebruik je:
 
 **Did + onderwerp + hele werkwoord?**
 
-|Zin|Vraag|
-|---|---|
-|You played football.|**Did you play** football?|
-|She worked yesterday.|**Did she work** yesterday?|
-|They went home.|**Did they go** home?|
-|He ate pizza.|**Did he eat** pizza?|
-|Josh did his homework.|**Did Josh do** his homework?|
+| Zin                    | Vraag                         |
+| ---------------------- | ----------------------------- |
+| You played football.   | **Did you play** football?    |
+| She worked yesterday.  | **Did she work** yesterday?   |
+| They went home.        | **Did they go** home?         |
+| He ate pizza.          | **Did he eat** pizza?         |
+| Josh did his homework. | **Did Josh do** his homework? |
 
 Ook na **did** gebruik je dus het **hele werkwoord**.
 
@@ -168,15 +168,15 @@ Dit voorbeeld komt ook terug in je LessonUp.
 
 Het werkwoord **to be** werkt anders.
 
-|Onderwerp|Past Simple|
-|---|---|
-|I|was|
-|he|was|
-|she|was|
-|it|was|
-|you|were|
-|we|were|
-|they|were|
+| Onderwerp | Past Simple |
+| --------- | ----------- |
+| I         | was         |
+| he        | was         |
+| she       | was         |
+| it        | was         |
+| you       | were        |
+| we        | were        |
+| they      | were        |
 
 Voorbeelden:
 
