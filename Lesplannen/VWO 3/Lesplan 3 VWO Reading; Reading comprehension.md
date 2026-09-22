@@ -38,15 +38,16 @@
 	*3V: 42 t/m 46*
 	*3H: 40 t/m 44*
 	*2HV: 41 t/m 45*
-  
+	  **Huiswerk voor allen is: Vocabulary G leren**
 
-
-  
-
-
-
-
+Start with 
+https://www.youtube.com/watch?v=PqtggjVAi8M
 
   
 
-Huiswerk voor allen is: Vocabulary G leren**
+
+
+
+
+  
+
