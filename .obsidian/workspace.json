@@ -15,8 +15,8 @@
               "state": {
                 "file": "Lessen/VWO 3/Reading Comprehension.canvas",
                 "viewState": {
-                  "x": 59.2079658726214,
-                  "y": -90.9999149402384,
+                  "x": 77.81776812593978,
+                  "y": -104.11308179278748,
                   "zoom": -0.0954450548497695
                 }
               },
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e2b37f469a836683",
