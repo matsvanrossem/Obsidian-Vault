@@ -11,17 +11,56 @@
             "id": "bb40e5b9138b5a40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lesplannen/VWO 3/Lesplan 3 VWO Reading; Reading comprehension.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessen/VWO 3/Reading Comprehension.canvas",
+                "viewState": {
+                  "x": 69.81883618020746,
+                  "y": -89.26737811568631,
+                  "zoom": 0.6348516483834101
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lesplan 3 VWO Reading; Reading comprehension"
+              "icon": "lucide-layout-dashboard",
+              "title": "Reading Comprehension"
+            }
+          },
+          {
+            "id": "823a2161c3b86b67",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "PqtggjVAi8M",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=PqtggjVAi8M"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "How Are Memories Stored Inside Your Brain?"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.00590133666992
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -258,10 +297,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb40e5b9138b5a40",
+  "active": "823a2161c3b86b67",
   "lastOpenFiles": [
-    "Lesplannen/Lesplan Template.md",
-    "Lesplannen/VWO 3/Lesplan 3 VWO Reading; Reading comprehension.md",
+    "Lessen/VWO 3/Reading Comprehension.canvas",
+    "Lessen/VWO 3/Reading Comprehension.md",
+    "Lessen/VWO 3/Lesplannnen/Lesplan 3 VWO Reading; Reading comprehension.md",
+    "Lessen/VWO 3/Lesplannnen/Lesplan Template.md",
+    "Lessen/VWO 2/Lesplannen/Lesplan 2 VWO Grammar; Past simple.md",
+    "Lessen/HAVO 3/Lesplannen/Lesplan Template 3 HAVO.md",
+    "Lessen/HAVO 3/Lesplannen/Lesplan Template 1.md",
+    "Lessen/VWO 2/Lesplannen/Lesplan Template 1.md",
+    "Lessen/VWO 2/Lesplannen",
+    "Lessen/HAVO 3/Lesplannen",
+    "Lessen/VWO 3/Lesplannnen",
     "Myrthe.md",
     "Schoolopdrachten/PedagogiekOpdrachten/Sociogramopdracht.md",
     "Schoolopdrachten/PedagogiekOpdrachten",
@@ -279,27 +327,18 @@
     "Stage Logboek/Week 3.md",
     "Stage Logboek/Week 2.md",
     "Schoolopdrachten/Werkcollege Pedagogiek/Lesplan Werkcollege Pedagogiek;Pedagogische verantwoordelijkheid van de Docent.md",
-    "Lesplannen/VWO 2/Lesplan 2 VWO Grammar; Past simple.md",
-    "Lesplannen/VWO 3/Lesplan 3 VWO Grammar; Compounds and Gerunds.md",
+    "Lessen/VWO 3/Lesplannnen/Lesplan 3 VWO Grammar; Compounds and Gerunds.md",
     "Schoolopdrachten/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
     "Untitled 2.md",
     "Lesplannen/VWO 3/Lesplan 3 VWO Grammar; Compounds and Gerunds.docx",
     "Schoolopdrachten/Werkcollege Pedagogiek/Untitled.md",
     "Schoolopdrachten/Werkcollege Pedagogiek",
-    "Lesplannen/HAVO 3/Lesplan Template 3 HAVO.md",
     "Schoolopdrachten/Handelingsopdracht; Leerganganalyse.md",
     "Schoolopdrachten/~WRL3159.tmp",
     "Schoolopdrachten/~WRD3151.tmp",
-    "Schoolopdrachten/~WRL0003.tmp",
-    "Schoolopdrachten/~WRD0002.tmp",
-    "Schoolopdrachten/Handelingsopdracht; Leerganganalyse.docx",
     "Stage Logboek/Week 1.md",
     "Untitled 1.md",
-    "Class preparation 2VWO Week 3.md",
-    "Stage Logboek/Week 4.md",
     "Documenten/Bijlages/Week 2-1788964845760.webp",
-    "Stage Logboek/Stagebespreking.md",
-    "Documenten/Bijlages/De Berg.md",
     "Documenten/Bijlages/Week 2-1788891239507.webp",
     "Lesplannen/Untitled.canvas",
     "Stage Logboek/Bijlages/Week 2-1788891239507.webp",
