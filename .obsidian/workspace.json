@@ -6,6 +6,7 @@
       {
         "id": "7170274f13abf079",
         "type": "tabs",
+        "dimension": 35.12974051896208,
         "children": [
           {
             "id": "823a2161c3b86b67",
@@ -15,13 +16,55 @@
               "state": {
                 "file": "Lessen/VWO 3/Reading Comprehension.canvas",
                 "viewState": {
-                  "x": 77.81776812593978,
-                  "y": -104.11308179278748,
+                  "x": 404.0038898808757,
+                  "y": -25.231532164101424,
                   "zoom": -0.0954450548497695
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Reading Comprehension"
+            }
+          }
+        ]
+      },
+      {
+        "id": "68f914789eb3a672",
+        "type": "tabs",
+        "dimension": 64.87025948103793,
+        "children": [
+          {
+            "id": "6d327d770020f6a7",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "c1nYtX-NUsc",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=c1nYtX-NUsc"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Tired of Doomscrolling?"
             }
           }
         ]
@@ -261,11 +304,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "823a2161c3b86b67",
+  "active": "6d327d770020f6a7",
   "lastOpenFiles": [
+    "Lessen/VWO 3/Reading Comprehension.canvas",
     "media-lib/How Are Memories Stored Inside Your Brain_.md",
     "media-lib",
-    "Lessen/VWO 3/Reading Comprehension.canvas",
     "Stage Logboek/Week 2.md",
     "Documenten/Bijlages/Programma startdagen De Amersfoortse Berg 26-27.pdf",
     "Colleges/Hoorcollege; Werkcollege pedagogiek.md",
@@ -304,7 +347,6 @@
     "Schoolopdrachten/Werkcollege Pedagogiek/Untitled.md",
     "Schoolopdrachten/Werkcollege Pedagogiek",
     "Schoolopdrachten/Handelingsopdracht; Leerganganalyse.md",
-    "Stage Logboek/Week 1.md",
     "Lesplannen/Untitled.canvas",
     "Stage Logboek/Bijlages/Week 2-1788891239507.webp",
     "Stage Logboek/Untitled.canvas",
