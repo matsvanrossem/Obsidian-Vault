@@ -8,17 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c04a545dbbe47dd",
+            "id": "1370efaf61815583",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Myrthe.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessen/VWO 3/Reading Comprehension.canvas",
+                "viewState": {
+                  "x": 855,
+                  "y": 146.5,
+                  "zoom": -0.6690940521312064
+                }
               },
-              "icon": "lucide-file",
-              "title": "Myrthe"
+              "icon": "lucide-layout-dashboard",
+              "title": "Reading Comprehension"
+            }
+          }
+        ]
+      },
+      {
+        "id": "20c5ec33ddbd9891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d053e34e150381",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "PqtggjVAi8M",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=PqtggjVAi8M"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "How Are Memories Stored Inside Your Brain?"
             }
           }
         ]
@@ -112,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.4988021850586
+    "width": 223.4988021850586,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -258,13 +303,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c04a545dbbe47dd",
+  "active": "27d053e34e150381",
   "lastOpenFiles": [
+    "Lessen/VWO 3/Reading Comprehension.canvas",
+    "Untitled.md",
+    "media-lib/How Are Memories Stored Inside Your Brain_.md",
+    "media-lib",
+    "Lessen/VWO 3/Lesplannnen/Lesplan Template.md",
+    "Lessen/VWO 2/Lesplannen/Lesplan 2 VWO Grammar; Past simple.md",
+    "Lessen/VWO 3/Lesplannnen/Lesplan 3 VWO Reading; Reading comprehension.md",
+    "Lessen/VWO 3/Lesplannnen/Lesplan 3 VWO Grammar; Compounds and Gerunds.md",
+    "Lessen/VWO 2/Lesplannen/Lesplan Template 1.md",
+    "Lessen/HAVO 3/Lesplannen/Lesplan Template 3 HAVO.md",
+    "Lessen/HAVO 3/Lesplannen/Lesplan Template 1.md",
+    "Lessen/VWO 3/Lesplannnen",
+    "Lessen/VWO 2/Lesplannen",
+    "Lessen/HAVO 3/Lesplannen",
+    "Myrthe.md",
+    "Lessen/VWO 3",
+    "Lessen/VWO 2",
+    "Lessen/HAVO 3",
+    "Lessen",
     "Schoolopdrachten/PedagogiekOpdrachten/Sociogramopdracht.md",
     "Stage Logboek/Week 2.md",
     "Colleges/Hoorcollege.md",
     "Schoolopdrachten/PedagogiekOpdrachten",
-    "Myrthe.md",
     "Documenten/Bijlages/Week 3-1789913087064.webp",
     "Documenten/Bijlages/Week 3-1789912355449.webp",
     "Colleges/Hoorcollege; Werkcollege pedagogiek.md",
@@ -276,29 +339,12 @@
     "Lesplannen/Lesplan Template.md",
     "Schoolopdrachten/Werkcollege Pedagogiek/Lesplan Werkcollege Pedagogiek;Pedagogische verantwoordelijkheid van de Docent.md",
     "Documenten/Hoorcollege; Werkcollege pedagogiek.md",
-    "Documenten/Bijlages/Programma startdagen De Amersfoortse Berg 26-27.pdf",
     "Documenten/Bijlages/Week 2-1788891239507.webp",
     "Schoolopdrachten/Werkcollege Pedagogiek/Untitled.md",
-    "Schoolopdrachten/Werkcollege Pedagogiek",
     "Untitled 2.md",
     "Lesplannen/HAVO 3/Lesplan Template 3 HAVO.md",
     "Schoolopdrachten/Handelingsopdracht; Leerganganalyse.md",
-    "Schoolopdrachten/Handelingsopdracht; Leerganganalyse.docx",
-    "Documenten/Sectievergaderingen.md",
-    "Untitled 1.md",
-    "Lesplannen/VWO 2/Lesplan 2 VWO Grammar; Compounds.md",
-    "Lesplannen/HAVO 3",
-    "Lesplannen/VWO 3",
-    "Lesplannen/VWO 2",
-    "Class preparation 2VWO Week 3.md",
-    "Lesplannen/Lesplan Template 2 VWO.md",
-    "Sectievergaderingen.md",
-    "Documenten/Externe Observaties.md",
-    "Stage Logboek/Week 4.md",
     "Documenten/Bijlages/Week 2-1788964845760.webp",
-    "Lesplannen/Lesplan Template 3 HAVO.md",
-    "Lesvoorbereiding",
-    "Documenten",
     "Lesplannen/Untitled.canvas",
     "Stage Logboek/Untitled.canvas",
     "Week 1-1788890643412.webp"
