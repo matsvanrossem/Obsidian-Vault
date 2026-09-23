@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ac541c8af7a38ed4","type":"text","text":"**Agenda for Today** \n**[LessonUp](https://www.lessonup.com/app/teach-v2/editor/DeDTjTtbgyGw6Y679/qYwniEfvmJLBzwWtj)**\n### *11:35* - We start with [\"Kurzgesagt\":](https://www.youtube.com/watch?v=c1nYtX-NUsc&list=PLFs4vir_WsTzcfD7ZE8uO3yX-GCKUk9xZ&index=53)\n### *12:00* - Reading Exercises Unit G Online *\"When teenagers realize their whole life is already online\"*\n### *12:20* - Homework <u>Vocabulary G</u> p.77","x":-412,"y":-243,"width":1135,"height":249,"color":"5"},
+		{"id":"38ca97cff071ab47","type":"text","text":"**Key words:**\n\tMemory, brain, neurons, connections, hippocampus, attention, learning, repetition, emotions, sleep, remembering, forgetting, experiences, identity.","x":-278,"y":-395,"width":714,"height":111,"color":"6"},
+		{"id":"cfada6dd88bea3c3","type":"text","text":"### Reading Exercises Unit G Online **40 t/m 44**","x":-171,"y":80,"width":501,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"6b0f1afcd2f6b91c","fromNode":"ac541c8af7a38ed4","fromSide":"right","toNode":"38ca97cff071ab47","toSide":"top","color":"6"},
+		{"id":"d64a6510d8537ba3","fromNode":"ac541c8af7a38ed4","fromSide":"bottom","toNode":"cfada6dd88bea3c3","toSide":"top"}
+	]
+}
