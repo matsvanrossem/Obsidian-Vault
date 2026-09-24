@@ -15,9 +15,32 @@
               "state": {
                 "file": "Lessen/VWO 2/Reading Comprehension 1.canvas",
                 "viewState": {
-                  "x": 26.268543906009253,
-                  "y": 51.586222534517105,
-                  "zoom": 0.9844454843800418
+                  "x": 78.5,
+                  "y": -139,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Reading Comprehension 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f027ec4863d22385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be23f6bbf44653f6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lessen/HAVO 3/Reading Comprehension 1.canvas",
+                "viewState": {
+                  "x": 155.5,
+                  "y": -127.5,
+                  "zoom": -0.592493148428887
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -115,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.4988021850586,
-    "collapsed": true
+    "width": 223.4988021850586
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -262,13 +284,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1370efaf61815583",
+  "active": "be23f6bbf44653f6",
   "lastOpenFiles": [
     "Lessen/VWO 2/Reading Comprehension 1.canvas",
-    "Lessen/HAVO 2/Reading Comprehension 1 1.canvas",
     "Lessen/VWO 3/Reading Comprehension.canvas",
-    "Untitled 1.md",
     "Lessen/HAVO 3/Reading Comprehension 1.canvas",
+    "Lessen/HAVO 2/Reading Comprehension 1 1.canvas",
+    "Untitled 1.md",
     "Lessen/HAVO 2",
     "Untitled.md",
     "media-lib/How Are Memories Stored Inside Your Brain_.md",
