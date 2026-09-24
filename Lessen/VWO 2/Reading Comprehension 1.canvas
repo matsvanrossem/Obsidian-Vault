@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ac541c8af7a38ed4","type":"text","text":"**Agenda for Today** \n**[LessonUp](https://www.lessonup.com/app/lesson-v2/DeDTjTtbgyGw6Y679/4guJqcPsTS9mudWnY)**\n### *09:45* - We start with [\"Kurzgesagt\":](https://www.youtube.com/watch?v=c1nYtX-NUsc&list=PLFs4vir_WsTzcfD7ZE8uO3yX-GCKUk9xZ&index=53)\n### *10:10* - Reading Exercises Unit G Online *\"The storm chaser\"*\n### *10:25* - Homework <u>Vocabulary G</u> p.78","x":-412,"y":-243,"width":981,"height":249,"color":"5"},
+		{"id":"cfada6dd88bea3c3","type":"text","text":"### Reading Exercises Unit G Online **41 t/m 45**","x":-171,"y":65,"width":501,"height":60,"color":"1"},
+		{"id":"38ca97cff071ab47","type":"text","text":"**Key words:**\n\t**humanity, survival, ancestor, society, progress, poverty, climate change, cooperation, future, improve, solve** and **doomscrolling**.","x":-278,"y":-403,"width":714,"height":111,"color":"6"}
+	],
+	"edges":[
+		{"id":"6b0f1afcd2f6b91c","fromNode":"ac541c8af7a38ed4","fromSide":"right","toNode":"38ca97cff071ab47","toSide":"top","color":"6"},
+		{"id":"d64a6510d8537ba3","fromNode":"ac541c8af7a38ed4","fromSide":"bottom","toNode":"cfada6dd88bea3c3","toSide":"top"}
+	]
+}

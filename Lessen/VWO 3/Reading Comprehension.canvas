@@ -1,10 +1,16 @@
 {
 	"nodes":[
+<<<<<<< HEAD
 		{"id":"ac541c8af7a38ed4","type":"text","text":"**Agenda for Today** \n**[LessonUp](https://www.lessonup.com/app/teach-v2/editor/DeDTjTtbgyGw6Y679/qYwniEfvmJLBzwWtj)**\n### *09:45* - We start with [\"Kurzgesagt\":](https://www.youtube.com/watch?v=PqtggjVAi8M)\n### *10:00* - Reading Exercises Unit G Online\n### *10:25* - Homework <u>Vocabulary G</u> p.77","x":-412,"y":-243,"width":981,"height":249,"color":"5"},
 		{"id":"38ca97cff071ab47","type":"text","text":"**Key words:**\n\tMemory, brain, neurons, connections, hippocampus, attention, learning, repetition, emotions, sleep, remembering, forgetting, experiences, identity.","x":1408,"y":-174,"width":714,"height":111,"color":"6"},
 		{"id":"cfada6dd88bea3c3","type":"text","text":"### Reading Exercises Unit G Online **42 t/m 46**","x":-235,"y":397,"width":501,"height":60,"color":"1"},
 		{"id":"1e1fc50c820fe986","x":20,"y":204,"width":250,"height":60,"type":"text","text":""},
 		{"id":"1ac8b5b212d78f3e","x":-206,"y":476,"width":452,"height":60,"color":"1","type":"text","text":"## Homework <u>Vocabulary G</u> p.77"}
+=======
+		{"id":"ac541c8af7a38ed4","type":"text","text":"**Agenda for Today** \n**[LessonUp](https://www.lessonup.com/app/teach-v2/editor/DeDTjTtbgyGw6Y679/qYwniEfvmJLBzwWtj)**\n### *10:50* - We start with [\"Kurzgesagt\":](https://www.youtube.com/watch?v=c1nYtX-NUsc&list=PLFs4vir_WsTzcfD7ZE8uO3yX-GCKUk9xZ&index=53)\n### *11:15* - Reading Exercises Unit G Online *\"Hostile sound design\"*\n### *11:35* - Homework <u>Vocabulary G</u> p.77","x":-412,"y":-243,"width":981,"height":249,"color":"5"},
+		{"id":"38ca97cff071ab47","type":"text","text":"**Key words:**\n\t**civilization, suffering, sustainable, resources, threat, behaviour** and **pessimistic**","x":-341,"y":-387,"width":714,"height":111,"color":"6"},
+		{"id":"cfada6dd88bea3c3","type":"text","text":"### Reading Exercises Unit G Online **42 t/m 46**","x":-234,"y":46,"width":501,"height":60,"color":"1"}
+>>>>>>> dbd34e0e40b809e2a8ebe42c25fcf20519333a42
 	],
 	"edges":[
 		{"id":"6b0f1afcd2f6b91c","fromNode":"ac541c8af7a38ed4","fromSide":"right","toNode":"38ca97cff071ab47","toSide":"top","color":"6"},
