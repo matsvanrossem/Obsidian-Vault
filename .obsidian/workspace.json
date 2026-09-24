@@ -13,56 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 2/Reading Comprehension 1 1.canvas",
+                "file": "Lessen/VWO 2/Reading Comprehension 1.canvas",
                 "viewState": {
-                  "x": 3.542896171162738,
-                  "y": -126.95915274307936,
-                  "zoom": 1
+                  "x": 60.35579386064859,
+                  "y": -40.49985191596912,
+                  "zoom": 0.8557070624415234
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Reading Comprehension 1 1"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8c963bfb954bdd4f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7db866426a9c9cfc",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "c1nYtX-NUsc",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=c1nYtX-NUsc"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "Tired of Doomscrolling?"
+              "title": "Reading Comprehension 1"
             }
           }
         ]
@@ -303,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db866426a9c9cfc",
+  "active": "1370efaf61815583",
   "lastOpenFiles": [
     "Lessen/HAVO 2/Reading Comprehension 1 1.canvas",
     "Lessen/VWO 2/Reading Comprehension 1.canvas",
