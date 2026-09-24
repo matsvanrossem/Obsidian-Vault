@@ -15,54 +15,13 @@
               "state": {
                 "file": "Lessen/HAVO 3/Reading Comprehension 1.canvas",
                 "viewState": {
-                  "x": 72.09603158666602,
-                  "y": -337.3337579961636,
-                  "zoom": 0.9970739336393892
+                  "x": 32.21312506093295,
+                  "y": 55.933898734563286,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Reading Comprehension 1"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2e84b2209eab651a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "523d4fc0bffdd836",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url",
-              "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "c1nYtX-NUsc",
-                        "t": null,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=c1nYtX-NUsc"
-                    },
-                    "hash": {}
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
-              },
-              "icon": "youtube",
-              "title": "Tired of Doomscrolling?"
             }
           }
         ]
@@ -303,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "523d4fc0bffdd836",
+  "active": "be23f6bbf44653f6",
   "lastOpenFiles": [
     "Lessen/HAVO 3/Reading Comprehension 1.canvas",
     "Lessen/VWO 3/Reading Comprehension.canvas",
