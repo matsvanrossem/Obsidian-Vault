@@ -15,13 +15,54 @@
               "state": {
                 "file": "Lessen/VWO 2/Reading Comprehension 1.canvas",
                 "viewState": {
-                  "x": 60.35579386064859,
-                  "y": -40.49985191596912,
+                  "x": 90.74848776748641,
+                  "y": -96.31188981761673,
                   "zoom": 0.8557070624415234
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Reading Comprehension 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "19c4f74600814e0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ad63025bdaf1319",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "c1nYtX-NUsc",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=c1nYtX-NUsc"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Tired of Doomscrolling?"
             }
           }
         ]
@@ -262,10 +303,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1370efaf61815583",
+  "active": "7ad63025bdaf1319",
   "lastOpenFiles": [
-    "Lessen/HAVO 2/Reading Comprehension 1 1.canvas",
     "Lessen/VWO 2/Reading Comprehension 1.canvas",
+    "Lessen/HAVO 2/Reading Comprehension 1 1.canvas",
     "Lessen/VWO 3/Reading Comprehension.canvas",
     "Untitled 1.md",
     "Lessen/HAVO 3/Reading Comprehension 1.canvas",
