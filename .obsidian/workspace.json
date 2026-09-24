@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f027ec4863d22385",
+        "id": "7170274f13abf079",
         "type": "tabs",
         "children": [
           {
-            "id": "be23f6bbf44653f6",
+            "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 3/Reading Comprehension 1.canvas",
+                "file": "Lessen/VWO 2/Reading Comprehension 1.canvas",
                 "viewState": {
-                  "x": 32.21312506093295,
-                  "y": 55.933898734563286,
-                  "zoom": 1
+                  "x": 78.5,
+                  "y": -137.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -36,7 +36,7 @@
       {
         "id": "f57aa0f80a313a5f",
         "type": "tabs",
-        "dimension": 77.75305895439377,
+        "dimension": 69.30320150659134,
         "children": [
           {
             "id": "2c02cc20cbb5c898",
@@ -75,7 +75,7 @@
       {
         "id": "3c89a40f5e8f8cb0",
         "type": "tabs",
-        "dimension": 22.246941045606228,
+        "dimension": 30.69679849340866,
         "children": [
           {
             "id": "cf464cead1538b54",
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "6d068e23f00485dd",
+            "id": "a214e35ff680ed07",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.4988021850586,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stage Logboek/Week 3.md",
+                "file": "Lesplannen/Lesplan Template 2 VWO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stage Logboek/Week 3.md",
+                "file": "Lesplannen/Lesplan Template 2 VWO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stage Logboek/Week 3.md",
+                "file": "Lesplannen/Lesplan Template 2 VWO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,8 +208,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -219,8 +218,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "fantasy-statblocks-creature-pane"
+              "icon": "skull",
+              "title": "Combatant"
             }
           },
           {
@@ -244,8 +243,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-custom-frames:Open LessonUp": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -259,55 +256,60 @@
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "be23f6bbf44653f6",
+  "active": "823a2161c3b86b67",
   "lastOpenFiles": [
-    "Lessen/HAVO 3/Reading Comprehension 1.canvas",
-    "Lessen/VWO 3/Reading Comprehension.canvas",
-    "Lessen/VWO 2/Reading Comprehension 1.canvas",
-    "Lessen/HAVO 2/Reading Comprehension 1 1.canvas",
-    "Untitled 1.md",
-    "Lessen/HAVO 2",
     "Untitled.md",
+    "Untitled 1.md",
+    "Lessen/HAVO 2/Reading Comprehension 1 1.canvas",
+    "Lessen/VWO 3/Reading Comprehension.canvas",
+    "Lessen/HAVO 3/Reading Comprehension 1.canvas",
+    "Lessen/VWO 2/Reading Comprehension 1.canvas",
+    "Lessen/HAVO 2",
     "media-lib/How Are Memories Stored Inside Your Brain_.md",
     "media-lib",
+    "Stage Logboek/Week 2.md",
+    "Documenten/Bijlages/Programma startdagen De Amersfoortse Berg 26-27.pdf",
+    "Colleges/Hoorcollege; Werkcollege pedagogiek.md",
+    "Documenten/Bijlages/De Berg.md",
+    "Documenten/Bijlages/Week 2-1788891239507.webp",
+    "Documenten/Sectievergaderingen.md",
+    "Documenten/Bijlages/Week 3-1789913087064.webp",
+    "Documenten/Bijlages/Week 2-1788964845760.webp",
+    "Colleges/Hoorcollege.md",
+    "Lessen/VWO 3/Reading Comprehension.md",
+    "Lessen/VWO 3/Lesplannnen/Lesplan 3 VWO Reading; Reading comprehension.md",
     "Lessen/VWO 3/Lesplannnen/Lesplan Template.md",
     "Lessen/VWO 2/Lesplannen/Lesplan 2 VWO Grammar; Past simple.md",
-    "Lessen/VWO 3/Lesplannnen/Lesplan 3 VWO Reading; Reading comprehension.md",
-    "Lessen/VWO 3/Lesplannnen/Lesplan 3 VWO Grammar; Compounds and Gerunds.md",
-    "Lessen/VWO 2/Lesplannen/Lesplan Template 1.md",
     "Lessen/HAVO 3/Lesplannen/Lesplan Template 3 HAVO.md",
     "Lessen/HAVO 3/Lesplannen/Lesplan Template 1.md",
-    "Lessen/VWO 3/Lesplannnen",
+    "Lessen/VWO 2/Lesplannen/Lesplan Template 1.md",
     "Lessen/VWO 2/Lesplannen",
     "Lessen/HAVO 3/Lesplannen",
+    "Lessen/VWO 3/Lesplannnen",
     "Myrthe.md",
-    "Lessen/VWO 3",
-    "Lessen/VWO 2",
-    "Lessen/HAVO 3",
-    "Lessen",
     "Schoolopdrachten/PedagogiekOpdrachten/Sociogramopdracht.md",
-    "Stage Logboek/Week 2.md",
-    "Colleges/Hoorcollege.md",
     "Schoolopdrachten/PedagogiekOpdrachten",
-    "Documenten/Bijlages/Week 3-1789913087064.webp",
-    "Documenten/Bijlages/Week 3-1789912355449.webp",
-    "Colleges/Hoorcollege; Werkcollege pedagogiek.md",
-    "Lesplannen/VWO 2/Lesplan 2 VWO Grammar; Past simple.md",
-    "Stage Logboek/Week 3.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Colleges",
     "Documenten/Stagebespreking.md",
-    "Lesplannen/VWO 3/Lesplan 3 VWO Grammar; Compounds and Gerunds.md",
-    "Lesplannen/Lesplan Template.md",
+    "Editor/Drawing 2026-09-08 17.49.46.excalidraw.md",
+    "Documenten/Externe Observaties.md",
+    "Documenten/Bijlages/Week 3-1789912355449.webp",
+    "Stage Logboek/Week 3.md",
     "Schoolopdrachten/Werkcollege Pedagogiek/Lesplan Werkcollege Pedagogiek;Pedagogische verantwoordelijkheid van de Docent.md",
-    "Documenten/Hoorcollege; Werkcollege pedagogiek.md",
-    "Documenten/Bijlages/Week 2-1788891239507.webp",
-    "Schoolopdrachten/Werkcollege Pedagogiek/Untitled.md",
+    "Lessen/VWO 3/Lesplannnen/Lesplan 3 VWO Grammar; Compounds and Gerunds.md",
+    "Schoolopdrachten/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
     "Untitled 2.md",
-    "Lesplannen/HAVO 3/Lesplan Template 3 HAVO.md",
-    "Documenten/Bijlages/Week 2-1788964845760.webp",
+    "Lesplannen/VWO 3/Lesplan 3 VWO Grammar; Compounds and Gerunds.docx",
+    "Schoolopdrachten/Werkcollege Pedagogiek/Untitled.md",
     "Lesplannen/Untitled.canvas",
+    "Stage Logboek/Bijlages/Week 2-1788891239507.webp",
     "Stage Logboek/Untitled.canvas",
     "Week 1-1788890643412.webp"
   ]
