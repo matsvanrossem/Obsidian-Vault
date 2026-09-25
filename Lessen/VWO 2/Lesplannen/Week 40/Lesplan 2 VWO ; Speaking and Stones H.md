@@ -8,17 +8,17 @@
 **Lesson:** H - Speaking & Stones  
 **Date:** __________
 
-| Element | Lesson preparation |
-| --- | --- |
-| **Lesson topic** | Talking about what you did on holiday and giving your opinion |
-| **Stepping Stones section/pages** | Lesson H, Stone 2, Stone 3, exercises 46-52 |
-| **Main skill** | Reading / Listening / **Speaking** / Writing / Grammar / Vocabulary |
-| **Lesson objective** | By the end of the lesson, students can talk about what they did on holiday and give an opinion about the holiday using expressions from Stone 2 and Stone 3. |
-| **Success criteria** | I can: 1. Describe past holiday activities. 2. Ask and answer questions about a holiday. 3. Give my opinion and support it with a reason. |
-| **Prior knowledge needed** | Past simple, holiday vocabulary and basic question forms. |
-| **Key vocabulary / grammar** | Stone 2 and Stone 3 expressions, past simple, opinion phrases, *because*. |
-| **Materials** | Stepping Stones coursebook/workbook, board/slides, speaking prompts if needed. |
-| **Homework** | **Study Stone 2 & 3.** |
+| Element                           | Lesson preparation                                                                                                                                           |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lesson topic**                  | Talking about what you did on holiday and giving your opinion                                                                                                |
+| **Stepping Stones section/pages** | Lesson H, Stone 2, Stone 3, exercises 46-52, p. 68-72                                                                                                        |
+| **Main skill**                    | Reading / Listening / **Speaking** / Writing / Grammar / Vocabulary                                                                                          |
+| **Lesson objective**              | By the end of the lesson, students can talk about what they did on holiday and give an opinion about the holiday using expressions from Stone 2 and Stone 3. |
+| **Success criteria**              | I can: 1. Describe past holiday activities. 2. Ask and answer questions about a holiday. 3. Give my opinion and support it with a reason.                    |
+| **Prior knowledge needed**        | Past simple, holiday vocabulary and basic question forms.                                                                                                    |
+| **Key vocabulary / grammar**      | Stone 2 and Stone 3 expressions, past simple, opinion phrases, *because*.                                                                                    |
+| **Materials**                     | Stepping Stones coursebook/workbook, board/slides, speaking prompts if needed.                                                                               |
+| **Homework**                      | **Study Stone 2 & 3.**                                                                                                                                       |
 
 ### Lesson sequence, 2 VWO
 
