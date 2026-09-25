@@ -1,24 +1,24 @@
 ## Lesson blueprint template: 2 VWO
 
 **Subject:** English  
-**Class:** 3 VWO  
+**Class:** 2 VWO  
 **Coursebook:** Stepping Stones  
-**Unit/Chapter:** __________  G
-**Lesson:** __________  3rd
+**Unit/Chapter:** Unit F Listening 
+**Lesson:** Listen to Holiday in Spain
 **Duration:** 45 minutes  
-**Date:** __________  23/09
+**Date:** 30 sept 2026
 **Teacher:** Mats van Rossem __________
 
-| Element                           | Lesson preparation                                                                              |
-| --------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **Lesson topic**                  | __Reading Comprehension________________________________________                                 |
-| **Stepping Stones section/pages** | Coursebook: ______ Workbook: ______ Online: ______                                              |
-| **Main skill**                    | **Reading** / Listening / Speaking / Writing / Grammar / Vocabulary                             |
-| **Lesson objective**              | By the end of the lesson, students can __________________________________________.              |
-| **Success criteria**              | I can: 1. __________ 2. __________ 3. __________                                                |
-| **Prior knowledge needed**        | __________________________________________                                                      |
-| **Key vocabulary / grammar**      | __________________________________________                                                      |
-| **Materials**                     | Stepping Stones coursebook, workbook, board/slides, laptop, audio/video, mini-whiteboards, etc. |
+| Element                           | Lesson preparation                                                                                                                       |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lesson topic**                  | Listening to holiday stories                                                                                                             |
+| **Stepping Stones section/pages** | Coursebook: F______ Workbook:F p62-63______ Online: F______                                                                              |
+| **Main skill**                    | Reading / **Listening** / Speaking / Writing / Grammar / Vocabulary                                                                      |
+| **Lesson objective**              | By the end of the lesson, students can understand eachother when talking about their holiday __________________________________________. |
+| **Success criteria**              | I can: 1. Discribe past events 2. Keep the conversation going __________ 3. Ask followup questions__________                             |
+| **Prior knowledge needed**        | __Application of the past tense in questions and descriptions________________________________________                                    |
+| **Key vocabulary / grammar**      | __Past simple________________________________________                                                                                    |
+| **Materials**                     | Stepping Stones coursebook, workbook, board/slides, laptop, audio/video,                                                                 |
 
 ### Lesson sequence, 2 VWO
 
@@ -34,20 +34,3 @@
 | 35-45 min | **Independent practice**        | Students practise independently. Provide extended instruction to students who need it.              | Complete Stepping Stones tasks independently.                    | Workbook/coursebook/online task.                                  |
 | 45 min    | **Lesson closure**              | Return to the lesson objective. Ask students what they learned.                                     | Demonstrate whether they have achieved the objective.            | One final question based on the lesson.                           |
 | 45 min    | **Exit ticket/homework**        | Give a short exit question and explain homework.                                                    | Complete exit ticket and note homework.                          | Homework: __________                                              |
-**Homework**
-	*3V: 42 t/m 46*
-	*3H: 40 t/m 44*
-	*2HV: 41 t/m 45*
-	  **Huiswerk voor allen is: Vocabulary G leren**
-
-Start with 
-https://www.youtube.com/watch?v=PqtggjVAi8M
-
-  
-
-
-
-
-
-  
-
