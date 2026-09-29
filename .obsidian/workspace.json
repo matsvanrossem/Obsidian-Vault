@@ -11,17 +11,14 @@
             "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lessen/VWO 2/Dia's en materiaal/Week 40/Untitled.canvas",
-                "viewState": {
-                  "x": 436.32733154296875,
-                  "y": 388.8655471801758,
-                  "zoom": 0
-                }
+                "file": "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Lesplan 2 VWO ; Reading and TestPlanner"
             }
           }
         ]
@@ -115,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 973.6938438415527
+    "width": 468.03637313842773
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -263,8 +260,12 @@
   },
   "active": "823a2161c3b86b67",
   "lastOpenFiles": [
+    "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
+    "Lessen/VWO 2/Dia's en materiaal/Week 40/30 Sept 2026.canvas",
+    "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
+    "Lessen/VWO 2/Dia's en materiaal/Week 40/1 Oct 2026.canvas",
+    "Documenten/Bijlages/Planner  Year 2 Theme 1.pdf",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
-    "Lessen/VWO 2/Dia's en materiaal/Week 40/Untitled.canvas",
     "Lessen/VWO 2/Dia's en materiaal/Week 41",
     "Lessen/VWO 2/Dia's en materiaal/Week 40",
     "Lessen/VWO 2/Dia's en materiaal",
@@ -272,7 +273,6 @@
     "Lessen/VWO 2/Lesplannen/Week 40/Week%2040%20-%20Reading%20lesson%20revised.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
-    "Documenten/Bijlages/Planner  Year 2 Theme 1.pdf",
     "Untitled.md",
     "Untitled 2.md",
     "Documenten/Bijlages/Planner Year 3 Theme 2.pdf",
@@ -293,7 +293,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
     "Lessen/HAVO 3/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
     "Lessen/HAVO 3/Lesplannen/Week 44",
     "Lessen/HAVO 3/Lesplannen/Lesplan Template.md",
     "Lessen/VWO 2/Reading Comprehension 1.canvas",
