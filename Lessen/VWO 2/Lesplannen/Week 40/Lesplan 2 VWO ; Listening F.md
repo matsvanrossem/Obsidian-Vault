@@ -40,3 +40,4 @@
 - **Read the questions first:** Read the questions and answer options before you start so you know what information to listen for.
 - **Predict the topic:** Look at the title, pictures or introduction and think about which English words may appear.
 - **Recognise the purpose:** Ask yourself what kind of spoken text it is and what its purpose is.
+
