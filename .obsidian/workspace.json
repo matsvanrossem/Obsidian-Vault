@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/VWO 2/Dia's en materiaal/Week 40/30 Sept 2026.canvas",
+                "file": "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
                 "viewState": {
-                  "x": 223.70464861722337,
-                  "y": 506.6289784092515,
-                  "zoom": 0.6401405935978314
+                  "x": 271.0654255319149,
+                  "y": -48.673213847406316,
+                  "zoom": -0.17537170934037802
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "30 Sept 2026"
+              "title": "PLattegrond"
             }
           }
         ],
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -279,14 +278,17 @@
   },
   "active": "4bf4c396ec25c7b1",
   "lastOpenFiles": [
+    "Documenten/Bijlages/Pasted image 20260930110648.png",
+    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
+    "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
+    "Lessen/VWO 2/Dia's en materiaal/Week 40/30 Sept 2026.canvas",
     "Untitled.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
-    "Lessen/VWO 2/Dia's en materiaal/Week 40/30 Sept 2026.canvas",
     "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
     "Lessen/VWO 2/Dia's en materiaal/Week 40/1 Oct 2026.canvas",
     "Lessen/VWO 2/Dia's en materiaal/Week 40",
     "Lessen/VWO 2/Dia's en materiaal",
-    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
     "Documenten/Bijlages/Planner Year 3 Theme 2.pdf",
     "Lessen/VWO 2/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
     "Schoolopdrachten/Handelingsopdracht; Leerganganalyse.md",
@@ -295,7 +297,6 @@
     "Planner Year 3 Theme 2.pdf",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
     "Documenten/Bijlages/Planner  Year 2 Theme 1.pdf",
-    "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
     "media-lib/How Are Memories Stored Inside Your Brain_.md",
     "Lessen/HAVO 3/Lesplannen/Lesplan Template 3 HAVO.md",
     "Lessen/HAVO 3/Lesplannen/Lesplan Template 1.md",
@@ -317,7 +318,6 @@
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
-    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO  Listening F.md",
     "Lessen/HAVO 3/Reading Comprehension 1.canvas",
     "Lessen/VWO 2/Reading Comprehension 1.canvas",
     "Documenten/Bijlages/Week 3-1789913087064.webp",
