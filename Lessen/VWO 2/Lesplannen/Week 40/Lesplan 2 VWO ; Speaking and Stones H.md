@@ -22,18 +22,18 @@
 
 ### Lesson sequence, 2 VWO
 
-| Time | EDI phase | Teacher actions | Student actions | Stepping Stones |
-| --- | --- | --- | --- | --- |
-| 0-3 min | **Lesson start** | Welcome students and display today's objective. | Prepare materials and read the objective. | Lesson H visible on the board. |
-| 3-7 min | **Activate prior knowledge** | Ask quick questions such as “Where did you go?”, “What did you do?” and “Did you enjoy it?” Review past simple forms. | Answer short questions and recall the past simple. | Link to holiday vocabulary. |
-| 7-12 min | **Lesson objective** | Explain that students will practise describing a holiday and giving opinions. Model a short two-person conversation. | Listen and identify useful expressions. | Introduction to Stone 2 and Stone 3. |
-| 12-17 min | **Instruction: concept** | Read Stone 2 with the class. Check meaning and pronunciation. | Read Stone 2 aloud and practise key phrases. | Read Stone 2: Talking about what you did on holiday. |
-| 17-23 min | **Guided practice** | Work through ex. 46/47 and model complete answers and follow-up questions. | Complete ex. 46/47 and practise with a partner. | Do ex. 46/47. |
-| 23-28 min | **Instruction: skill/modeling** | Read Stone 3 with the class. Model how to give an opinion and add a reason using *because*. | Read Stone 3 and practise opinion phrases. | Read Stone 3: Giving your opinion about the holiday. |
-| 28-37 min | **Independent practice** | Set ex. 48-52. Circulate and give feedback on accuracy, pronunciation and complete answers. | Complete ex. 48/49/50/51/52 and practise speaking in pairs. | Do ex. 48/49/50/51/52. |
-| 37-41 min | **Check for understanding** | Ask several pairs to perform a short conversation. Check for an activity, a follow-up question and an opinion with a reason. | Perform or listen and identify the required elements. | Speaking check. |
-| 41-44 min | **Lesson closure** | Ask students to name one phrase for describing an activity and one for giving an opinion. | Give examples and reflect on their speaking. | Review Stone 2 and Stone 3. |
-| 44-45 min | **Exit ticket/homework** | Ask students to complete: “On holiday I..., and I thought it was... because...” Remind them of the homework. | Complete the sentence and write down homework. | **Homework: Study Stone 2 & 3.** |
+| Time      | EDI phase                       | Teacher actions                                                                                                              | Student actions                                             | Stepping Stones                                      |
+| --------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
+| 0-3 min   | **Lesson start**                | Welcome students and display today's objective.                                                                              | Prepare materials and read the objective.                   | Lesson H visible on the board.                       |
+| 3-7 min   | **Activate prior knowledge**    | Ask quick questions such as “Where did you go?”, “What did you do?” and “Did you enjoy it?” Review past simple forms.        | Answer short questions and recall the past simple.          | Link to holiday vocabulary.                          |
+| 7-12 min  | **Lesson objective**            | Explain that students will practise describing a holiday and giving opinions. Model a short two-person conversation.         | Listen and identify useful expressions.                     | Introduction to Stone 2 and Stone 3.                 |
+| 12-17 min | **Instruction: concept**        | Read Stone 2 with the class. Check meaning and pronunciation.                                                                | Read Stone 2 aloud and practise key phrases.                | Read Stone 2: Talking about what you did on holiday. |
+| 17-23 min | **Guided practice**             | Work through ex. 46/47 and model complete answers and follow-up questions.                                                   | Complete ex. 46/47 and practise with a partner.             | Do ex. 46/47.                                        |
+| 23-28 min | **Instruction: skill/modeling** | Read Stone 3 with the class. Model how to give an opinion and add a reason using *because*.                                  | Read Stone 3 and practise opinion phrases.                  | Read Stone 3: Giving your opinion about the holiday. |
+| 28-37 min | **Independent practice**        | Set ex. 48-52. Circulate and give feedback on accuracy, pronunciation and complete answers.                                  | Complete ex. 48/49/50/51/52 and practise speaking in pairs. | Do ex. 48/49/50/51/52.                               |
+| 37-41 min | **Check for understanding**     | Ask several pairs to perform a short conversation. Check for an activity, a follow-up question and an opinion with a reason. | Perform or listen and identify the required elements.       | Speaking check.                                      |
+| 41-44 min | **Lesson closure**              | Ask students to name one phrase for describing an activity and one for giving an opinion.                                    | Give examples and reflect on their speaking.                | Review Stone 2 and Stone 3.                          |
+| 44-45 min | **Exit ticket/homework**        | Ask students to complete: “On holiday I..., and I thought it was... because...” Remind them of the homework.                 | Complete the sentence and write down homework.              | **Homework: Study Stone 2 & 3.**                     |
 
 ### Strategies for Speaking
 - **Use complete sentences:** Give more than a one-word answer.
