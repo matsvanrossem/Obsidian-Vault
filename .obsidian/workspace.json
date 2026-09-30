@@ -29,9 +29,9 @@
               "state": {
                 "file": "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
                 "viewState": {
-                  "x": 271.0654255319149,
-                  "y": -48.673213847406316,
-                  "zoom": -0.17537170934037802
+                  "x": 413.00123382000334,
+                  "y": -144.25957018382667,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -279,8 +280,8 @@
   "active": "4bf4c396ec25c7b1",
   "lastOpenFiles": [
     "Documenten/Bijlages/Pasted image 20260930110648.png",
-    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
     "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
     "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
     "Lessen/VWO 2/Dia's en materiaal/Week 40/30 Sept 2026.canvas",
     "Untitled.md",
