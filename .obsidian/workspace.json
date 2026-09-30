@@ -11,14 +11,17 @@
             "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessen/HAVO 3/Dias en Materiaal/Grammar Recap.canvas",
+                "viewState": {
+                  "x": 506,
+                  "y": 122.75,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lesplan 2 VWO ; Speaking and Stones H"
+              "icon": "lucide-layout-dashboard",
+              "title": "Grammar Recap"
             }
           }
         ]
@@ -260,8 +263,9 @@
   },
   "active": "823a2161c3b86b67",
   "lastOpenFiles": [
+    "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
-    "Lessen/HAVO 3/Dias en Materiaal/Untitled.canvas",
+    "Lessen/HAVO 3/Dias en Materiaal/Grammar Recap.canvas",
     "Documenten/Bijlages/3H planner Theme 1 - The World around you.pdf",
     "Lessen/HAVO 3/Dias en Materiaal",
     "Documenten/Bijlages/Planner Year 3 Theme 2.pdf",
@@ -297,7 +301,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/HAVO 3/Lesplannen/Week 44/Tests.md",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
     "Lessen/HAVO 3/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
     "Lessen/HAVO 3/Lesplannen/Lesplan Template.md",

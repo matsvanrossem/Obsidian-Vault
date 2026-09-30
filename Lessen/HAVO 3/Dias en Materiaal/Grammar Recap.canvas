@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"71e9fa10fd245598","type":"text","text":"## 1. Compounds with _some-, any-, every-, no-_\n\nThese combine with:\n\n||**-thing (things)**|**-body / -one (people)**|**-where (places)**|\n|---|---|---|---|\n|**some-**|something|somebody / someone|somewhere|\n|**any-**|anything|anybody / anyone|anywhere|\n|**every-**|everything|everybody / everyone|everywhere|\n|**no-**|nothing|nobody / no one|nowhere|","x":-725,"y":-162,"width":1038,"height":346,"color":"4"},
+		{"id":"d0bd9a82a631e284","type":"text","text":"## 3. Questions and negations in the past and present\n\nThe page gives two rules:\n\n### Rule 1: _to be_ and auxiliary verbs\n\nFor forms with **to be** or an auxiliary verb, questions and negatives are formed with that verb.\n\n\n### Rule 2: other main verbs\n\nFor other main verbs, use an auxiliary verb to make questions and negatives.","x":-725,"y":685,"width":1038,"height":396,"color":"5"},
+		{"id":"21dd0fa0952b5a52","type":"text","text":"## 2. Gerunds and _to + infinitive_\n\n### Gerund\n\n**gerund = verb + -ing**\n\nA gerund is a verb used as a noun.\n\nIt can be used after verbs such as:\n\n- _(dis)like_\n- _love_\n- _miss_\n- _avoid_\n\nExamples:\n\n- _Dreaming about summer can be wonderful._\n- _I love driving along the coast._\n- _We miss running in the park._\n\n### _to + infinitive_\n\nUse **to + infinitive** after:\n\n- verbs such as _hope, ask, refuse, expect_\n- adjectives that express an opinion\n- the object of a sentence","x":699,"y":-162,"width":664,"height":793,"color":"2"}
+	],
+	"edges":[
+		{"id":"7bc72c2a049007f1","fromNode":"71e9fa10fd245598","fromSide":"right","toNode":"21dd0fa0952b5a52","toSide":"left"},
+		{"id":"1d60d747207e16d1","fromNode":"21dd0fa0952b5a52","fromSide":"bottom","toNode":"d0bd9a82a631e284","toSide":"right"}
+	]
+}
