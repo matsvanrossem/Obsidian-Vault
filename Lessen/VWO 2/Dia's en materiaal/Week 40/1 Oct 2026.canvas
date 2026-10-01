@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"da84af66feb049c5","type":"text","text":"\n## **09:50** -\tBlooket \n## **09:55** -\tSpeaking  Lesson H, Stone 2, Stone 3,\n## **10:15** - exercises 46-52, p. 68-72\n\n## **10:27** -\tWrap-up and homework reminder","x":-125,"y":-30,"width":649,"height":387,"color":"4"},
+		{"id":"da84af66feb049c5","type":"text","text":"\n## **09:50** -\tBlooket \n## **09:55** -\tSpeaking  Lesson H, Stone 2, Stone 3,\n## **10:15** - exercises 46-52, p. 68-72\n\n## **10:27** -\tWrap-up and homework reminder","x":-125,"y":-30,"width":649,"height":212,"color":"4"},
 		{"id":"573a53e07c08edfe","type":"text","text":"# **Today's Class**","x":86,"y":-108,"width":218,"height":60,"color":"2"},
-		{"id":"afa2324187661bc0","x":-125,"y":390,"width":649,"height":110,"color":"1","type":"text","text":"**By the end of the lesson, students can talk about what they did on holiday and give an opinion about the holiday using expressions from Stone 2 and Stone 3.**"}
+		{"id":"afa2324187661bc0","type":"text","text":"**By the end of the lesson, students can talk about what they did on holiday and give an opinion about the holiday using expressions from Stone 2 and Stone 3.**","x":-125,"y":232,"width":649,"height":110,"color":"1"}
 	],
 	"edges":[]
 }
