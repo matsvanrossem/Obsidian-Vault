@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
+                "file": "Lessen/VWO 2/Dia's en materiaal/Week 40/1 Oct 2026.canvas",
                 "viewState": {
-                  "x": 374.35176403576844,
-                  "y": -131.1276333480177,
-                  "zoom": -0.15560470796435716
+                  "x": 188.25,
+                  "y": 24374.453125,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "PLattegrond"
+              "title": "1 Oct 2026"
             }
           }
         ],
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -279,10 +278,10 @@
   },
   "active": "4bf4c396ec25c7b1",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
     "Lessen/VWO 2/Dia's en materiaal/Week 40/1 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
     "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
-    "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
     "Lessen/HAVO 3/Dias en Materiaal/Grammar Recap.canvas",
     "Lessen/HAVO 3/Dias en Materiaal",
     "Documenten/Bijlages/3H planner Theme 1 - The World around you.pdf",
