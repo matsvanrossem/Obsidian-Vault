@@ -1,7 +1,17 @@
 {
 	"nodes":[
-		{"id":"da84af66feb049c5","type":"text","text":"\n## **09:50** -\tWord of the Week, Classroom\n## **09:55** -\tIndependent reading\n## **10:15** - *Chapter 1 test* , week after autumn holiday\n## **10:20** -\tTest preparation: irregular verbs 1-29\n## **10:27** -\tWrap-up and homework reminder","x":-125,"y":-30,"width":649,"height":387,"color":"4"},
-		{"id":"573a53e07c08edfe","x":86,"y":-108,"width":218,"height":60,"color":"2","type":"text","text":"# **Today's Class**"}
+		{"id":"da84af66feb049c5","type":"text","text":"\n## **08:15** -\tWords F overview\n## **08:25** -\tPractice 37 Together\n## **08:35** - Make The Lesson F Exercises\n## **08:50** - Questionaire\n## **08:57** -\tWrap up and homework ","x":-125,"y":-30,"width":649,"height":292,"color":"4"},
+		{"id":"573a53e07c08edfe","type":"text","text":"# **Today's Class**","x":86,"y":-108,"width":218,"height":60,"color":"2"},
+		{"id":"d4413463d5095026","type":"text","text":"## *Lesson F exercises 36-39*","x":-125,"y":290,"width":353,"height":50},
+		{"id":"0607cb68c6521a63","type":"text","text":"- **Read the questions first:** Read the questions and answer options before you start so you know what information to listen for.\n- **Predict the topic:** Look at the title, pictures or introduction and think about which English words may appear.\n- **Recognise the purpose:** Ask yourself what kind of spoken text it is and what its purpose is.","x":-125,"y":366,"width":845,"height":175},
+		{"id":"125583faf472e17d","type":"text","text":"**By the end of the lesson, students can understand the main idea and important details in a spoken text about a holiday and use listening strategies to find information.**","x":940,"y":66,"width":853,"height":101,"color":"1"},
+		{"id":"c6b706cc76c9501b","type":"text","text":"I can: \n1. Predict what I am going to hear. \n2. Listen for the main idea and key details. \n3. Answer questions about *Holiday in Spain* using information from the audio.","x":940,"y":192,"width":787,"height":164,"color":"1"},
+		{"id":"5653c9c726347750","type":"text","text":"**Homework :Study Words F p.79 **","x":-115,"y":741,"width":290,"height":60,"color":"1"},
+		{"id":"e5cb8adfbfa61e2e","type":"file","file":"Documenten/Bijlages/Pasted image 20261001211715.png","x":-115,"y":948,"width":967,"height":415},
+		{"id":"4e8edca9e9707ff5","x":349,"y":741,"width":371,"height":89,"type":"text","text":"*Chapter 1 test* , 29th of October, the week after autumn holiday"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"93492a059b177eb3","fromNode":"da84af66feb049c5","fromSide":"right","toNode":"125583faf472e17d","toSide":"left"},
+		{"id":"ba91b33dce611c15","fromNode":"5653c9c726347750","fromSide":"right","toNode":"e5cb8adfbfa61e2e","toSide":"top","color":"1"}
+	]
 }
