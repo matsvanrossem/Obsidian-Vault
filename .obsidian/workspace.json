@@ -27,9 +27,9 @@
               "state": {
                 "file": "Lessen/HAVO 3/Dias en Materiaal/Grammar Recap.canvas",
                 "viewState": {
-                  "x": 529.2105914479159,
-                  "y": 204.11335992100211,
-                  "zoom": 0.255363132893017
+                  "x": 1606.0403455071275,
+                  "y": 302.7111757215728,
+                  "zoom": -0.3492647592169636
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -276,17 +277,18 @@
   },
   "active": "4bf4c396ec25c7b1",
   "lastOpenFiles": [
+    "Lessen/HAVO 3/Dias en Materiaal/1 Oct 2026.canvas",
+    "Lessen/VWO 2/Dia's en materiaal/Week 40/1 Oct 2026.canvas",
+    "Lessen/HAVO 3/Dias en Materiaal/Grammar Recap.canvas",
     "Pasted image 20261001111847.png",
     "Documenten/Bijlages/Planner Year 3 Theme 2.pdf",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
-    "Lessen/HAVO 3/Dias en Materiaal/Grammar Recap.canvas",
     "Documenten/Bijlages/Pasted image 20261001111654.png",
     "Documenten/Bijlages/3H planner Theme 1 - The World around you.pdf",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
     "Documenten/Bijlages/Planner  Year 2 Theme 1.pdf",
     "Documenten/Bijlages/Week 2-1788891239507.webp",
     "Documenten/Bijlages/Week 3-1789912355449.webp",
-    "Lessen/VWO 2/Dia's en materiaal/Week 40/1 Oct 2026.canvas",
     "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
     "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
     "Lessen/HAVO 3/Dias en Materiaal",

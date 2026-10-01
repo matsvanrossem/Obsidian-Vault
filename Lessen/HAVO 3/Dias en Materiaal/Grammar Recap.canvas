@@ -1,11 +1,12 @@
 {
 	"nodes":[
+		{"id":"1610dedc46383e5b","x":-989,"y":90,"width":250,"height":60,"type":"text","text":""},
 		{"id":"71e9fa10fd245598","type":"text","text":"## 1. Compounds with _some-, any-, every-, no-_\n\nThese combine with:\n\n||**-thing (things)**|**-body / -one (people)**|**-where (places)**|\n|---|---|---|---|\n|**some-**|something|somebody / someone|somewhere|\n|**any-**|anything|anybody / anyone|anywhere|\n|**every-**|everything|everybody / everyone|everywhere|\n|**no-**|nothing|nobody / no one|nowhere|","x":-725,"y":-162,"width":1038,"height":346,"color":"4"},
 		{"id":"d0bd9a82a631e284","type":"text","text":"## 3. Questions and negations in the past and present\n\n\n### Rule 1: _to be_ and auxiliary verbs\n\nFor forms with **to be** or an auxiliary verb, questions and negatives are formed with that verb.\n\n\n### Rule 2: other main verbs\n\nFor other main verbs, use an auxiliary verb to make questions and negatives.","x":-725,"y":685,"width":1038,"height":396,"color":"5"},
 		{"id":"21dd0fa0952b5a52","type":"text","text":"## 2. Gerunds and _to + infinitive_\n\n### Gerund\n\n**gerund = verb + -ing**\n\nA gerund is a verb used as a noun.\n\nIt can be used after verbs such as:\n\n- _(dis)like_\n- _love_\n- _miss_\n- _avoid_\n\nExamples:\n\n- _Dreaming about summer can be wonderful._\n- _I love driving along the coast._\n- _We miss running in the park._\n\n### _to + infinitive_\n\nUse **to + infinitive** after:\n\n- verbs such as _hope, ask, refuse, expect_\n- adjectives that express an opinion\n- the object of a sentence","x":699,"y":-162,"width":664,"height":793,"color":"2"},
 		{"id":"90595f09a1102e06","type":"file","file":"Documenten/Bijlages/Pasted image 20261001111610.png","x":-599,"y":-723,"width":280,"height":400},
-		{"id":"244ffcf5e24863f7","type":"file","file":"Documenten/Bijlages/Pasted image 20261001111654.png","x":-206,"y":-723,"width":566,"height":400},
-		{"id":"18e1fe52232d0f89","x":-725,"y":1140,"width":931,"height":402,"color":"5","type":"file","file":"Pasted image 20261001111847.png"}
+		{"id":"18e1fe52232d0f89","type":"file","file":"Pasted image 20261001111847.png","x":-725,"y":1140,"width":931,"height":402,"color":"5"},
+		{"id":"244ffcf5e24863f7","type":"file","file":"Documenten/Bijlages/Pasted image 20261001111654.png","x":-319,"y":-723,"width":566,"height":400}
 	],
 	"edges":[
 		{"id":"7bc72c2a049007f1","fromNode":"71e9fa10fd245598","fromSide":"right","toNode":"21dd0fa0952b5a52","toSide":"left"},
