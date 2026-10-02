@@ -6,6 +6,7 @@
       {
         "id": "f027ec4863d22385",
         "type": "tabs",
+        "dimension": 87.02983138780804,
         "children": [
           {
             "id": "be23f6bbf44653f6",
@@ -20,23 +21,6 @@
             }
           },
           {
-            "id": "4bf4c396ec25c7b1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
-                "viewState": {
-                  "x": 305.9973321226005,
-                  "y": 244.77568416227,
-                  "zoom": 0.8108290810849674
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "1 Oct 2026"
-            }
-          },
-          {
             "id": "6233a6612e861b3e",
             "type": "leaf",
             "state": {
@@ -44,9 +28,9 @@
               "state": {
                 "file": "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/1 Oct 2026.canvas",
                 "viewState": {
-                  "x": 439.5,
-                  "y": 214,
-                  "zoom": 0
+                  "x": 1762.3168703217211,
+                  "y": 1294.354857906894,
+                  "zoom": -1.0000000000000002
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -54,7 +38,28 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "a394344be6857088",
+        "type": "tabs",
+        "dimension": 12.97016861219196,
+        "children": [
+          {
+            "id": "0042006441fff9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,10 +298,11 @@
   },
   "active": "6233a6612e861b3e",
   "lastOpenFiles": [
-    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/Grammar Recap.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/1 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/Grammar Recap.canvas",
     "Documenten/Bijlages/3H planner Theme 1 - The World around you.pdf",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/2 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/PLattegrond.canvas",
@@ -305,7 +311,6 @@
     "Documenten/Bijlages/Pasted image 20261001111847.png",
     "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
     "Documenten/Bijlages/2 Oct 2026-1790882224469.webp",
-    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/1 Oct 2026.canvas",
     "Pasted image 20261001111847.png",
     "Documenten/Bijlages/Planner Year 3 Theme 2.pdf",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
