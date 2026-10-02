@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d2cdae4477c5c893","x":582,"y":-59,"width":250,"height":60,"type":"text","text":""},
+		{"id":"da84af66feb049c5","type":"text","text":"\n## **09:50** -\tBlooket \n## **09:55** -\tSpeaking  Lesson H, Stone 2, Stone 3,\n## **10:15** - exercises 46-52, p. 68-72\n\n## **10:27** -\tWrap-up and homework reminder","x":-125,"y":-30,"width":649,"height":212,"color":"4"},
+		{"id":"afa2324187661bc0","type":"text","text":"**By the end of the lesson, students can talk about what they did on holiday and give an opinion about the holiday using expressions from Stone 2 and Stone 3.**","x":-125,"y":232,"width":649,"height":110,"color":"1"},
+		{"id":"573a53e07c08edfe","type":"text","text":"# **Today's Class: Gerunds and To + Infinitive**","x":-103,"y":-110,"width":606,"height":60,"color":"2"}
+	],
+	"edges":[]
+}
