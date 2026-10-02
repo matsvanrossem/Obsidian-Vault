@@ -44,9 +44,9 @@
               "state": {
                 "file": "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
                 "viewState": {
-                  "x": 834,
-                  "y": 627.5,
-                  "zoom": -0.7835681084397655
+                  "x": 17.57195265303062,
+                  "y": 348.88570161565076,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 338.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -293,6 +294,8 @@
   },
   "active": "6233a6612e861b3e",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
+    "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
     "Untitled 1.md",
     "Lessen/HAVO 3/Dias en Materiaal/1 Oct 2026.canvas",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
@@ -310,8 +313,6 @@
     "Documenten/Bijlages/Planner  Year 2 Theme 1.pdf",
     "Documenten/Bijlages/Week 2-1788891239507.webp",
     "Documenten/Bijlages/Week 3-1789912355449.webp",
-    "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
-    "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
     "Lessen/HAVO 3/Dias en Materiaal",
     "Documenten/Bijlages/Pasted image 20260930110648.png",
     "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
@@ -344,7 +345,6 @@
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
-    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
     "Lessen/HAVO 3/Reading Comprehension 1.canvas",
     "Lessen/VWO 2/Reading Comprehension 1.canvas",
     "Lessen/VWO 3/Reading Comprehension.canvas",
