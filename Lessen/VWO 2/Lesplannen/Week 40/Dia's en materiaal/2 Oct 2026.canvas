@@ -8,7 +8,7 @@
 		{"id":"c6b706cc76c9501b","type":"text","text":"I can: \n1. Predict what I am going to hear. \n2. Listen for the main idea and key details. \n3. Answer questions about *Holiday in Spain* using information from the audio.","x":940,"y":192,"width":787,"height":164,"color":"1"},
 		{"id":"5653c9c726347750","type":"text","text":"**Homework :Study Words F p.79 **","x":-115,"y":741,"width":290,"height":60,"color":"1"},
 		{"id":"e5cb8adfbfa61e2e","type":"file","file":"Documenten/Bijlages/Pasted image 20261001211715.png","x":-115,"y":948,"width":967,"height":415},
-		{"id":"4e8edca9e9707ff5","x":349,"y":741,"width":371,"height":89,"type":"text","text":"*Chapter 1 test* , 29th of October, the week after autumn holiday"}
+		{"id":"4e8edca9e9707ff5","type":"text","text":"*Chapter 1 test* , 29th of October, the week after autumn holiday","x":349,"y":741,"width":371,"height":89}
 	],
 	"edges":[
 		{"id":"93492a059b177eb3","fromNode":"da84af66feb049c5","fromSide":"right","toNode":"125583faf472e17d","toSide":"left"},

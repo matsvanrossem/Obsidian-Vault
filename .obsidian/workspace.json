@@ -11,17 +11,14 @@
             "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
-                "viewState": {
-                  "x": 363.3959826337432,
-                  "y": 220.8362703098079,
-                  "zoom": -0.18589424147381706
-                }
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2 Oct 2026"
+              "icon": "lucide-file",
+              "title": "Untitled 2"
             }
           }
         ]
@@ -283,9 +280,20 @@
   },
   "active": "823a2161c3b86b67",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/30 Sept 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/PLattegrond.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/2 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/1 Oct 2026 1.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal",
+    "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
+    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/Grammar Recap.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal",
     "Untitled 1.md",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
-    "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
     "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
     "Documenten/Bijlages/2 Oct 2026-1790882224469.webp",
@@ -299,7 +307,6 @@
     "Lessen/HAVO 3/Dias en Materiaal/1 Oct 2026.canvas",
     "Documenten/Bijlages/Pasted image 20261001111654.png",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
-    "Lessen/HAVO 3/Dias en Materiaal/Grammar Recap.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
     "Lessen/HAVO 3/Dias en Materiaal",
@@ -309,21 +316,16 @@
     "Documenten/Bijlages/De Berg.md",
     "Documenten/Bijlages/Week 2-1788891239507.webp",
     "Colleges/Hoorcollege; Werkcollege pedagogiek.md",
-    "Lessen/VWO 2/Dia's en materiaal/PLattegrond.canvas",
-    "Lessen/VWO 2/Dia's en materiaal/Week 40/30 Sept 2026.canvas",
     "Lessen/VWO 2/Dia's en materiaal/Week 41",
     "Lessen/VWO 2/Dia's en materiaal/Week 40",
     "Lessen/VWO 2/Dia's en materiaal",
     "Lessen/VWO 2/Lesplannen/Week 40/Week%2040%20-%20Reading%20lesson%20revised.md",
     "Untitled.md",
-    "Untitled 2.md",
     "Lessen/VWO 2/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
-    "Lessen/VWO 2/Lesplannen/Week 44",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
-    "Lessen/VWO 2/Lesplannen/Week 41",
     "Lessen/VWO 2/Lesplannen/Lesplan Template.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
@@ -331,11 +333,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 44/Tests.md",
     "Lessen/HAVO 3/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
-    "Lessen/HAVO 3/Lesplannen/Lesplan Template.md",
-    "Lessen/VWO 2/Reading Comprehension 1.canvas",
-    "Lessen/HAVO 2/Reading Comprehension 1 1.canvas",
-    "Lessen/VWO 3/Reading Comprehension.canvas",
-    "Lessen/HAVO 3/Reading Comprehension 1.canvas",
     "Documenten/Bijlages/Week 3-1789913087064.webp",
     "Documenten/Bijlages/Week 2-1788964845760.webp"
   ]
