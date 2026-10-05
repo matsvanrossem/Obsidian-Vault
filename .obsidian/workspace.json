@@ -23,17 +23,14 @@
             "id": "6233a6612e861b3e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
-                "viewState": {
-                  "x": 189.5064476009948,
-                  "y": 195.45718281322812,
-                  "zoom": 0.7300080997269843
-                }
+                "file": "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2 Oct 2026"
+              "icon": "lucide-file",
+              "title": "Lesplan 2 VWO ; Listening F"
             }
           }
         ],
@@ -128,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5,
-    "collapsed": true
+    "width": 338.5
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -277,12 +273,14 @@
   },
   "active": "6233a6612e861b3e",
   "lastOpenFiles": [
-    "Lessen/HAVO 3/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/1 Oct 2026 1.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
+    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
+    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/2 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/1 Oct 2026 1.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
+    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/Grammar Recap.canvas",
@@ -297,7 +295,6 @@
     "Documenten/Bijlages/Planner Year 3 Theme 2.pdf",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
     "Documenten/Bijlages/Pasted image 20261001111654.png",
-    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
     "Documenten/Bijlages/Planner  Year 2 Theme 1.pdf",
     "Documenten/Bijlages/Week 2-1788891239507.webp",
     "Documenten/Bijlages/Week 3-1789912355449.webp",
@@ -306,7 +303,6 @@
     "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/30 Sept 2026.canvas",
     "Untitled.md",
-    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
     "Lessen/VWO 2/Dia's en materiaal/Week 40",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal",
     "Lessen/VWO 2/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
@@ -328,7 +324,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 43",
     "Lessen/HAVO 3/Lesplannen/Week 42",
     "Lessen/HAVO 3/Lesplannen/Lesplan Template.md",
-    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/HAVO 3/Reading Comprehension 1.canvas",
     "Lessen/VWO 2/Reading Comprehension 1.canvas"
