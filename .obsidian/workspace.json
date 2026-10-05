@@ -6,6 +6,7 @@
       {
         "id": "f027ec4863d22385",
         "type": "tabs",
+        "dimension": 58.884565499351496,
         "children": [
           {
             "id": "be23f6bbf44653f6",
@@ -35,6 +36,53 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "1b06fda1b6848df1",
+        "type": "tabs",
+        "dimension": 41.115434500648504,
+        "children": [
+          {
+            "id": "f605945780699408",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "c1nYtX-NUsc",
+                        "t": 42,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=c1nYtX-NUsc"
+                    },
+                    "hash": {
+                      "tempFragment": {
+                        "start": 42,
+                        "end": -1
+                      }
+                    }
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    },
+                    "v": 1
+                  }
+                }
+              },
+              "icon": "youtube",
+              "title": "Tired of Doomscrolling?"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,11 +319,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6233a6612e861b3e",
+  "active": "f605945780699408",
   "lastOpenFiles": [
-    "How to give a Writing class-1791188215802.webp",
-    "Schoolopdrachten/Colleges/Untitled.canvas",
     "Schoolopdrachten/Colleges/How to give a Writing class.md",
+    "Schoolopdrachten/Colleges/Untitled.canvas",
+    "Schoolopdrachten/PedagogiekOpdrachten/Sociogramopdracht.md",
+    "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/2 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/1 Oct 2026 1.canvas",
     "Lessen/VWO 2/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
@@ -306,14 +355,12 @@
     "Documenten/Bijlages/Week 2-1788891239507.webp",
     "Documenten/Bijlages/Week 3-1789912355449.webp",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal",
-    "Documenten/Bijlages/Pasted image 20260930110648.png",
     "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/30 Sept 2026.canvas",
     "Lessen/VWO 2/Dia's en materiaal/Week 40",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal",
     "Schoolopdrachten/Handelingsopdracht; Leerganganalyse.md",
     "Schoolopdrachten/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
-    "Schoolopdrachten/PedagogiekOpdrachten/Sociogramopdracht.md",
     "Planner Year 3 Theme 2.pdf",
     "media-lib/How Are Memories Stored Inside Your Brain_.md",
     "Lessen/HAVO 3/Lesplannen/Lesplan Template 3 HAVO.md",

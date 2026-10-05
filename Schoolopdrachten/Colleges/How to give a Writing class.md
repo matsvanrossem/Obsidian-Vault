@@ -4,9 +4,10 @@
 | Can give a review of a film, book or play.                       | Write an opinionated review                                                               |
 | step 1 Focus on fluency                                          | Introduce how to write a review                                                           |
 | Step 2 Model the task                                            | present a Model review of 100 words                                                       |
-|                                                                  |                                                                                           |
+| Step 3 Encourage different perspective                           |                                                                                           |
 | Step 6 Peer to peer                                              | In groups of 4 Discuss with peers                                                         |
 | Step 7 Present the review                                        | let them choose the review that presents their combined opinion best.                     |
+| Step 8 Why you                                                   |                                                                                           |
 |                                                                  |                                                                                           |
 |                                                                  |                                                                                           |
 
@@ -14,4 +15,10 @@
 
 **How to asses**
 - Look for writing speed and accuracy 
-- 
+- Syntax 
+**Feedback**
+- Linking words
+- Additive ideas 
+- encourage expansion
+
+https://www.youtube.com/watch?v=c1nYtX-NUsc&t=42s
