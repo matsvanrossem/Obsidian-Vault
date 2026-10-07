@@ -11,10 +11,17 @@
             "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
+                "viewState": {
+                  "x": -36.11156509769148,
+                  "y": -922.6858963145162,
+                  "zoom": -0.4799847476344686
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "8 Oct 2026"
             }
           }
         ]
@@ -276,12 +283,12 @@
   },
   "active": "823a2161c3b86b67",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
     "Schoolopdrachten/Colleges/Hoorcollege; Werkcollege pedagogiek.md",
     "Schoolopdrachten/Colleges/How to give a Writing class.md",
     "Schoolopdrachten/Colleges/Hoorcollege.md",
     "Schoolopdrachten/Colleges",
-    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson H Speaking and Stones - Agreeing and Disagreeing.md",
@@ -330,7 +337,6 @@
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
     "Lessen/VWO 2/Lesplannen/Lesplan Template.md",
-    "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
     "Documenten/Bijlages/Week 3-1789913087064.webp"
   ]
 }
