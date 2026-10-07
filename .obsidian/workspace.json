@@ -4,45 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "f027ec4863d22385",
-        "type": "tabs",
-        "dimension": 62.71076523994812,
-        "children": [
-          {
-            "id": "be23f6bbf44653f6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
-                "viewState": {
-                  "x": 0.5,
-                  "y": -636,
-                  "zoom": -1.7847573070684661
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "8 Oct 2026"
-            }
-          },
-          {
-            "id": "6233a6612e861b3e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documenten/Planners/Planner  Year 2 Theme 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Planner  Year 2 Theme 1"
-            }
-          }
-        ]
-      },
-      {
         "id": "18c40f2eb9a83b70",
         "type": "tabs",
-        "dimension": 37.28923476005188,
         "children": [
           {
             "id": "1f7656e7af728b04",
@@ -56,6 +19,24 @@
               },
               "icon": "lucide-file",
               "title": "HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive"
+            }
+          }
+        ]
+      },
+      {
+        "id": "89825a10d4a40ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a0abc46f56f2243",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documenten/Planners/3H planner Theme 1 - The World around you.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3H planner Theme 1 - The World around you"
             }
           }
         ]
@@ -295,16 +276,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f7656e7af728b04",
+  "active": "2c02cc20cbb5c898",
   "lastOpenFiles": [
+    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson H Speaking and Stones - Agreeing and Disagreeing.md",
+    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson G Reading - Online Life.md",
+    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
+    "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
+    "Documenten/Planners/3H planner Theme 1 - The World around you.pdf",
+    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
+    "Lessen/HAVO 3/Lesplannen/Lesplan Template.md",
+    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/Grammar Recap.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal",
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
-    "Documenten/Planners/3H planner Theme 1 - The World around you.pdf",
     "Documenten/Planners/Planner Year 3 Theme 2.pdf",
     "Documenten/Planners/Planner  Year 2 Theme 1.pdf",
-    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/2 Oct 2026 1.canvas",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/2 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/30 Sept 2026.canvas",
@@ -320,19 +311,14 @@
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
-    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
     "Schoolopdrachten/Colleges/How to give a Writing class.md",
-    "Schoolopdrachten/Colleges/Untitled.canvas",
     "Schoolopdrachten/PedagogiekOpdrachten/Sociogramopdracht.md",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Lessen/VWO 2/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
     "Untitled.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
     "Untitled 1.md",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
     "Documenten/Bijlages/Pasted image 20261001111847.png",
@@ -347,11 +333,6 @@
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal",
     "Schoolopdrachten/Handelingsopdracht; Leerganganalyse.md",
     "Schoolopdrachten/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
-    "Planner Year 3 Theme 2.pdf",
-    "media-lib/How Are Memories Stored Inside Your Brain_.md",
-    "Lessen/HAVO 3/Lesplannen/Lesplan Template 3 HAVO.md",
-    "Lessen/HAVO 3/Lesplannen/Lesplan Template 1.md",
-    "Lessen/HAVO 3/Lesplannen/Week 44/Tests.md",
-    "Lessen/HAVO 3/Lesplannen/Week 44"
+    "Planner Year 3 Theme 2.pdf"
   ]
 }
