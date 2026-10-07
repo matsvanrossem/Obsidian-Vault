@@ -6,80 +6,54 @@
       {
         "id": "f027ec4863d22385",
         "type": "tabs",
-        "dimension": 58.884565499351496,
+        "dimension": 62.712765957446805,
         "children": [
           {
             "id": "be23f6bbf44653f6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Documenten/Bijlages/Pasted image 20261001111610.png"
+                "file": "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
+                "viewState": {
+                  "x": 0.5,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261001111610"
+              "icon": "lucide-layout-dashboard",
+              "title": "9 Oct 2026"
             }
           },
           {
             "id": "6233a6612e861b3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Schoolopdrachten/Colleges/How to give a Writing class.md",
-                "mode": "source",
-                "source": false
+                "file": "Documenten/Planners/Planner  Year 2 Theme 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "How to give a Writing class"
+              "icon": "lucide-file-text",
+              "title": "Planner  Year 2 Theme 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "1b06fda1b6848df1",
+        "id": "18c40f2eb9a83b70",
         "type": "tabs",
-        "dimension": 41.115434500648504,
+        "dimension": 37.287234042553195,
         "children": [
           {
-            "id": "f605945780699408",
+            "id": "1f7656e7af728b04",
             "type": "leaf",
             "state": {
-              "type": "mx-url",
+              "type": "pdf",
               "state": {
-                "mx": {
-                  "json": {
-                    "media": {
-                      "type": "url:hosted",
-                      "vid": {
-                        "host": "youtube",
-                        "vid": "c1nYtX-NUsc",
-                        "t": 42,
-                        "start": null,
-                        "end": null
-                      },
-                      "url": "https://www.youtube.com/watch?v=c1nYtX-NUsc"
-                    },
-                    "hash": {
-                      "tempFragment": {
-                        "start": 42,
-                        "end": -1
-                      }
-                    }
-                  },
-                  "meta": {
-                    "values": {
-                      "media.url": [
-                        "URL"
-                      ]
-                    },
-                    "v": 1
-                  }
-                }
+                "file": "Documenten/Planners/Planner  Year 2 Theme 1.pdf"
               },
-              "icon": "youtube",
-              "title": "Tired of Doomscrolling?"
+              "icon": "lucide-file-text",
+              "title": "Planner  Year 2 Theme 1"
             }
           }
         ]
@@ -319,44 +293,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f605945780699408",
+  "active": "be23f6bbf44653f6",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/2 Oct 2026 1.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/2 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/30 Sept 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/1 Oct 2026 1.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/PLattegrond.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
+    "Documenten/Planners/Planner  Year 2 Theme 1.pdf",
+    "Documenten/Bijlages/Pasted image 20261001111610.png",
+    "Documenten/Planners/3H planner Theme 1 - The World around you.pdf",
+    "Documenten/Planners/Planner Year 3 Theme 2.pdf",
+    "Documenten/Planners",
+    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal",
+    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
+    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
+    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
+    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
+    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
     "Schoolopdrachten/Colleges/How to give a Writing class.md",
     "Schoolopdrachten/Colleges/Untitled.canvas",
     "Schoolopdrachten/PedagogiekOpdrachten/Sociogramopdracht.md",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
-    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/2 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/1 Oct 2026 1.canvas",
     "Lessen/VWO 2/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
-    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
     "Untitled.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
-    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
-    "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/Grammar Recap.canvas",
-    "Documenten/Bijlages/3H planner Theme 1 - The World around you.pdf",
-    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/PLattegrond.canvas",
     "Untitled 1.md",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
     "Documenten/Bijlages/Pasted image 20261001111847.png",
     "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
     "Documenten/Bijlages/2 Oct 2026-1790882224469.webp",
     "Pasted image 20261001111847.png",
-    "Documenten/Bijlages/Planner Year 3 Theme 2.pdf",
-    "Documenten/Bijlages/Pasted image 20261001111610.png",
     "Documenten/Bijlages/Pasted image 20261001111654.png",
-    "Documenten/Bijlages/Planner  Year 2 Theme 1.pdf",
     "Documenten/Bijlages/Week 2-1788891239507.webp",
     "Documenten/Bijlages/Week 3-1789912355449.webp",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal",
-    "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
-    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/30 Sept 2026.canvas",
     "Lessen/VWO 2/Dia's en materiaal/Week 40",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal",
     "Schoolopdrachten/Handelingsopdracht; Leerganganalyse.md",
@@ -368,13 +350,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/HAVO 3/Lesplannen/Week 44/Tests.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
-    "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
-    "Lessen/HAVO 3/Lesplannen/Week 44",
-    "Lessen/HAVO 3/Lesplannen/Week 43",
-    "Lessen/HAVO 3/Lesplannen/Week 42",
-    "Lessen/HAVO 3/Reading Comprehension 1.canvas",
-    "Lessen/VWO 2/Reading Comprehension 1.canvas"
+    "Lessen/HAVO 3/Lesplannen/Week 44"
   ]
 }
