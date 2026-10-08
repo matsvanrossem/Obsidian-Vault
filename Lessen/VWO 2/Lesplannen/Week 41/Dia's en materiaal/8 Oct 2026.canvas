@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"e896a84e5fb81b74","type":"text","text":"\n## **09:45** - Word of the week\n## **09:55** -\tWhat is a *Past continuous*? \n## **10:10** - *Exercises 53 t/m 56*\n\n## **10:30** -\tWrap-up and homework reminder","x":-1514,"y":-1463,"width":649,"height":212,"color":"4"},
-		{"id":"43f7895bc24e2e7e","type":"text","text":"# **Today's Class: Past Continuous and Writing**","x":-1492,"y":-1543,"width":606,"height":60,"color":"2"},
 		{"id":"a93a2a22d4d95e24","type":"text","text":"## Past Continuous\n\nThe **past continuous** describes an action that **was happening at a particular moment in the past**.\n\n> I **was studying** at 8 o'clock.\n\nIt emphasizes that the activity was **in progress**.\n\nThe structure is:\n\n**was/were + verb-ing**\n\n|Subject|Form|\n|---|---|\n|I/he/she/it|was + -ing|\n|you/we/they|were + -ing|\n\nExamples:\n\n> I **was sleeping**.  \n> She **was reading**.  \n> They **were playing** football.","x":-566,"y":-785,"width":534,"height":551,"color":"2"},
 		{"id":"530c9d7444377c06","type":"text","text":"***Homework***\n**Study theme words:** the weather **Study grammar** 2A&B\n\n**Bring Your Book Tomorrow!**","x":-1514,"y":-1228,"width":325,"height":172,"color":"1"},
 		{"id":"6514f8b59e40154c","type":"text","text":"### Negative\n\n**was not / were not + -ing**\n\n> I **wasn't sleeping**.\n\n> They **weren't studying**.\n\n### Questions\n\n**Was/Were + subject + -ing?**\n\n> **Were** you **sleeping**?\n\n> **Was** she **studying**?","x":39,"y":-788,"width":548,"height":554,"color":"2"},
@@ -9,14 +8,17 @@
 		{"id":"857a70285560a621","type":"text","text":"## **What is a tense?**\n\nA **tense** is the form of a verb that tells us **when something happens**.\n\nFor example:\n\n|Time|Example|\n|---|---|\n|Present|I **walk** to school.|\n|Past|I **walked** to school.|\n|Future|I **will walk** to school.|\n","x":-566,"y":-1831,"width":534,"height":415,"color":"5"},
 		{"id":"73343ae6891ea2cd","type":"text","text":"## **Past Simple**\n\nWe use the **past simple** for an action that **started and finished in the past**.\n\n> I **played** football yesterday.\n\nThe action is finished.\n\n### Regular verbs\n\nUsually, add **-ed**:\n\n- play → played\n- walk → walked\n- watch → watched\n- clean → cleaned\n\nExample:\n\n> She **watched** a film last night.\n\n### Irregular verbs\n\nSome verbs change completely, so you have to learn them see *page 218*:\n\n|Present|Past simple|\n|---|---|\n|go|went|\n|see|saw|\n|eat|ate|","x":39,"y":-1831,"width":488,"height":815,"color":"5"},
 		{"id":"71a26f19051d4859","type":"text","text":"## When and while\n\nThese words are often used with these tenses.\n\n### When\n\n**past continuous + when + past simple**\n\n> I **was walking** home **when** I **saw** John.\n\n### While\n\n**while + past continuous**\n\n> **While** I **was walking** home, I **saw** John.\n\nYou can also have two actions happening at the same time:\n\n> **While** I **was studying**, my brother **was watching** TV.\n\nBoth actions were happening simultaneously, so both are past continuous.","x":941,"y":-234,"width":574,"height":733,"color":"2"},
-		{"id":"b83847f6774a1497","type":"text","text":"## Typical time words\n\n*Past simple* often appears with:\n\n- yesterday\n- last week\n- last year\n- two days ago\n- in 2020\n- then\n- suddenly\n\n> I **visited** my grandmother yesterday.\n\n*Past continuous* often appears with:\n\n- while\n- when\n- at 8 o'clock\n- at that moment\n- all evening\n\n> At 8 o'clock, I **was doing** my homework.","x":123,"y":-94,"width":464,"height":653,"color":"2"}
+		{"id":"b83847f6774a1497","type":"text","text":"## Typical time words\n\n*Past simple* often appears with:\n\n- yesterday\n- last week\n- last year\n- two days ago\n- in 2020\n- then\n- suddenly\n\n> I **visited** my grandmother yesterday.\n\n*Past continuous* often appears with:\n\n- while\n- when\n- at 8 o'clock\n- at that moment\n- all evening\n\n> At 8 o'clock, I **was doing** my homework.","x":123,"y":-94,"width":464,"height":653,"color":"2"},
+		{"id":"43f7895bc24e2e7e","type":"text","text":"# **Today's Class: Past Continuous and Writing**","x":-1492,"y":-1539,"width":606,"height":60,"color":"2"},
+		{"id":"ed8d6d92408e76fd","x":-500,"y":-1116,"width":250,"height":60,"type":"text","text":"I **was sleeping**. "}
 	],
 	"edges":[
 		{"id":"9098288057d831dc","fromNode":"a93a2a22d4d95e24","fromSide":"right","toNode":"6514f8b59e40154c","toSide":"left"},
-		{"id":"21d694defa57abbf","fromNode":"73343ae6891ea2cd","fromSide":"bottom","toNode":"a93a2a22d4d95e24","toSide":"top"},
+		{"id":"21d694defa57abbf","fromNode":"73343ae6891ea2cd","fromSide":"bottom","toNode":"ed8d6d92408e76fd","toSide":"right"},
 		{"id":"6cd90fb70a0fa368","fromNode":"857a70285560a621","fromSide":"right","toNode":"73343ae6891ea2cd","toSide":"left"},
 		{"id":"9821e9060835b1b7","fromNode":"6514f8b59e40154c","fromSide":"right","toNode":"d084fafbe04ad66e","toSide":"left"},
 		{"id":"c261cffd2d7931c7","fromNode":"d084fafbe04ad66e","fromSide":"bottom","toNode":"71a26f19051d4859","toSide":"top"},
-		{"id":"391922b92c922e17","fromNode":"71a26f19051d4859","fromSide":"left","toNode":"b83847f6774a1497","toSide":"right"}
+		{"id":"391922b92c922e17","fromNode":"71a26f19051d4859","fromSide":"left","toNode":"b83847f6774a1497","toSide":"right"},
+		{"id":"719e7b811b0a2ef4","fromNode":"ed8d6d92408e76fd","fromSide":"bottom","toNode":"a93a2a22d4d95e24","toSide":"top"}
 	]
 }
