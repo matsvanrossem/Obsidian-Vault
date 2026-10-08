@@ -9,17 +9,17 @@
 **Lesson:** I - Writing & Grammar  
 **Date:** __________
 
-| Element | Lesson preparation |
-| --- | --- |
-| **Lesson topic** | Grammar 3: Questions & negations |
-| **Stepping Stones section/pages** | Lesson I, ex. 51 (p. 70), Grammar 3, ex. 51/52/53/54/55 |
-| **Main skill** | **Writing** / **Grammar** |
-| **Lesson objective** | By the end of the lesson, students can form correct questions and negative sentences using the grammar rules from Grammar 3. |
-| **Success criteria** | I can: 1. Recognise a question and a negation. 2. Use the correct auxiliary verb and word order. 3. Write correct questions and negative sentences. |
-| **Prior knowledge needed** | Students can identify subjects and verbs and know common present and past verb forms. |
-| **Key vocabulary / grammar** | Grammar 3: questions and negations. |
-| **Materials** | Stepping Stones coursebook/workbook, board/slides, grammar overview. |
-| **Homework** | **Study Grammar 3 (p. 79).** |
+| Element                           | Lesson preparation                                                                                                                                  |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lesson topic**                  | Grammar 3: Questions & negations                                                                                                                    |
+| **Stepping Stones section/pages** | Lesson I, ex. 51 (p. 70), Grammar 3, ex. 51/52/53/54/55                                                                                             |
+| **Main skill**                    | **Writing** / **Grammar**                                                                                                                           |
+| **Lesson objective**              | By the end of the lesson, students can form correct questions and negative sentences using the grammar rules from Grammar 3.                        |
+| **Success criteria**              | I can: 1. Recognise a question and a negation. 2. Use the correct auxiliary verb and word order. 3. Write correct questions and negative sentences. |
+| **Prior knowledge needed**        | Students can identify subjects and verbs and know common present and past verb forms.                                                               |
+| **Key vocabulary / grammar**      | Grammar 3: questions and negations.                                                                                                                 |
+| **Materials**                     | Stepping Stones coursebook/workbook, board/slides, grammar overview.                                                                                |
+| **Homework**                      | **Study Grammar 3 (p. 79).**                                                                                                                        |
 
 ### Lesson sequence, 3 HAVO
 

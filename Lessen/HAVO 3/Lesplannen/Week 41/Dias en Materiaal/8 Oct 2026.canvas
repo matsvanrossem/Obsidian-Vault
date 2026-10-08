@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"573a53e07c08edfe","type":"text","text":"# **Today's Class**","x":86,"y":-108,"width":218,"height":60,"color":"2"},
-		{"id":"da84af66feb049c5","type":"text","text":"\n## **11:35** -\tGrammar Rehearsal \n## **11:50** - Toets Chapter 1 inplannen in Magister > week na de herfstvakantie \n\n## **12:00** - Blooket\n\n## **12:20** -\tWrap-up and homework reminder","x":-125,"y":-20,"width":811,"height":212,"color":"4"},
-		{"id":"afa2324187661bc0","type":"text","text":"**Irregular Verbs 1 t/ 55 leren voor de toets (is herhaling van vorig jaar)**","x":-106,"y":213,"width":649,"height":110,"color":"1"}
+		{"id":"da84af66feb049c5","type":"text","text":"\n## **11:35** -\tWhat are *Questions and Negations*\n## **11:50** - Toets Chapter 1 inplannen in Magister > week na de herfstvakantie \n\n## **12:00** - Blooket\n\n## **12:20** -\tWrap-up and homework reminder","x":-125,"y":-20,"width":811,"height":212,"color":"4"},
+		{"id":"afa2324187661bc0","type":"text","text":"**Study Grammar 3 (p. 79).**","x":-106,"y":213,"width":649,"height":110,"color":"1"},
+		{"id":"573a53e07c08edfe","type":"text","text":"# **Today's Class: Questions and Negations**","x":-19,"y":-107,"width":600,"height":60,"color":"2"}
 	],
 	"edges":[]
 }
