@@ -11,17 +11,14 @@
             "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
-                "viewState": {
-                  "x": 2176.155136353086,
-                  "y": 789.2434358256952,
-                  "zoom": -1.5514186376750692
-                }
+                "file": "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "9 Oct 2026"
+              "icon": "lucide-file",
+              "title": "HAVO 3 - Lesson I Writing and Grammar - Questions and Negations"
             }
           }
         ]
@@ -263,8 +260,8 @@
   },
   "active": "823a2161c3b86b67",
   "lastOpenFiles": [
-    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson G Reading - Online Life.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
