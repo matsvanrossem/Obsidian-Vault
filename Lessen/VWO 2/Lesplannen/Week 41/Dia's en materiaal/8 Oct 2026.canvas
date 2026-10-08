@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"1ed6960e97addbc7","x":-1326,"y":-634,"width":250,"height":60,"type":"text","text":""},
 		{"id":"e896a84e5fb81b74","type":"text","text":"\n## **09:45** - Word of the week\n## **09:55** -\tWhat is a *Past continuous*? \n## **10:10** - *Exercises 53 t/m 56*\n\n## **10:30** -\tWrap-up and homework reminder","x":-1514,"y":-1463,"width":649,"height":212,"color":"4"},
 		{"id":"a93a2a22d4d95e24","type":"text","text":"## Past Continuous\n\nThe **past continuous** describes an action that **was happening at a particular moment in the past**.\n\n> I **was studying** at 8 o'clock.\n\nIt emphasizes that the activity was **in progress**.\n\nThe structure is:\n\n**was/were + verb-ing**\n\n|Subject|Form|\n|---|---|\n|I/he/she/it|was + -ing|\n|you/we/they|were + -ing|\n\nExamples:\n\n> I **was sleeping**.  \n> She **was reading**.  \n> They **were playing** football.","x":-566,"y":-785,"width":534,"height":551,"color":"2"},
 		{"id":"530c9d7444377c06","type":"text","text":"***Homework***\n**Study theme words:** the weather **Study grammar** 2A&B\n\n**Bring Your Book Tomorrow!**","x":-1514,"y":-1228,"width":325,"height":172,"color":"1"},
@@ -10,7 +11,7 @@
 		{"id":"71a26f19051d4859","type":"text","text":"## When and while\n\nThese words are often used with these tenses.\n\n### When\n\n**past continuous + when + past simple**\n\n> I **was walking** home **when** I **saw** John.\n\n### While\n\n**while + past continuous**\n\n> **While** I **was walking** home, I **saw** John.\n\nYou can also have two actions happening at the same time:\n\n> **While** I **was studying**, my brother **was watching** TV.\n\nBoth actions were happening simultaneously, so both are past continuous.","x":941,"y":-234,"width":574,"height":733,"color":"2"},
 		{"id":"b83847f6774a1497","type":"text","text":"## Typical time words\n\n*Past simple* often appears with:\n\n- yesterday\n- last week\n- last year\n- two days ago\n- in 2020\n- then\n- suddenly\n\n> I **visited** my grandmother yesterday.\n\n*Past continuous* often appears with:\n\n- while\n- when\n- at 8 o'clock\n- at that moment\n- all evening\n\n> At 8 o'clock, I **was doing** my homework.","x":123,"y":-94,"width":464,"height":653,"color":"2"},
 		{"id":"43f7895bc24e2e7e","type":"text","text":"# **Today's Class: Past Continuous and Writing**","x":-1492,"y":-1539,"width":606,"height":60,"color":"2"},
-		{"id":"ed8d6d92408e76fd","x":-500,"y":-1116,"width":250,"height":60,"type":"text","text":"I **was sleeping**. "}
+		{"id":"ed8d6d92408e76fd","type":"text","text":"I **was sleeping**. ","x":-500,"y":-1116,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9098288057d831dc","fromNode":"a93a2a22d4d95e24","fromSide":"right","toNode":"6514f8b59e40154c","toSide":"left"},
