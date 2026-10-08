@@ -11,14 +11,17 @@
             "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
+                "viewState": {
+                  "x": 2309.7570599088103,
+                  "y": 1305.1637944667011,
+                  "zoom": -1.5560384613161289
+                }
               },
-              "icon": "lucide-file",
-              "title": "HAVO 3 - Lesson I Writing and Grammar - Questions and Negations"
+              "icon": "lucide-layout-dashboard",
+              "title": "8 Oct 2026"
             }
           }
         ]
@@ -260,8 +263,12 @@
   },
   "active": "823a2161c3b86b67",
   "lastOpenFiles": [
-    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
+    "Schoolopdrachten/Handelingsopdracht;Lesplan MDA.md",
+    "Schoolopdrachten/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
+    "Schoolopdrachten/HAVO%203%20-%20Lesson%20I%20Writing%20and%20Grammar%20-%20Questions%20and%20Negations%20-%20MDA.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson G Reading - Online Life.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
@@ -275,7 +282,6 @@
     "Schoolopdrachten/Colleges/Hoorcollege.md",
     "Schoolopdrachten/Colleges",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal",
-    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson H Speaking and Stones - Agreeing and Disagreeing.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/Grammar Recap.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal",
@@ -311,9 +317,6 @@
     "Lessen/VWO 2/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
-    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
-    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
-    "Lessen/VWO 2/Lesplannen/Lesplan Template.md",
     "Documenten/Bijlages/Week 3-1789913087064.webp"
   ]
 }
