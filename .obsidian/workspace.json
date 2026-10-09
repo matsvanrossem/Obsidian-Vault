@@ -11,14 +11,17 @@
             "id": "c74fa011b3d83cb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 44/Chapter 1 Test Information.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
+                "viewState": {
+                  "x": 776,
+                  "y": 489,
+                  "zoom": -1.142100537860032
+                }
               },
-              "icon": "lucide-file",
-              "title": "Chapter 1 Test Information"
+              "icon": "lucide-layout-dashboard",
+              "title": "9 Oct 2026"
             }
           }
         ]
@@ -112,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -260,9 +264,9 @@
   },
   "active": "c74fa011b3d83cb7",
   "lastOpenFiles": [
+    "Lessen/HAVO 3/Lesplannen/Week 44/Chapter 1 Test Information.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 44/Chapter 1 Test Information.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/PLattegrond.canvas",
     "Documenten/Planners/3H planner Theme 1 - The World around you.pdf",
