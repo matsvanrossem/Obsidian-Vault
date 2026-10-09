@@ -1,8 +1,8 @@
 {
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Legal",
-    "landscape": true,
+    "pageSize": "A4",
+    "landscape": false,
     "margin": "1",
     "downscalePercent": 100
   }

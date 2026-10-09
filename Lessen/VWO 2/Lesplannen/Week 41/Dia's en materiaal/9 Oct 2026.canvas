@@ -1,8 +1,8 @@
 {
 	"nodes":[
+		{"id":"5b86f5db4c9d58cc","x":-324,"y":71,"width":511,"height":635,"type":"file","file":"Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md"},
 		{"id":"f806ca36a320f07f","type":"text","text":"\n## **08:15** -\tReading in **Silence!**\n## **08:35** -\t*Blooket* Irregular Verbs or Vocabulary\n## **08:50** - Study Questions?\n","x":-324,"y":-107,"width":649,"height":155,"color":"4"},
-		{"id":"ef7b5996f88ad312","type":"text","text":"# **Today's Class**","x":-113,"y":-185,"width":218,"height":60,"color":"2"},
-		{"id":"b919cf60630839a5","type":"text","text":"#### *Homework For the end of the autumn Holiday*\n**Homework: Chapter 1**\n- **Study past simple** *p.81*\n- **Study past continuous** *p.81*\n- **Study the difference between past simple and past continuous** *p.81*\n- **Learn the irregular verbs** *p.218-219*\n **Study the vocabulary for:**\n    - **travelling** \n    - **packing** \n    - **holiday activities** \n    - **weather** \n\t - **Words A**\n\t - **Words C**\n\t - **Words F**\n\t - **Words G**\n- **Study the Stones phrases about holidays**\n- **Be able to describe a past holiday and say what happened**\n\n## *Chapter 1 Test 29th of October*","x":-324,"y":71,"width":511,"height":635,"color":"1"}
+		{"id":"ef7b5996f88ad312","type":"text","text":"# **Today's Class**","x":-113,"y":-185,"width":218,"height":60,"color":"2"}
 	],
 	"edges":[]
 }
