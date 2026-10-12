@@ -11,14 +11,17 @@
             "id": "c74fa011b3d83cb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
+                "viewState": {
+                  "x": 728.9720414201184,
+                  "y": 762.3312484590729,
+                  "zoom": -0.8639019685223404
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lesplan 2 VWO ; Writing and Grammar I"
+              "icon": "lucide-layout-dashboard",
+              "title": "8 Oct 2026"
             }
           }
         ]
@@ -260,6 +263,7 @@
   },
   "active": "c74fa011b3d83cb7",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/PLattegrond.canvas",
@@ -293,7 +297,6 @@
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
     "Documenten/Planners",
-    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
