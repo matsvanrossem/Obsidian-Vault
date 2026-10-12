@@ -30,19 +30,42 @@
             "state": {
               "type": "canvas",
               "state": {
+                "file": "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/PLattegrond.canvas",
+                "viewState": {
+                  "x": 401.5,
+                  "y": -330.5,
+                  "zoom": -1.277076616039261
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "PLattegrond"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "210890b32505c4f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55cac7b68b6f10fc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
                 "file": "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
                 "viewState": {
-                  "x": 2391.5,
-                  "y": 1046.5,
-                  "zoom": -1.9691400014374378
+                  "x": 1308.8469800441305,
+                  "y": 272.75448156131654,
+                  "zoom": -0.19818413124922246
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "8 Oct 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -279,16 +303,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95adaa0b4e503766",
+  "active": "55cac7b68b6f10fc",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/PLattegrond.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
     "Schoolopdrachten/Colleges/Vakdidactiek; Activerend lesgeven.md",
     "Untitled 1.md",
     "Untitled.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 44/Chapter 1 Test Information.md",
-    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/PLattegrond.canvas",
     "Documenten/Planners/3H planner Theme 1 - The World around you.pdf",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/Grammar Recap.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
@@ -324,7 +348,6 @@
     "Schoolopdrachten/PedagogiekOpdrachten/Sociogramopdracht.md",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Lessen/VWO 2/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
-    "Untitled 3.md",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
     "Documenten/Bijlages/Pasted image 20261001111847.png",
     "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
