@@ -11,17 +11,14 @@
             "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
-                "viewState": {
-                  "x": 1667.5620393121517,
-                  "y": 375.3925002704391,
-                  "zoom": -1.5560384613161289
-                }
+                "file": "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Pedagogiek 1; Complete To-Do List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "8 Oct 2026"
+              "icon": "lucide-file",
+              "title": "Pedagogiek 1; Complete To-Do List"
             }
           }
         ]
@@ -261,17 +258,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c02cc20cbb5c898",
+  "active": "823a2161c3b86b67",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Sociogramopdracht.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/PiP1a and PiP1b To-Do Checklist.md",
+    "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Pedagogiek 1; Complete To-Do List.md",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/2. Vakdidactiek 1; Complete To-Do List.md",
+    "Schoolopdrachten/Cursushandleidingen/Cursushandleiding VAKD1 (2026-2027) 07072026_sem 1 2026.pdf",
+    "Praktijkurenovereenkomst (stage) september 2026 .pdf",
+    "Schoolopdrachten/Cursushandleidingen/Cursushandleiding PiP1a (aug2026).pdf",
+    "Schoolopdrachten/Cursushandleidingen/26sep Cursushandleiding Pedagogiek 1.pdf",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Vakautobiografie.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek",
+    "Schoolopdrachten/Deadlines and exercises",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Handleiding Praktijkdossier Pip1_2026.pdf",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Lesplan MDA.md",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Leerganganalyse.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
+    "Untitled.md",
     "Schoolopdrachten/Colleges/Vakdidactiek; Activerend lesgeven.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
     "Lessen/HAVO 3/Lesplannen/Week 44/Chapter 1 Test Information.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
-    "Schoolopdrachten/Handelingsopdracht;Lesplan MDA.md",
-    "Schoolopdrachten/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
     "Schoolopdrachten/HAVO%203%20-%20Lesson%20I%20Writing%20and%20Grammar%20-%20Questions%20and%20Negations%20-%20MDA.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson G Reading - Online Life.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
@@ -284,39 +296,25 @@
     "Schoolopdrachten/Colleges/How to give a Writing class.md",
     "Schoolopdrachten/Colleges/Hoorcollege.md",
     "Schoolopdrachten/Colleges",
-    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson H Speaking and Stones - Agreeing and Disagreeing.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/Grammar Recap.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal",
-    "Documenten/Planners/Planner Year 3 Theme 2.pdf",
-    "Documenten/Planners/Planner  Year 2 Theme 1.pdf",
-    "Documenten/Planners/3H planner Theme 1 - The World around you.pdf",
-    "Documenten/Planners",
     "Untitled 2.md",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Lessen/VWO 2/Dia's en materiaal/Week 40/2 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/30 Sept 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal",
     "Untitled 1.md",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
     "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
     "Documenten/Bijlages/2 Oct 2026-1790882224469.webp",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
-    "Documenten/Bijlages/Planner  Year 2 Theme 1.pdf",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
     "Documenten/Bijlages/Pasted image 20261001111847.png",
     "Documenten/Bijlages/Pasted image 20261001111654.png",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
-    "Lessen/HAVO 3/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
     "Documenten/Bijlages/Pasted image 20260930110648.png",
-    "Documenten/Bijlages/De Berg.md",
     "Documenten/Bijlages/Week 2-1788891239507.webp",
-    "Colleges/Hoorcollege; Werkcollege pedagogiek.md",
-    "Lessen/VWO 2/Lesplannen/Week 40/Week%2040%20-%20Reading%20lesson%20revised.md",
     "Documenten/Bijlages/Week 3-1789913087064.webp"
   ]
 }
