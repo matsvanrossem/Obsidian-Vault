@@ -1,4 +1,4 @@
-#### *Homework For the end of the autumn Holiday*
+#### *Homework* 
 **Homework: Chapter 1**
 - **Study past simple** *p.81*
 - **Study past continuous** *p.81*
