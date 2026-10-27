@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5b86f5db4c9d58cc","x":-324,"y":71,"width":511,"height":635,"type":"file","file":"Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md"},
+		{"id":"f806ca36a320f07f","type":"text","text":"\n## **08:15** -\tReading in **Silence!**\n## **08:35** -\t*Blooket* Irregular Verbs or Vocabulary\n## **08:50** - Study Questions?\n","x":-324,"y":-107,"width":649,"height":155,"color":"4"},
+		{"id":"ef7b5996f88ad312","type":"text","text":"# **Today's Class**","x":-113,"y":-185,"width":218,"height":60,"color":"2"}
+	],
+	"edges":[]
+}
