@@ -11,17 +11,12 @@
             "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 Oct 2026.canvas",
-                "viewState": {
-                  "x": 1562.2917745822838,
-                  "y": 833.3388847992026,
-                  "zoom": -1.333333333333333
-                }
+                "file": "Documenten/2VWO-Chapter 1 Final Test Recap LessonPlan.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "28 Oct 2026"
+              "icon": "lucide-file-text",
+              "title": "2VWO-Chapter 1 Final Test Recap LessonPlan"
             }
           }
         ]
@@ -261,23 +256,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "823a2161c3b86b67",
+  "active": "2c02cc20cbb5c898",
   "lastOpenFiles": [
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 Oct 2026.canvas",
+    "Documenten/Praktijkurenovereenkomst (stage) september 2026 .pdf",
+    "Documenten/2VWO-Chapter 1 Final Test Recap LessonPlan.pdf",
     "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal",
     "Lessen/VWO 2/Lesplannen/Lesplan Template.md",
     "Lessen/VWO 2/Lesplannen/Week 44/2%20VWO%20-%20Chapter%201%20Final%20Test%20Recap%20-%20Differentiated%20Lesson%20Plan.md",
-    "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/PiP1a Practice Portfolio; Complete To-Do Checklist.md",
     "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Pedagogiek 1; Complete To-Do List.md",
     "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Sociogramopdracht.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/2. Vakdidactiek 1; Complete To-Do List.md",
     "Schoolopdrachten/Cursushandleidingen/Cursushandleiding VAKD1 (2026-2027) 07072026_sem 1 2026.pdf",
-    "Praktijkurenovereenkomst (stage) september 2026 .pdf",
     "Schoolopdrachten/Cursushandleidingen/Cursushandleiding PiP1a (aug2026).pdf",
     "Schoolopdrachten/Cursushandleidingen/26sep Cursushandleiding Pedagogiek 1.pdf",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Vakautobiografie.md",
@@ -285,7 +281,6 @@
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek",
     "Schoolopdrachten/Deadlines and exercises",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Handleiding Praktijkdossier Pip1_2026.pdf",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Lesplan MDA.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Leerganganalyse.md",
