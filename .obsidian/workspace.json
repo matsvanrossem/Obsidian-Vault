@@ -11,14 +11,17 @@
             "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/2. Vakdidactiek 1; Complete To-Do List.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
+                "viewState": {
+                  "x": 0.5,
+                  "y": -882.9666666666667,
+                  "zoom": -1.409013711651074
+                }
               },
-              "icon": "lucide-file",
-              "title": "2. Vakdidactiek 1; Complete To-Do List"
+              "icon": "lucide-layout-dashboard",
+              "title": "30 Oct 2026"
             }
           }
         ]
@@ -33,7 +36,7 @@
       {
         "id": "f57aa0f80a313a5f",
         "type": "tabs",
-        "dimension": 69.30320150659134,
+        "dimension": 81.09640831758034,
         "children": [
           {
             "id": "2c02cc20cbb5c898",
@@ -72,7 +75,7 @@
       {
         "id": "3c89a40f5e8f8cb0",
         "type": "tabs",
-        "dimension": 30.69679849340866,
+        "dimension": 18.90359168241966,
         "children": [
           {
             "id": "cf464cead1538b54",
@@ -260,12 +263,13 @@
   },
   "active": "823a2161c3b86b67",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/2. Vakdidactiek 1; Complete To-Do List.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Leerganganalyse.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Lesplan MDA.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Vakautobiografie.md",
     "Documenten/2VWO-Chapter 1 Final Test Recap LessonPlan.pdf",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
     "Documenten/Praktijkurenovereenkomst (stage) september 2026 .pdf",
     "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
@@ -279,7 +283,6 @@
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/PiP1a Practice Portfolio; Complete To-Do Checklist.md",
     "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Pedagogiek 1; Complete To-Do List.md",
     "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Sociogramopdracht.md",
-    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/2. Vakdidactiek 1; Complete To-Do List.md",
     "Schoolopdrachten/Cursushandleidingen/Cursushandleiding VAKD1 (2026-2027) 07072026_sem 1 2026.pdf",
     "Schoolopdrachten/Cursushandleidingen/Cursushandleiding PiP1a (aug2026).pdf",
     "Schoolopdrachten/Cursushandleidingen/26sep Cursushandleiding Pedagogiek 1.pdf",
