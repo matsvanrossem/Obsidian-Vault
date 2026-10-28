@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
+                "file": "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
                 "viewState": {
-                  "x": 1279.727533189925,
-                  "y": 174.43589441099306,
-                  "zoom": 0.6666666666666667
+                  "x": 401.5,
+                  "y": -330.5,
+                  "zoom": -0.6104099493725945
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "8 Oct 2026"
+              "title": "PLattegrond"
             }
           }
         ]
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -261,8 +262,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c02cc20cbb5c898",
+  "active": "c74fa011b3d83cb7",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/PiP1a Practice Portfolio; Complete To-Do Checklist.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Handleiding Praktijkdossier Pip1_2026.pdf",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Vakautobiografie.md",
@@ -279,15 +286,10 @@
     "Schoolopdrachten/Deadlines and exercises",
     "Schoolopdrachten/Cursushandleidingen/Cursushandleiding PiP1a (aug2026).pdf",
     "Schoolopdrachten/Cursushandleidingen/26sep Cursushandleiding Pedagogiek 1.pdf",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal",
-    "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
     "Documenten/Praktijkurenovereenkomst (stage) september 2026 .pdf",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson H Speaking and Stones - Agreeing and Disagreeing.md",
-    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
@@ -299,7 +301,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 44/Chapter 1 Test Information.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/Grammar Recap.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
     "Schoolopdrachten/Handelingsopdracht;Lesplan MDA.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
@@ -308,7 +309,6 @@
     "Lessen/HAVO 3/Lesplannen/Lesplan Template.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
-    "Lessen/HAVO 3/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
