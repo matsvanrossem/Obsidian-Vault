@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
+                "file": "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
                 "viewState": {
-                  "x": -153.96463755365107,
-                  "y": 91.74557214401173,
-                  "zoom": 1
+                  "x": 0.5,
+                  "y": -636,
+                  "zoom": -1.483781480053046
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "28 oct 2026"
+              "title": "30 Oct 2026"
             }
           }
         ]
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -264,10 +263,10 @@
   },
   "active": "c74fa011b3d83cb7",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/PiP1a Practice Portfolio; Complete To-Do Checklist.md",
