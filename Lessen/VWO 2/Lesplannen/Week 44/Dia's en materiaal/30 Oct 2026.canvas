@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"1ed6960e97addbc7","type":"text","text":"","x":-1326,"y":-634,"width":250,"height":60},
 		{"id":"530c9d7444377c06","type":"text","text":"# **New Homework** \n### - **Always bring your Physical books**!!\n### - ****","x":-1514,"y":-1228,"width":650,"height":172,"color":"1"},
-		{"id":"2a24b467cd64d152","type":"text","text":"\n## **08:15** -\tWhats in Chapter 2 \n## **08:35** - Reading \n## **08:55** - Digital or on Paper? \n","x":-1513,"y":-1423,"width":649,"height":156,"color":"4"},
+		{"id":"2a24b467cd64d152","type":"text","text":"\n## **08:15** -\tWhats in Chapter 2 \n## **08:25** - Watching A  **Exercises 5-9**\n## **08:40** - Reading \n","x":-1513,"y":-1423,"width":649,"height":156,"color":"4"},
 		{"id":"43f7895bc24e2e7e","type":"text","text":"# **Today's Class: Starting Chapter 2 **","x":-1490,"y":-1524,"width":602,"height":68,"color":"2"}
 	],
 	"edges":[]
