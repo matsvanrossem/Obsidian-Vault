@@ -6,11 +6,11 @@
 
 ## Week 44
 
-| Lesson | Activities in class | My plan (Werkplein) | Done |
-|:--:|---|---|:--:|
-| 1 | Getting Started<br>Exercises 1a, 1b, 2 and 3. Introduce the mission: Health. | ______________________ | ☐ |
-| 2 | Getting Started + A Watching<br>Exercises 4a-4b and 5-6. Watching skills. | ______________________ | ☐ |
-| 3 | A Watching<br>Exercises 7a-7b, 8 and 9. Discuss answers and prepare Theme Words. | ______________________ | ☐ |
+| Lesson | Activities in class                                                              | My plan (Werkplein)    | Done |
+| :----: | -------------------------------------------------------------------------------- | ---------------------- | :--: |
+|   1    | Getting Started<br>Exercises 1a, 1b, 2 and 3. Introduce the mission: Health.     | ______________________ |  ☐   |
+|   2    | Getting Started + A Watching<br>Exercises 4a-4b and 5-6. Watching skills.        | ______________________ |  ☐   |
+|   3    | A Watching<br>Exercises 7a-7b, 8 and 9. Discuss answers and prepare Theme Words. | ______________________ |  ☐   |
 
 **Homework / preparation**
 
