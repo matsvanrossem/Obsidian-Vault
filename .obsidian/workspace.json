@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "89825a10d4a40ab2",
+        "id": "7170274f13abf079",
         "type": "tabs",
         "children": [
           {
-            "id": "c74fa011b3d83cb7",
+            "id": "823a2161c3b86b67",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
+<<<<<<< HEAD
                 "file": "Documenten/Planners/Planner  Year 2 Theme 1.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Planner  Year 2 Theme 1"
+=======
+                "file": "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
+                "viewState": {
+                  "x": 0.5,
+                  "y": -882.9666666666667,
+                  "zoom": -1.409013711651074
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "30 Oct 2026"
+>>>>>>> 440d428e7dafb9a546404a45158475c0ca89ce76
             }
           }
         ]
@@ -31,7 +43,7 @@
       {
         "id": "f57aa0f80a313a5f",
         "type": "tabs",
-        "dimension": 77.75305895439377,
+        "dimension": 81.09640831758034,
         "children": [
           {
             "id": "2c02cc20cbb5c898",
@@ -70,7 +82,7 @@
       {
         "id": "3c89a40f5e8f8cb0",
         "type": "tabs",
-        "dimension": 22.246941045606228,
+        "dimension": 18.90359168241966,
         "children": [
           {
             "id": "cf464cead1538b54",
@@ -78,12 +90,12 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           },
           {
-            "id": "6d068e23f00485dd",
+            "id": "a214e35ff680ed07",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -106,11 +118,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 294.517879486084
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stage Logboek/Week 3.md",
+                "file": "Lesplannen/Lesplan Template 2 VWO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stage Logboek/Week 3.md",
+                "file": "Lesplannen/Lesplan Template 2 VWO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stage Logboek/Week 3.md",
+                "file": "Lesplannen/Lesplan Template 2 VWO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -223,8 +235,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -237,9 +249,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open LessonUp": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -253,11 +262,15 @@
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-custom-frames:Open LessonUp": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c74fa011b3d83cb7",
+  "active": "823a2161c3b86b67",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/2 Oct 2026.canvas",
@@ -266,53 +279,67 @@
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
+=======
+>>>>>>> 440d428e7dafb9a546404a45158475c0ca89ce76
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/2. Vakdidactiek 1; Complete To-Do List.md",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Leerganganalyse.md",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Lesplan MDA.md",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Vakautobiografie.md",
+    "Documenten/2VWO-Chapter 1 Final Test Recap LessonPlan.pdf",
+    "Documenten/Praktijkurenovereenkomst (stage) september 2026 .pdf",
     "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
-    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal",
+    "Lessen/VWO 2/Lesplannen/Lesplan Template.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/2%20VWO%20-%20Chapter%201%20Final%20Test%20Recap%20-%20Differentiated%20Lesson%20Plan.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/Tests.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/PiP1a Practice Portfolio; Complete To-Do Checklist.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Handleiding Praktijkdossier Pip1_2026.pdf",
-    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Vakautobiografie.md",
-    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Lesplan MDA.md",
-    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
-    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Leerganganalyse.md",
-    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/2. Vakdidactiek 1; Complete To-Do List.md",
-    "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Sociogramopdracht.md",
     "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Pedagogiek 1; Complete To-Do List.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier",
-    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek",
-    "Schoolopdrachten/Deadlines and exercises/Pip1",
-    "Schoolopdrachten/Deadlines and exercises/Pedagogiek",
-    "Schoolopdrachten/Deadlines and exercises",
+    "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Sociogramopdracht.md",
+    "Schoolopdrachten/Cursushandleidingen/Cursushandleiding VAKD1 (2026-2027) 07072026_sem 1 2026.pdf",
     "Schoolopdrachten/Cursushandleidingen/Cursushandleiding PiP1a (aug2026).pdf",
     "Schoolopdrachten/Cursushandleidingen/26sep Cursushandleiding Pedagogiek 1.pdf",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal",
-    "Documenten/Praktijkurenovereenkomst (stage) september 2026 .pdf",
-    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
-    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson H Speaking and Stones - Agreeing and Disagreeing.md",
-    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
-    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
-    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
-    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/PLattegrond.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
-    "Schoolopdrachten/Colleges/Vakdidactiek; Activerend lesgeven.md",
-    "Untitled 1.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1",
+    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek",
+    "Schoolopdrachten/Deadlines and exercises",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Handleiding Praktijkdossier Pip1_2026.pdf",
+    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
     "Untitled.md",
+    "Schoolopdrachten/Colleges/Vakdidactiek; Activerend lesgeven.md",
     "Lessen/HAVO 3/Lesplannen/Week 44/Chapter 1 Test Information.md",
+<<<<<<< HEAD
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/Grammar Recap.canvas",
     "Schoolopdrachten/Handelingsopdracht;Lesplan MDA.md",
+=======
+    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
+    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
+    "Schoolopdrachten/HAVO%203%20-%20Lesson%20I%20Writing%20and%20Grammar%20-%20Questions%20and%20Negations%20-%20MDA.md",
+    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson G Reading - Online Life.md",
+    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/2 Oct 2026.canvas",
+>>>>>>> 440d428e7dafb9a546404a45158475c0ca89ce76
     "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
-    "Documenten/Bijlages/Pasted image 20261001111610.png",
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
+    "Schoolopdrachten/Colleges/Hoorcollege; Werkcollege pedagogiek.md",
+    "Schoolopdrachten/Colleges/How to give a Writing class.md",
+    "Schoolopdrachten/Colleges/Hoorcollege.md",
+    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson H Speaking and Stones - Agreeing and Disagreeing.md",
+    "Untitled 2.md",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
-    "Documenten/Bijlages/Pasted image 20261001111847.png",
     "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
     "Documenten/Bijlages/2 Oct 2026-1790882224469.webp",
-    "Pasted image 20261001111847.png",
+    "Documenten/Bijlages/Pasted image 20261001111847.png",
     "Documenten/Bijlages/Pasted image 20261001111654.png",
+    "Documenten/Bijlages/Pasted image 20261001111610.png",
+    "Documenten/Bijlages/Pasted image 20260930110648.png",
     "Documenten/Bijlages/Week 2-1788891239507.webp",
-    "Documenten/Bijlages/Week 3-1789912355449.webp"
+    "Documenten/Bijlages/Week 3-1789913087064.webp"
   ]
 }
