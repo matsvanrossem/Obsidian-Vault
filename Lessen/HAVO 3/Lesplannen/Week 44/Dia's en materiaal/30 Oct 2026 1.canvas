@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"a620aa494ca98c28","x":-979,"y":-956,"width":250,"height":60,"type":"text","text":""},
 		{"id":"1ed6960e97addbc7","type":"text","text":"","x":-1326,"y":-634,"width":250,"height":60},
 		{"id":"530c9d7444377c06","type":"text","text":"# **New Homework** \n### - **Memorize watching strategies**\n### - **Exercises 5-9**","x":-1514,"y":-1228,"width":650,"height":172,"color":"1"},
 		{"id":"2a24b467cd64d152","type":"text","text":"\n## **12:20** -\tWhats in Chapter 2 \n## **12:35** - Watching A and Strategies\n## **13:05** - Homework for next week\n","x":-1513,"y":-1423,"width":649,"height":156,"color":"4"},
