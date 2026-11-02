@@ -1,0 +1,7 @@
+- [x] Derya mailen Bruno Resit chapter 1 toets. 
+- [x] Gwen mailen Evaluatie
+- [x] Toetsen nakijken 2V
+- [x] Toetsen nakijken 3H
+- [ ] lesplannen maken week 45>
+- [ ] Sociogramopdracht nog afmaken
+- [ ] 
