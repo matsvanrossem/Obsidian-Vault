@@ -11,14 +11,17 @@
             "id": "6880d1be5c8e992a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/Week_45_2VWO_Theme_Words_Question_First_Student_Cards.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
+                "viewState": {
+                  "x": 1800.4337980561997,
+                  "y": 729.722380162018,
+                  "zoom": 0.2783550394161968
+                }
               },
-              "icon": "lucide-file",
-              "title": "Week_45_2VWO_Theme_Words_Question_First_Student_Cards"
+              "icon": "lucide-layout-dashboard",
+              "title": "4 November 2026"
             }
           }
         ]
@@ -260,12 +263,12 @@
   },
   "active": "6880d1be5c8e992a",
   "lastOpenFiles": [
-    "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/Week_45_2VWO_Theme_Words_Question_First_Student_Cards.docx",
-    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/Week_45_Lesson_1_2VWO_Theme_Words_Read_the_Question_First.md",
     "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/Week_45_2VWO_Theme_Words_Question_First_Student_Cards.md",
-    "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_1_2VWO_At_the_Doctors.md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/Week_45_2VWO_Theme_Words_Question_First_Student_Cards.docx",
+    "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_1_2VWO_At_the_Doctors.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
@@ -290,7 +293,6 @@
     "Schoolopdrachten/Deadlines and exercises/Pip1/Documenten/Persoonlijk Ontwikkeling Plan.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Documenten",
     "Schoolopdrachten/Cursushandleidingen/Cursushandleiding VAKD1 (2026-2027) 07072026_sem 1 2026.pdf",
-    "Schoolopdrachten/Cursushandleidingen/26sep Cursushandleiding Pedagogiek 1.pdf",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/2. Vakdidactiek 1; Complete To-Do List.md",
     "To Do/To Do List Stage.md",
     "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Sociogramopdracht.md",
