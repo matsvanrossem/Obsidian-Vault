@@ -8,32 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "823a2161c3b86b67",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documenten/Planners/Planner Year 3 Theme 2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Planner Year 3 Theme 2"
-            }
-          },
-          {
             "id": "ce3eecf8656df538",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
-                "viewState": {
-                  "x": -757.8642409350279,
-                  "y": -1038.9599077646021,
-                  "zoom": -0.7446691786679398
-                }
+                "file": "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/PiP1a Practice Portfolio; Complete To-Do Checklist.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "30 Oct 2026"
+              "icon": "lucide-file",
+              "title": "PiP1a Practice Portfolio; Complete To-Do Checklist"
             }
           },
           {
@@ -42,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
+                "file": "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_1_2VWO_At_the_Doctors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Health_Weekly_Lesson_Planner_2VWO"
+              "title": "Week_45_Lesson_1_2VWO_At_the_Doctors"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,12 +272,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c02cc20cbb5c898",
+  "active": "ce3eecf8656df538",
   "lastOpenFiles": [
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Handleiding Praktijkdossier Pip1_2026.pdf",
+    "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_1_2VWO_At_the_Doctors.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
+    "Documenten/Planners/Planner Year 3 Theme 2.pdf",
+    "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_3_2VWO_Reading_Main_Idea.md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_2_2VWO_Illness_and_Injuries.md",
     "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
-    "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
     "Schoolopdrachten/Cursushandleidingen/Cursushandleiding PiP1a (aug2026).pdf",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Documenten/Persoonlijk Ontwikkeling Plan.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Documenten",
@@ -301,7 +291,6 @@
     "Schoolopdrachten/Cursushandleidingen/26sep Cursushandleiding Pedagogiek 1.pdf",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/2. Vakdidactiek 1; Complete To-Do List.md",
     "To Do/To Do List Stage.md",
     "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Sociogramopdracht.md",
@@ -314,7 +303,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 44/Dia's en materiaal",
     "Documenten/Planners/3H planner Theme 1 - The World around you.pdf",
     "Documenten/Planners/Planner  Year 2 Theme 1.pdf",
-    "Documenten/Planners/Planner Year 3 Theme 2.pdf",
     "Lessen/VWO 2/Lesplannen/Week 45",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Leerganganalyse.md",
@@ -331,10 +319,7 @@
     "Lessen/HAVO 3/Lesplannen/Week 44/Chapter 1 Test Information.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
     "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/9 Oct 2026.canvas",
-    "Schoolopdrachten/HAVO%203%20-%20Lesson%20I%20Writing%20and%20Grammar%20-%20Questions%20and%20Negations%20-%20MDA.md",
-    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson G Reading - Online Life.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
     "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
