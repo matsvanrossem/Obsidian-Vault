@@ -40,12 +40,14 @@
             "id": "8f0919ad590203f5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Schoolopdrachten/Cursushandleidingen/Cursushandleiding PiP1a (aug2026).pdf"
+                "file": "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Cursushandleiding PiP1a (aug2026)"
+              "icon": "lucide-file",
+              "title": "Health_Weekly_Lesson_Planner_2VWO"
             }
           }
         ],
@@ -286,14 +288,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8f0919ad590203f5",
+  "active": "2c02cc20cbb5c898",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
+    "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
+    "Schoolopdrachten/Cursushandleidingen/Cursushandleiding PiP1a (aug2026).pdf",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Documenten/Persoonlijk Ontwikkeling Plan.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Documenten",
     "Schoolopdrachten/Cursushandleidingen/Cursushandleiding VAKD1 (2026-2027) 07072026_sem 1 2026.pdf",
     "Schoolopdrachten/Cursushandleidingen/26sep Cursushandleiding Pedagogiek 1.pdf",
-    "Schoolopdrachten/Cursushandleidingen/Cursushandleiding PiP1a (aug2026).pdf",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
@@ -304,7 +309,6 @@
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/PiP1a Practice Portfolio; Complete To-Do Checklist.md",
     "To Do",
     "Documenten/Planners/Crime_Weekly_Lesson_Planner_3HAVO.md",
-    "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
     "Untitled 1.md",
     "Lessen/HAVO 3/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026 1.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 44/Dia's en materiaal",
@@ -317,8 +321,6 @@
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Lesplan MDA.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Vakautobiografie.md",
-    "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
-    "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Lesplan Template.md",
     "Lessen/VWO 2/Lesplannen/Week 44/2%20VWO%20-%20Chapter%201%20Final%20Test%20Recap%20-%20Differentiated%20Lesson%20Plan.md",
@@ -333,7 +335,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson G Reading - Online Life.md",
     "Lessen/HAVO 3/Lesplannen/Week 40/Dias en Materiaal/1 Oct 2026.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 40/HAVO 3 - Lesson E Writing and Grammar - Gerunds and To Infinitive.md",
-    "Schoolopdrachten/Colleges/Hoorcollege; Werkcollege pedagogiek.md",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
     "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
