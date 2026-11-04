@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "28 oct 2026"
             }
+          },
+          {
+            "id": "201bbdb9b2afd479",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
+                "viewState": {
+                  "x": 2029.7546865480274,
+                  "y": -33.63909880573512,
+                  "zoom": 0.5619879899009178
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "4 November 2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -261,8 +280,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c02cc20cbb5c898",
+  "active": "201bbdb9b2afd479",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/Week_45_Lesson_1_2VWO_Theme_Words_Read_the_Question_First.md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/Week_45_2VWO_Theme_Words_Question_First_Student_Cards.md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/6 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_2_2VWO_Illness_and_Injuries.md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_3_2VWO_Reading_Main_Idea.md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_1_2VWO_At_the_Doctors.md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises",
+    "Lessen/VWO 2/Lesplannen/Week 45/Canvas",
+    "Lessen/VWO 2/Lesplannen/Week 45",
+    "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 45/5 November.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 45",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Documenten/Persoonlijk Ontwikkeling Plan.md",
     "Lessen/HAVO 3/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026 1.canvas",
@@ -275,39 +310,23 @@
     "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/PiP1a Practice Portfolio; Complete To-Do Checklist.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/9 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Writing and Grammar I.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Documenten/Planners/Planner  Year 2 Theme 1.pdf",
     "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
     "Chapter 1 toets.md",
-    "Untitled.md",
     "Documenten/Planners/Crime_Weekly_Lesson_Planner_3HAVO.md",
-    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/2 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 40/Dia's en materiaal/1 Oct 2026 1.canvas",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Speaking and Stones H.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading G ().md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Reading and TestPlanner.md",
     "Lessen/VWO 2/Lesplannen/Week 40/Lesplan 2 VWO ; Listening F.md",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Test Instructions; Chapter 1.md",
-    "Lessen/HAVO 3/Lesplannen/Week 41/Dias en Materiaal/8 Oct 2026.canvas",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Handleiding Praktijkdossier Pip1_2026.pdf",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Vakautobiografie.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht;Lesplan MDA.md",
     "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Lesplan Model Didactische Analyse.md",
-    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/Handelingsopdracht; Leerganganalyse.md",
-    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek/2. Vakdidactiek 1; Complete To-Do List.md",
-    "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Sociogramopdracht.md",
-    "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Pedagogiek 1; Complete To-Do List.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier",
-    "Schoolopdrachten/Deadlines and exercises/Vakdidactiek",
-    "Schoolopdrachten/Deadlines and exercises/Pip1",
-    "Schoolopdrachten/Deadlines and exercises/Pedagogiek",
-    "Schoolopdrachten/Deadlines and exercises",
-    "Lessen/HAVO 3/Lesplannen/Week 41/HAVO 3 - Lesson I Writing and Grammar - Questions and Negations.md",
-    "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/PLattegrond.canvas",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
