@@ -1,4 +1,5 @@
 {
   "cssTheme": "Soft Paper",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showRibbon": false
 }
