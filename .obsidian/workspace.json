@@ -11,14 +11,17 @@
             "id": "c74fa011b3d83cb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Schoolopdrachten/Deadlines and exercises/Pip1/Documenten/Persoonlijk Ontwikkeling Plan.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
+                "viewState": {
+                  "x": 1443.5,
+                  "y": 692.5,
+                  "zoom": -1.3306734195218488
+                }
               },
-              "icon": "lucide-file",
-              "title": "Persoonlijk Ontwikkeling Plan"
+              "icon": "lucide-layout-dashboard",
+              "title": "28 oct 2026"
             }
           }
         ]
@@ -258,17 +261,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c74fa011b3d83cb7",
+  "active": "2c02cc20cbb5c898",
   "lastOpenFiles": [
-    "Lessen/HAVO 3/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026 1.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Documenten/Persoonlijk Ontwikkeling Plan.md",
+    "Lessen/HAVO 3/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026 1.canvas",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Documenten",
     "Untitled 1.md",
     "To Do/To Do List Stage.md",
     "To Do",
     "Lessen/HAVO 3/Lesplannen/Week 44/Dia's en materiaal",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/PiP1a Practice Portfolio; Complete To-Do Checklist.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
