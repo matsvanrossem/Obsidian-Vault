@@ -1,1 +1,13 @@
-{}
+{
+	"nodes":[
+		{"id":"64546d798d4a0d85","type":"text","text":"\n## **09:45** - The Password \n\n## **10:10** - *Exercises 10 t/m 13*\n\n## **10:20** -\tWrap-up and homework reminder","x":-498,"y":48,"width":649,"height":212,"color":"4"},
+		{"id":"2a7224c120f14db9","type":"text","text":"***Homework for Friday *** \n- Finish any incomplete **B Theme Words exercises 10-13** and practise the *At the doctor's* vocabulary.\n- **B Theme Words Exercises 14a-14d, 15 and 16.** Theme words: Illness and injuries.\n- For **three** homework questions, mark **T/A/S** before answering and tick **K** after checking\n- ## BRING YOUR BOOK TOMORROW!!!!!!\n","x":-498,"y":283,"width":449,"height":298,"color":"1"},
+		{"id":"8382ffdb292d1664","type":"text","text":"# **Today's Class: vocabulary and question-decoding**","x":-518,"y":-28,"width":828,"height":60,"color":"2"},
+		{"id":"3a71c7ffb4ad4d2c","type":"text","text":"### The Password Is... Game Rules\n\n1. Work in groups of 3 \n    \n2. Take turns picking a card and describing the Password in English.\n    \n3. Do not say the Password or any of the three forbidden words.\n    \n4. Do not speak Dutch, point or use gestures.\n    \n5. Your group has 45 seconds to guess the word.\n    \n6. The person who guesses correctly earns one point.","x":895,"y":65,"width":482,"height":460,"color":"3"},
+		{"id":"f32aec790dee2979","x":261,"y":71,"width":503,"height":448,"color":"3","type":"text","text":"### How to Join Quizlet Live\n\n1. Open your browser and go to [quizlet.live](https://quizlet.live?utm_source=chatgpt.com).\n    \n2. Enter the game code shown on the board.\n    \n3. Click Join game.\n    \n4. Enter your first name and click Next.\n    \n5. Wait for the teacher to start the game.\n    \n6. If you're playing in teams, find your teammates and work together."},
+		{"id":"a470994038b7995b","x":261,"y":581,"width":2408,"height":541,"type":"text","text":"![[5 November-1793796391713.webp|2362]]"}
+	],
+	"edges":[
+		{"id":"ad14b7d2f6c56bb4","fromNode":"f32aec790dee2979","fromSide":"right","toNode":"3a71c7ffb4ad4d2c","toSide":"left"}
+	]
+}
