@@ -32,9 +32,9 @@
               "state": {
                 "file": "Lessen/HAVO 3/Lesplannen/Week 45/5 November.canvas",
                 "viewState": {
-                  "x": -1028.755046123199,
-                  "y": -26.96319692418065,
-                  "zoom": 0.7632196808566045
+                  "x": -1365.6263528399782,
+                  "y": -239.3056364397998,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
