@@ -11,14 +11,14 @@
 
 ## Lesson preparation
 
-| Element | Plan |
-|---|---|
-| **Lesson topic** | C Reading and comprehension strategies |
-| **Stepping Stones coverage** | C Reading **17, 18a–18d, 19–21**. |
-| **Main focus** | Read for overall meaning and detail while understanding exactly what each question requires. |
-| **Prior learning** | B Theme Words and earlier reading experience. |
-| **Materials** | Coursebook C Reading texts, highlighters or pencils, short evidence-note slips, board. |
-| **Teacher preparation** | Preview the actual reading passages and exercise instructions; choose one short passage for live modelling. |
+| Element                      | Plan                                                                                                        |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Lesson topic**             | C Reading and comprehension strategies                                                                      |
+| **Stepping Stones coverage** | C Reading **17, 18a–18d, 19–21**.                                                                           |
+| **Main focus**               | Read for overall meaning and detail while understanding exactly what each question requires.                |
+| **Prior learning**           | B Theme Words and earlier reading experience.                                                               |
+| **Materials**                | Coursebook C Reading texts, highlighters or pencils, short evidence-note slips, board.                      |
+| **Teacher preparation**      | Preview the actual reading passages and exercise instructions; choose one short passage for live modelling. |
 
 ### Learning objectives
 
