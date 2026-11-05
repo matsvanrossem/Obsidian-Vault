@@ -7,3 +7,8 @@ er heerst een fijne stilte en geeft positieve feedback op inbreng van leerlingen
 Het valt me op dat de leraar het woord "Expliciet" gebruikt.
 Docent spreekt expliciet uit wat de leerlingen moeten weten. 
 Duidelijk uitgelegd welke begrippen belangrijk zijn doormiddel van intonatie. 
+	*Waarom de keuze voor Instructie werkvorm?*
+Veel handgebaren duidelijk gebruik van **HIMAG**
+Herhaling voor extra inflectie van begrippen. 
+	**Gebruik van de escalatieladder wanneer er door de instructie heen gelachen word.  door de verantwoordelijkheid bij de leerling te leggen.**
+Geeft ruimte aan leerlingen na instructie voor eigen werk. de aandachtspannen wordt niet meer getest.
