@@ -28,14 +28,17 @@
             "id": "201bbdb9b2afd479",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_04_Teaching_and_guidance.md",
-                "mode": "source",
-                "source": false
+                "file": "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
+                "viewState": {
+                  "x": 1126.8400268874711,
+                  "y": 302.8735969915234,
+                  "zoom": 0.8593242226439293
+                }
               },
-              "icon": "lucide-file",
-              "title": "Task_04_Teaching_and_guidance"
+              "icon": "lucide-layout-dashboard",
+              "title": "5 November"
             }
           }
         ],
@@ -130,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -278,6 +282,9 @@
   },
   "active": "201bbdb9b2afd479",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_04_Teaching_and_guidance.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_03_Lesson_planning.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_02_Learning_activities.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_01_Learning_objectives.md",
@@ -299,7 +306,6 @@
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_09_Pedagogical_vision.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_06_Relationships_with_students.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_05_Assessment_of_learning.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_04_Teaching_and_guidance.md",
     "Lessen/HAVO 3/Lesplannen/Week 44/Week_44_Lesson_2_3HAVO_A_Watching_Strategy.md",
     "Lessen/VWO 2/Lesplannen/Week 50",
     "Lessen/VWO 2/Lesplannen/Week 49",
@@ -308,7 +314,6 @@
     "Lessen/VWO 2/Lesplannen/Week 46",
     "Lessen/HAVO 3/Lesplannen/Week 50/Week_50_Lesson_2_3HAVO_Chapter_2_Method_Test.md",
     "Lessen/HAVO 3/Lesplannen/Week 50/Week_50_Lesson_1_3HAVO_Chapter_2_Revision.md",
-    "Lessen/HAVO 3/Lesplannen/Week 49/Week_49_Lesson_2_3HAVO_I_Grammar_6.md",
     "Lessen/HAVO 3/Lesplannen/Week 50",
     "Lessen/HAVO 3/Lesplannen/Week 49",
     "Lessen/HAVO 3/Lesplannen/Week 48",
@@ -321,11 +326,9 @@
     "5 November-1793796263920.webp",
     "5 November-1793796258996.webp",
     "5 November-1793796251561.webp",
-    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Canvas/6 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/PLattegrond.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
