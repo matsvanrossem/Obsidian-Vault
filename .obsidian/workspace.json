@@ -28,17 +28,14 @@
             "id": "201bbdb9b2afd479",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 45/5 November.canvas",
-                "viewState": {
-                  "x": -1365.6263528399782,
-                  "y": -239.3056364397998,
-                  "zoom": 1
-                }
+                "file": "Stage Logboek/Observatie Geschiedenis 1V.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "5 November"
+              "icon": "lucide-file",
+              "title": "Observatie Geschiedenis 1V"
             }
           }
         ],
@@ -133,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326,
-    "collapsed": true
+    "width": 326
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -282,8 +278,9 @@
   },
   "active": "201bbdb9b2afd479",
   "lastOpenFiles": [
-    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/T.A.S.K.md",
+    "Stage Logboek/Observatie Geschiedenis 1V.md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 45/5 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 45/Week_45_Lesson_2_3HAVO_C_Reading.md",
     "Lessen/HAVO 3/Lesplannen/Week 45/Week_45_Lesson_1_3HAVO_B_Theme_Words.md",
