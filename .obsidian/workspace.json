@@ -15,9 +15,9 @@
               "state": {
                 "file": "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
                 "viewState": {
-                  "x": 471,
-                  "y": 95,
-                  "zoom": 0
+                  "x": 932.5541410039369,
+                  "y": -0.7868549519289303,
+                  "zoom": 0.834946961247322
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -263,17 +264,19 @@
   },
   "active": "c74fa011b3d83cb7",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/6 November.canvas",
+    "Documenten/Planners/Planner  Year 2 Theme 1.pdf",
+    "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
+    "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
     "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
     "Lessen/HAVO 3/Lesplannen/Week 45/Week_45_Lesson_1_3HAVO_B_Theme_Words.md",
-    "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 45/Week_45_Lesson_2_3HAVO_C_Reading.md",
     "Lessen/HAVO 3/Lesplannen/Week 45/5 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026 1.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/6 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_3_2VWO_Reading_Main_Idea.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
     "Untitled.md",
@@ -298,7 +301,6 @@
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Lesson_plan_2 1.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Lesson_plan_2.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Lesson_plan_1.md",
-    "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Task_12b_Self_assessment 1.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Task_12a_Supervisor_assessment 1.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Task_12_Reflection_report.md",
@@ -310,7 +312,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 50",
     "Lessen/HAVO 3/Lesplannen/Week 49",
     "Lessen/HAVO 3/Lesplannen/Week 48",
-    "Lessen/HAVO 3/Lesplannen/Week 47",
     "Lessen/VWO 2/Lesplannen/Week 41/Dia's en materiaal/8 Oct 2026.canvas",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
