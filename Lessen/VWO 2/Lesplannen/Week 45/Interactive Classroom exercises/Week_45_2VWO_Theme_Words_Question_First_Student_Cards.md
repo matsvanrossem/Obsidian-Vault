@@ -3,7 +3,7 @@
 **2 VWO | Theme 2: Health | Week 45**  
 **Name:** _______________________________  **Class:** __________  **Date:** __________
 
-## My strategy: TASK
+ strategy: TASK
 
 **Before I answer a question:**
 

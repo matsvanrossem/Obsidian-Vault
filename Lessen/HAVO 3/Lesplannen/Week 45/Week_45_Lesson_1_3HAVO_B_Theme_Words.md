@@ -1,66 +1,69 @@
-# Lesson blueprint: 3 HAVO | Week 45, Lesson 1
+# Lesson Plan: 3 HAVO
+
+### Theme 2: Crime | 30 Seconds Vocabulary Game
 
 **Subject:** English  
 **Class:** 3 HAVO  
 **Coursebook:** Stepping Stones, Edition 7  
-**Theme / chapter:** Theme 2: Crime  
+**Chapter:** Theme 2: Crime  
 **Lesson:** B Theme Words: Committing a Crime and In the Courtroom  
 **Duration:** 45 minutes  
-**Date:** Week 45, 2026; exact day according to timetable  
-**Teacher:** __________________________
+**Date:** 6 November 2026
 
-## Lesson preparation
+## 1. Lesson Preparation
 
-| Element                      | Plan                                                                                                                                                               |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Lesson topic**             | Vocabulary production and meaning in context                                                                                                                       |
-| **Stepping Stones coverage** | B Theme Words **10a–10c, 11a–11b, 12, 13a–13c, 14, 15a–15b, 16**.                                                                                                  |
-| **Main focus**               | Recognise and use the two B Theme Words sets; learn to decode vocabulary instructions rather than rushing.                                                         |
-| **Prior learning**           | Introduction to the Crime theme and watching tasks in Week 44.                                                                                                     |
-| **Materials**                | B Theme Words lists, workbook/digital exercises, board, 8–12 teacher-made vocabulary cards, timer.                                                                 |
-| **Teacher preparation**      | Select 8–12 words from the *actual* B lists to use in the game. Check which assigned exercise items are best done in class and which can be completed as homework. |
+**Lesson topic**
+Introducing and practising the Crime theme words through an interactive vocabulary game based on _30 Seconds_.
 
-### Learning objectives
+**Main skills**
+Speaking, listening, vocabulary recognition and vocabulary production.
 
-1. Recognise and use Crime vocabulary for committing a crime and courtroom situations.
-2. Use the TASK routine to identify exactly what a vocabulary exercise requires.
+**Prior knowledge**
+Students have already been introduced to Theme 2: Crime and have some familiarity with the topic through previous activities.
+**Materials**
+- Interactive digiboard with Obsidian lesson overview.
+    
+- Prepared 30 Seconds vocabulary cards.
+    
+- Group arrangements and competition schedule.
+    
+- Timer and scoreboard.
+    
+- Stepping Stones vocabulary lists.
+    
 
-### Success criteria (student-friendly)
+## 2. Learning Objectives
+By the end of the lesson, students should be able to:
+1. Recognise vocabulary related to committing a crime and courtroom situations.
+    
+2. Explain the meaning of English vocabulary without using Dutch translations.
+    
+3. Practise speaking and listening skills through a competitive vocabulary activity.
+    
+4. Identify which vocabulary they already understand and which words still require practice.
+    
 
-- [ ] I can explain at least five target words using simple English.
-- [ ] I can choose a suitable word from context and justify it.
-- [ ] I can identify answer direction, format and restrictions before starting an exercise.
+### Success Criteria
 
-### Starter on the board
+Students can demonstrate that they have achieved the learning objectives when they can:
+- Explain several Crime theme words using English descriptions.
+    
+- Correctly recognise vocabulary based on descriptions provided by classmates.
+    
+- Communicate meanings without using the target word, Dutch or gestures.
+    
+- Identify unfamiliar words that require further study.
+    
 
-> Give three invented instructions: “Match the words”, “Complete with ONE word” and “Choose the word that does NOT fit”. Students state the task but do not answer.
+## 3. Lesson Sequence
 
-## Lesson sequence (45 minutes)
+|Time|Phase|Teacher Activities|Student Activities|
+|---|---|---|---|
+|12:20-12:23|Lesson introduction|Introduce the lesson objectives and explain that the class will practise vocabulary through a 30 Seconds game.|Listen and prepare for the activity.|
+|12:23-12:27|Activating prior knowledge|Introduce several words from Theme 2 and ask students to explain their meanings.|Recall familiar vocabulary and suggest English explanations.|
+|12:27-12:30|Instruction and modelling|Explain the game rules, demonstrate an example and introduce the competition structure.|Listen, ask questions and check their assigned groups.|
+|12:30-12:52|Active learning: 30 Seconds|Organise the matches, monitor participation, keep score and encourage English communication.|Work in teams to describe and guess Crime theme words.|
+|12:52-12:58|Vocabulary feedback|Review difficult vocabulary and discuss possible English explanations.|Reflect on unfamiliar words and practise alternative descriptions.|
+|12:58-13:00|Check for understanding|Ask students to explain a vocabulary word and identify something they still need to practise.|Demonstrate their understanding and identify learning needs.|
+|13:00-13:05|Lesson closure and homework|Explain the homework and summarise the importance of practising the vocabulary.|Record homework and prepare for the next lesson.|
 
-| Time | Phase / working method | Teacher actions | Student actions | Book link |
-|---|---|---|---|---|
-| 0–4 min | **Start: instructions first** | Show two similarly worded tasks with different response requirements. Ask what changes. | Identify command word and answer format. | B Theme Words |
-| 4–9 min | **Activate vocabulary** | Elicit or introduce words for the two sets; check pronunciation and meaning. | Match known words to a context in pairs. | B Theme Words |
-| 9–14 min | **Model: TASK** | Demonstrate Task, Answer form, Special conditions, Keep checking with a teacher-made vocabulary prompt. | Annotate a prompt and paraphrase it. | Apply to 10a–10c |
-| 14–23 min | **Guided tasks** | Lead selected 10a–11b items. Make students verbalise what the question asks before they supply an answer. | Complete representative items and explain choices. | 10a–10c, 11a–11b |
-| 23–32 min | **Interactive: Password Is...** | Run small-group vocabulary descriptions using cards drawn from the book list. No target word, no Dutch and no gestures; rotate the speaker. | Describe and guess words, giving English explanations. | B Theme Words |
-| 32–40 min | **Independent application** | Set 12–16 for individual work, prioritising teacher-selected items given the heavy exercise load. Circulate and support. | Attempt assigned items, mark uncertain vocabulary and check instructions. | 12, 13a–13c, 14, 15a–15b, 16 |
-| 40–43 min | **Feedback** | Discuss two common mistakes: wrong meaning and wrong instruction. | Correct work and label the source of each error. | B Theme Words |
-| 43–45 min | **Exit ticket** | Ask for a target word, an English explanation, and a TASK check. | Submit three brief responses. | B Theme Words |
-
-## Differentiation
-
-**Additional support:** Use a smaller word bank, paired explanation before writing, and sentence frames such as “It is a person who...”.
-
-**Challenge / extension:** Describe less familiar words without their direct synonyms and create one context sentence for each.
-
-## Assessment and follow-up
-
-- **Evidence of learning:** Watch the game descriptions, question-decoding answers and exit ticket. Distinguish vocabulary gaps from instruction mistakes.
-- **Homework / preparation:** Study both B Theme Words lists. Finish any unfinished exercises from 10a–16.
-- **Teacher follow-up:** Note which students need vocabulary, grammar, question-reading or skills support, and plan a short retrieval task for the next lesson.
-- **Teacher reflection:** What worked? ____________________ What needs adjustment? ____________________
-
-**Pacing note:** Exercise lists are those in the weekly planner; where the lesson includes more items than fit into 45 minutes, choose representative in-class items and assign the remainder as indicated in the planner. Exact exercise prompts and Grammar Survey rule titles are not provided in the planner.
-
-*Planning basis: the uploaded “Crime Weekly Lesson Planner 3HAVO.md”. Interactive tasks, time allocations, prompts and differentiated routes are teacher-designed additions, not claims about the exact wording of the coursebook exercises.*

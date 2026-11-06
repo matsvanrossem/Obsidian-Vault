@@ -1,0 +1,7 @@
+In both lesson plans, I have included learning objectives and described how I intended to evaluate whether students achieved them.
+
+In my first grammar lesson, I planned to check students' understanding through guided practice, questioning, independent exercises and a final exit ticket. Looking back, I recognise that although I included these assessment moments, I could have been more specific about what I was looking for and how I would determine whether the objectives had actually been achieved.
+
+In my later Chapter 1 test recap lesson, I took a more structured approach. I started with a diagnostic LessonUp quiz to identify students' existing knowledge and areas that needed improvement. Based on this, I could differentiate between students who needed additional instruction and those who were ready for a more challenging assignment. I also included a checkpoint and a final reflection to evaluate students' understanding and help them identify what they still needed to practise.
+
+Comparing these two lesson plans, I can see a development in how I approach assessment. Initially, I mainly focused on explaining the material and checking understanding during the lesson. In my later lessons, I started using assessment more deliberately to inform my teaching decisions and adapt instruction to students' individual needs.

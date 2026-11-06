@@ -1,0 +1,8 @@
+
+During this lesson, I noticed that students struggled with two aspects of the 30 Seconds activity. Firstly, several students found it difficult to describe vocabulary in English without using the word itself or switching to Dutch. Secondly, students had difficulty understanding and following the rules of the game, partly because they seemed reluctant to read the instructions carefully.
+
+This second issue was something I had anticipated. During the Chapter 1 test the previous week, I had already noticed a similar tendency among students to rush through or misunderstand written questions without reading them properly. Seeing the same behaviour during this activity made me realise that reading and interpreting instructions is an area that requires more attention in my teaching.
+
+Although the activity was intended to encourage active vocabulary use and speaking skills, I noticed that students needed more guidance than I had initially planned. Looking back, I could have spent more time modelling the game and checking whether students understood the rules before starting.
+
+This experience reinforced the importance of not assuming that students understand instructions simply because they have been presented clearly. In future lessons, I want to check understanding more actively, for example by asking students to explain the instructions in their own words before beginning an activity.
