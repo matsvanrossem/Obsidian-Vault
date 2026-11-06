@@ -3,9 +3,10 @@
 	Camera Hoes
 	Zakmes hout handvat 
 	Boekenbon
-	Polymeer KLei
+	Polymeer KLeiaud
 	Fimo Klei Wit
-	
+	Fimo Glanslak
+	papier Snijder (GOEIE)
 	
 
 # Vrienden 14 nov
