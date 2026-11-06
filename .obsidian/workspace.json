@@ -44,16 +44,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 28 Sept 2026.md",
+                "file": "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Evaluation of Knowledge base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson Reflection 28 Sept 2026"
+              "title": "Evaluation of Knowledge base"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "f5a3c91a8aec4b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "009287f04e6f5d52",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Handleiding Praktijkdossier Pip1_2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Handleiding Praktijkdossier Pip1_2026"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,10 +308,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c97d8b4edfb07f10",
+  "active": "009287f04e6f5d52",
   "lastOpenFiles": [
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 17 Sept 2026.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 28 Sept 2026.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Evaluation of Knowledge base.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Reflection on Feedback from My Internship supervisor.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 28 Sept 2026 2VA 09;45.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 17 Sept 2026 2VA 08;15.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Clarification 10 min lesson Start 2VA 28 Sept 2026 09;45.md",
     "Stage Logboek/Week 3.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_01_Learning_objectives.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Lesson_plan_1.md",
@@ -323,9 +344,6 @@
     "Stage Logboek/Observatie Geschiedenis 1V (LIO).md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Task_12b_Self_assessment.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Task_12b_Self_assessment 1.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Task_12a_Supervisor_assessment.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Task_12a_Supervisor_assessment 1.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Task_12_Reflection_report.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files",
     "Lessen/HAVO 3/Lesplannen/Week 50",
     "Lessen/HAVO 3/Lesplannen/Week 49",
