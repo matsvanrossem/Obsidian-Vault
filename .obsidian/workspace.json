@@ -11,17 +11,14 @@
             "id": "c74fa011b3d83cb7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
-                "viewState": {
-                  "x": 147.44537361430952,
-                  "y": 80.17056793873749,
-                  "zoom": -0.10365711058633242
-                }
+                "file": "Verjaardag Myrthe 25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "6 November"
+              "icon": "lucide-file",
+              "title": "Verjaardag Myrthe 25"
             }
           }
         ]
@@ -115,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326,
-    "collapsed": true
+    "width": 326
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -264,10 +260,10 @@
   },
   "active": "c74fa011b3d83cb7",
   "lastOpenFiles": [
+    "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Canvas/6 November.canvas",
     "Documenten/Planners/Planner  Year 2 Theme 1.pdf",
     "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
-    "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/28 oct 2026.canvas",
@@ -279,7 +275,7 @@
     "Lessen/HAVO 3/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026 1.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_3_2VWO_Reading_Main_Idea.md",
     "Lessen/VWO 2/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026.canvas",
-    "Untitled.md",
+    "Verjaardag Myrthe 25.md",
     "5 November-1793796251561.webp",
     "5 November-1793796258996.webp",
     "5 November-1793796263920.webp",
