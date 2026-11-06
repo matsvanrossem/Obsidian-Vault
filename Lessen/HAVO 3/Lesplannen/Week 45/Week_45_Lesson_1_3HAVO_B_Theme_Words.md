@@ -11,14 +11,14 @@
 
 ## Lesson preparation
 
-| Element | Plan |
-|---|---|
-| **Lesson topic** | Vocabulary production and meaning in context |
-| **Stepping Stones coverage** | B Theme Words **10a–10c, 11a–11b, 12, 13a–13c, 14, 15a–15b, 16**. |
-| **Main focus** | Recognise and use the two B Theme Words sets; learn to decode vocabulary instructions rather than rushing. |
-| **Prior learning** | Introduction to the Crime theme and watching tasks in Week 44. |
-| **Materials** | B Theme Words lists, workbook/digital exercises, board, 8–12 teacher-made vocabulary cards, timer. |
-| **Teacher preparation** | Select 8–12 words from the *actual* B lists to use in the game. Check which assigned exercise items are best done in class and which can be completed as homework. |
+| Element                      | Plan                                                                                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lesson topic**             | Vocabulary production and meaning in context                                                                                                                       |
+| **Stepping Stones coverage** | B Theme Words **10a–10c, 11a–11b, 12, 13a–13c, 14, 15a–15b, 16**.                                                                                                  |
+| **Main focus**               | Recognise and use the two B Theme Words sets; learn to decode vocabulary instructions rather than rushing.                                                         |
+| **Prior learning**           | Introduction to the Crime theme and watching tasks in Week 44.                                                                                                     |
+| **Materials**                | B Theme Words lists, workbook/digital exercises, board, 8–12 teacher-made vocabulary cards, timer.                                                                 |
+| **Teacher preparation**      | Select 8–12 words from the *actual* B lists to use in the game. Check which assigned exercise items are best done in class and which can be completed as homework. |
 
 ### Learning objectives
 
