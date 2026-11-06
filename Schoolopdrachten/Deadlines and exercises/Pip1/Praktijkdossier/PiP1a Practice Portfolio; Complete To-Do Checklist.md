@@ -410,8 +410,8 @@ Here is a simplified overview of the PiP1a deliverables.
 | ------------------------------------- | ---------------------: | --- |
 | Lesson plans                          |                      2 | x   |
 | Lesson plan reflections               |                      2 |     |
-| Teaching video showing lesson opening |                      1 |     |
-| Classroom interaction video           |                      1 |     |
+| Teaching video showing lesson opening |                      1 | x   |
+| Classroom interaction video           |                      1 | x   |
 | Supervisor lesson observation         |                      1 | x   |
 | Reflection on supervisor observation  |                      1 | x   |
 | Final supervisor assessment           |                      1 |     |

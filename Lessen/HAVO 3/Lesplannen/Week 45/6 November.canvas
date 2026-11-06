@@ -1,1 +1,12 @@
-{}
+{
+	"nodes":[
+		{"id":"3031d442eaf310f1","type":"text","text":"# **New Homework** \n### - B Theme Words **10a–10c, 11a–11b, 12, 13a–13c, 14, 15a–15b, 16**.","x":-325,"y":62,"width":650,"height":172,"color":"1"},
+		{"id":"2ac6bb1196c1c8c4","type":"text","text":"\n## **12:20** -\tIntroduction to 30 Seconds \n## **12:30** -\t 30 Seconds Game\n## **13:00** -   Homework for next week\n\n","x":-324,"y":-133,"width":649,"height":156,"color":"4"},
+		{"id":"8ec87ec1c51d6595","type":"text","text":"# **Today's Class: Starting Chapter 2 **","x":-301,"y":-234,"width":602,"height":68,"color":"2"},
+		{"id":"4939cdc288336a61","type":"text","text":"### 30 Seconds... Game Rules\n\n1. You play in pairs against other pairs \n    \n2. Take turns picking a card and describing the word in English to your teammate.\n    \n3. Do not say the word or use parts of the word.\n    \n4. Do not speak Dutch, point or use gestures.\n    \n5. Your group has 30 seconds to guess the word.\n    \n6. The team who guesses correctly earns two points per answer given.\n7.  If you do speak dutch you gain 1 point per guesed answer","x":591,"y":-234,"width":482,"height":460,"color":"3"},
+		{"id":"2c2f6ad7dec6d468","x":-346,"y":281,"width":837,"height":903,"color":"6","type":"text","text":"# 1\n## Group 1: Bas Gadellaa, Roos van Maris van Dijk\n\n## Group 7: Ceylin Aslan, IJze Dijkgraaf\n\n# 2\n\n## Group 2: Karlijn Achthoven, Tigo Dulfer\n\n## Group 8: Oskar van Roozendaal, Stella Sybesma\n\n# 3\n\n## Group 3: Semma Kan, Paula Schreuder\n\n## Group 9: Marijn Berfelo, Max Oeljee\n\n# 4\n\n## Group 4: Noor Louwrier, Dave Zhou\n\n## Group 10: Tobias van Oosterom, Xavi van Otten\n\n# 5\n\n## Group 5: Benjamin Faase, Nathan Karbor\n\n## Group 11: Isis Douma, Amélie Pas\n\n# 6\n\n## Group 6: Fedde Hoogenboezem, Yuheng Lin\n\n## Group 12: Sofia Gering, Anne-Lynn Meuleman, Ymre Cobelens"}
+	],
+	"edges":[
+		{"id":"70f7f34f3492e399","fromNode":"2ac6bb1196c1c8c4","fromSide":"right","toNode":"4939cdc288336a61","toSide":"left"}
+	]
+}

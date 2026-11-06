@@ -19,11 +19,11 @@
 
 ## Week 45
 
-| Lesson | Activities in class | My plan (Werkplein) | Done |
-|:--:|---|---|:--:|
-| 1 | B Theme Words<br>Exercises 10-13. Theme words: At the doctor's. | ______________________ | ☐ |
-| 2 | B Theme Words<br>Exercises 14a-14d, 15 and 16. Theme words: Illness and injuries. | ______________________ | ☐ |
-| 3 | C Reading<br>Exercises 17-21. Reading strategy: main idea. | ______________________ | ☐ |
+| Lesson | Activities in class                                                                                                         | My plan (Werkplein)    | Done |
+| :----: | --------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :--: |
+|   1    | B Theme Words<br>Exercises 10-13. Theme words: At the doctor's.                                                             | ______________________ |  ☐   |
+|   2    | B Theme Words<br>Exercises 14a-14d, 15 and 16. Theme words: Illness and injuries.| ______________________ |  ☐   |
+|   3    | C Reading<br>Exercises 17-21. Reading strategy: main idea.                                                                  | ______________________ |  ☐   |
 
 **Homework / preparation**
 
