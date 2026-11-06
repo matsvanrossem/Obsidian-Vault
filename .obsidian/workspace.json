@@ -23,23 +23,28 @@
               "icon": "lucide-layout-dashboard",
               "title": "28 oct 2026"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b9e6ae9a8e43c7f3",
+        "type": "tabs",
+        "children": [
           {
-            "id": "201bbdb9b2afd479",
+            "id": "10c800880a8c8c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage Logboek/Observatie Geschiedenis 1V (LIO).md",
+                "file": "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observatie Geschiedenis 1V (LIO)"
+              "title": "2VWO-Chapter 1 Final Test Recap LessonPlan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,10 +281,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "201bbdb9b2afd479",
+  "active": "c74fa011b3d83cb7",
   "lastOpenFiles": [
-    "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/T.A.S.K.md",
+    "Support_Templates/Lesson_plan_1.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_01_Learning_objectives.md",
+    "Support_Templates",
+    "Lessen/VWO 2/Lesplannen/Week 44/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
     "Stage Logboek/Observatie Geschiedenis 1V (LIO).md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/T.A.S.K.md",
     "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 45/5 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 45/Week_45_Lesson_2_3HAVO_C_Reading.md",
@@ -289,7 +298,6 @@
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_04_Teaching_and_guidance.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_03_Lesson_planning.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_02_Learning_activities.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_01_Learning_objectives.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_07_Classroom_management.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_08_Personal_development_of_students.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_11_Professional_collaboration.md",
@@ -306,8 +314,6 @@
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_12_Professional_development.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_10_School_wide_activities.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_09_Pedagogical_vision.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_06_Relationships_with_students.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_05_Assessment_of_learning.md",
     "Lessen/VWO 2/Lesplannen/Week 50",
     "Lessen/VWO 2/Lesplannen/Week 49",
     "Lessen/VWO 2/Lesplannen/Week 48",
@@ -317,7 +323,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 49",
     "Lessen/HAVO 3/Lesplannen/Week 48",
     "Lessen/HAVO 3/Lesplannen/Week 47",
-    "Lessen/HAVO 3/Lesplannen/Week 46",
     "Lessen/HAVO 3/Lesplannen/Week 44/Dia's en materiaal/30 Oct 2026 1.canvas",
     "5 November-1793796391713.webp",
     "5 November-1793796263920.webp",
