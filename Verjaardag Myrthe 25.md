@@ -17,8 +17,7 @@
 	gijs **
 	luka en tessa **
 	Marit 
-	xena 
-	Samantha
+	xena ** 
 	
 
 # Familie 21 nov
