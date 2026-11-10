@@ -112,8 +112,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           },
           {
@@ -286,8 +286,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-custom-frames:Open LessonUp": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-custom-frames:Open LessonUp": false
     }
   },
   "active": "c97d8b4edfb07f10",
