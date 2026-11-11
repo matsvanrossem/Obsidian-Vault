@@ -2,8 +2,7 @@
 	"nodes":[
 		{"id":"10398d52a11e483d","type":"text","text":"\n## Done with the Test: Read your book or start with the exercises  **Writing and Grammar E**","x":-394,"y":-228,"width":649,"height":212,"color":"4"},
 		{"id":"fb2f659f72760e70","type":"text","text":"***Homework for Friday *** \n- Finish any incomplete **B Theme Words exercises 10-13** and practise the *At the doctor's* vocabulary.\n- **B Theme Words Exercises 14a-14d, 15 and 16.** Theme words: Illness and injuries.\n- For **three** homework questions, mark **T/A/S** before answering and tick **K** after checking\n- ## BRING YOUR BOOK TOMORROW!!!!!!\n","x":-394,"y":7,"width":449,"height":298,"color":"1"},
-		{"id":"cd35501d4c661f12","type":"text","text":"# **Today's Class: Listening **","x":-414,"y":-304,"width":828,"height":60,"color":"2"},
-		{"id":"4031b4ac38ecd08e","x":74,"y":93,"width":250,"height":60,"type":"text","text":""}
+		{"id":"cd35501d4c661f12","type":"text","text":"# **Today's Class: Listening **","x":-414,"y":-304,"width":828,"height":60,"color":"2"}
 	],
 	"edges":[]
 }
