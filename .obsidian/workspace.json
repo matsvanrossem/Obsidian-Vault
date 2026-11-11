@@ -32,9 +32,9 @@
               "state": {
                 "file": "Lessen/HAVO 3/Lesplannen/Week 46/11 November.canvas",
                 "viewState": {
-                  "x": 2043.1137254901969,
-                  "y": 2900.8421568627455,
-                  "zoom": -2.619052362733423
+                  "x": 417.17984703426805,
+                  "y": 217.06471558382043,
+                  "zoom": -0.6448093962393936
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
