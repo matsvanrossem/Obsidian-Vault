@@ -37,26 +37,9 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
-          },
-          {
-            "id": "212763c93e7d9e59",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 46/Untitled.canvas",
-                "viewState": {
-                  "x": -70.8896481262581,
-                  "y": -157.25493767688545,
-                  "zoom": 0.9830075536698561
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,11 +277,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "212763c93e7d9e59",
+  "active": "28b32a733f30eea6",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 46/Untitled.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 45/Canvas/6 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 46/Untitled.canvas",
     "Untitled 1.md",
     "Untitled.md",
     "Organigram-25-26.pdf",
