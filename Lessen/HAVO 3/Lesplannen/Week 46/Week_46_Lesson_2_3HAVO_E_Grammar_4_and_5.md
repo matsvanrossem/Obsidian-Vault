@@ -11,14 +11,14 @@
 
 ## Lesson preparation
 
-| Element | Plan |
-|---|---|
-| **Lesson topic** | Coursebook Grammar 4 and Grammar 5 with writing application |
-| **Stepping Stones coverage** | E Writing and Grammar, **Grammar 4 and Grammar 5**; **27a–27c, 28a–28b, 29a–29b, 30a–30b, 31**. |
-| **Main focus** | Recognise which of the two chapter grammar rules an item requires and apply the correct form. |
-| **Prior learning** | Writing and speaking practice with Crime vocabulary and Stone 3. |
-| **Materials** | Stepping Stones Grammar Survey for Grammar 4 and 5, book tasks, mini-whiteboards, highlighters. |
-| **Teacher preparation** | IMPORTANT: The planner names Grammar 4 and 5 but does not give their linguistic topics. Copy the exact rule titles and two verified examples from the coursebook before teaching. Do not assume their content. |
+| Element                      | Plan                                                                                                                                                                                                           |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lesson topic**             | Coursebook Grammar 4 and Grammar 5 with writing application                                                                                                                                                    |
+| **Stepping Stones coverage** | E Writing and Grammar, **Grammar 4 and Grammar 5**; **27a–27c, 28a–28b, 29a–29b, 30a–30b, 31**.                                                                                                                |
+| **Main focus**               | Recognise which of the two chapter grammar rules an item requires and apply the correct form.                                                                                                                  |
+| **Prior learning**           | Writing and speaking practice with Crime vocabulary and Stone 3.                                                                                                                                               |
+| **Materials**                | Stepping Stones Grammar Survey for Grammar 4 and 5, book tasks, mini-whiteboards, highlighters.                                                                                                                |
+| **Teacher preparation**      | IMPORTANT: The planner names Grammar 4 and 5 but does not give their linguistic topics. Copy the exact rule titles and two verified examples from the coursebook before teaching. Do not assume their content. |
 
 ### Learning objectives
 
