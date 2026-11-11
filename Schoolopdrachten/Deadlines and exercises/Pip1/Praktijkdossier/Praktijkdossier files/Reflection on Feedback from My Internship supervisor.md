@@ -15,7 +15,7 @@ One thing I find particularly important in my approach to classroom management i
 I believe it is important to separate the student from their behaviour and make it clear that I do not think less of them as a person because of something they have done. By having a conversation afterwards, I hope to maintain a positive relationship with the student while still reinforcing my expectations and boundaries. I also want students to feel that they are being treated fairly and that a disciplinary measure does not affect how I approach them in future lessons. For me, this is an important part of finding a balance between being approachable and establishing authority in the classroom.
 
 
-Observation Notes
+Observation Notes 24 September
 - Wat zijn de verschillen met de 2H klas?
     
 - Er ontstaat wat consternatie bij de jongens en meiden achterin. Hoe heb je dit opgelost? 
