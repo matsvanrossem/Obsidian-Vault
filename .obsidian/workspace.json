@@ -30,7 +30,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 46/PLattegrond 1 1.canvas",
+                "file": "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
                 "viewState": {
                   "x": 401.5,
                   "y": -330.5,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "PLattegrond 1 1"
+              "title": "Plattegrond"
             }
           }
         ],
@@ -279,10 +279,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c02cc20cbb5c898",
+  "active": "c97d8b4edfb07f10",
   "lastOpenFiles": [
     "Lessen/VWO 2/Lesplannen/Week 46/PLattegrond 1.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 46/PLattegrond 1 1.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/12 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/11 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/week 47/20 November.canvas",
