@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
+                "file": "Lessen/HAVO 3/Lesplannen/Week 46/12 November.canvas",
                 "viewState": {
-                  "x": 2445.827039207526,
-                  "y": -550.5732451299131,
-                  "zoom": 0.07977688349442291
+                  "x": 1016.3946398792291,
+                  "y": 982.7466834212242,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Plattegrond"
+              "title": "12 November"
             }
           }
         ]
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 255
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -263,14 +263,15 @@
   },
   "active": "7597cd27741d58c8",
   "lastOpenFiles": [
-    "Lessen/HAVO 3/Lesplannen/Week 46/12 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 46/11 November.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 46/12 November.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 45/5 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 46/Week_46_Lesson_2_3HAVO_E_Grammar_4_and_5.md",
     "Lessen/HAVO 3/Lesplannen/Week 46/Week_46_Lesson_1_3HAVO_D_Speaking_Stone_3.md",
     "Untitled.base",
     "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/12 November 2026.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/20 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/19 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/18 November.canvas",

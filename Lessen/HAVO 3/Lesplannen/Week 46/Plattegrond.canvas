@@ -37,7 +37,11 @@
 		{"id":"93924cdba1142039","type":"text","text":"","x":1165,"y":27,"width":250,"height":60,"color":"4"},
 		{"id":"7c3ed7127d7e55da","type":"text","text":"**Roos**","x":1165,"y":-33,"width":250,"height":60,"color":"4"},
 		{"id":"e8593fd6bc16d357","type":"text","text":"**Tigo**","x":915,"y":-33,"width":250,"height":60,"color":"4"},
-		{"id":"f69d4b75c3a9e8c6","x":1819,"y":-840,"width":849,"height":807,"type":"text","text":"## **Start ready** Sit in your assigned seat, get materials out, and begin the task on the board.\n\n## **Listen during instruction** Stop talking when you give the attention signal. One person speaks at a time.\n\n## **Work as instructed** Start promptly; use a quiet voice during group work and silence during individual work.\n\n## **Treat people respectfully** No insults, calling across the room, or interfering with someone else’s work."}
+		{"id":"f69d4b75c3a9e8c6","x":1870,"y":-533,"width":849,"height":500,"type":"text","text":"## **Start ready** \n### Sit in your assigned seat, get materials out.\n\n## **Listen during instruction**\n### Stop talking when you give the attention signal. One person speaks at a time.\n\n## **Work as instructed** \n### Start promptly; use a quiet voice during group work and silence during individual work.\n\n## **Treat people respectfully** \n### No insults, calling across the room, or interfering with someone else’s work."},
+		{"id":"259aae0aebb8f3e3","x":2980,"y":-561,"width":571,"height":558,"type":"text","text":"#### - Arrive on time and sit in your assigned seat.\n#### - Have your books, Chromebook, and pen ready.\n#### - When the teacher asks for attention, stop talking and listen.\n#### - One person speaks at a time. Raise your hand to contribute.\n#### - Start work when instructed and stay focused on the task.\n#### - During group work, speak quietly and contribute.\n#### - Stay in your seat unless you have permission to move.\n#### - Treat everyone respectfully: no insults, teasing, or interrupting.\n#### - Only pack up when the teacher says the lesson is finished."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3258aae0af1fc0bb","fromNode":"7bad5d4e0fbe7d7f","fromSide":"right","toNode":"f69d4b75c3a9e8c6","toSide":"top"},
+		{"id":"586aea8954181881","fromNode":"f69d4b75c3a9e8c6","fromSide":"right","toNode":"259aae0aebb8f3e3","toSide":"left"}
+	]
 }
