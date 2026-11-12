@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7170274f13abf079",
+        "id": "89825a10d4a40ab2",
         "type": "tabs",
         "children": [
           {
-            "id": "6880d1be5c8e992a",
+            "id": "c74fa011b3d83cb7",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
+                "file": "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
                 "viewState": {
-                  "x": 1461.2389675217778,
-                  "y": 452.02450675164675,
-                  "zoom": -1.3883116272504696
+                  "x": 147.44537361430952,
+                  "y": 80.17056793873749,
+                  "zoom": -0.10365711058633242
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "4 November 2026"
+              "title": "6 November"
             }
           },
           {
-            "id": "c97d8b4edfb07f10",
+            "id": "28b32a733f30eea6",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -34,7 +34,7 @@
                 "viewState": {
                   "x": 401.5,
                   "y": -330.5,
-                  "zoom": -0.5274736083905224
+                  "zoom": -0.5868897831722437
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -54,7 +54,7 @@
       {
         "id": "f57aa0f80a313a5f",
         "type": "tabs",
-        "dimension": 81.09640831758034,
+        "dimension": 77.75305895439377,
         "children": [
           {
             "id": "2c02cc20cbb5c898",
@@ -93,7 +93,7 @@
       {
         "id": "3c89a40f5e8f8cb0",
         "type": "tabs",
-        "dimension": 18.90359168241966,
+        "dimension": 22.246941045606228,
         "children": [
           {
             "id": "cf464cead1538b54",
@@ -101,12 +101,12 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "clock",
+              "title": "Recent files"
             }
           },
           {
-            "id": "a214e35ff680ed07",
+            "id": "6d068e23f00485dd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -129,11 +129,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 389.20001220703125
+    "width": 326
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesplannen/Lesplan Template 2 VWO.md",
+                "file": "Stage Logboek/Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lesplannen/Lesplan Template 2 VWO.md",
+                "file": "Stage Logboek/Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesplannen/Lesplan Template 2 VWO.md",
+                "file": "Stage Logboek/Week 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -246,8 +246,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -260,6 +260,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open LessonUp": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -273,69 +276,66 @@
       "media-extended:Open media library": false,
       "media-extended:Open media quick switcher": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-custom-frames:Open LessonUp": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c97d8b4edfb07f10",
+  "active": "28b32a733f30eea6",
   "lastOpenFiles": [
+    "Lessen/HAVO 3/Lesplannen/Week 46/11 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 47/20 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 47/19 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 47/18 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/PLattegrond 1.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/12 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/11 November 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/week 47/20 November.canvas",
-    "Lessen/VWO 2/Lesplannen/week 47/18 November.canvas",
-    "Lessen/VWO 2/Lesplannen/week 47/19 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/6 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 50",
-    "Lessen/VWO 2/Lesplannen/week 47",
-    "Lessen/VWO 2/Lesplannen/Week 48",
-    "Lessen/VWO 2/Lesplannen/Week 49",
-    "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
-    "Untitled 2.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Reflection on Feedback from My Internship supervisor.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Lessen/VWO 2/Lesplannen/Week 46",
-    "Lessen/HAVO 3/Lesplannen/Week 46/11 November.canvas",
-    "Documenten/Verjaardag Myrthe 25.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Reflection.md",
+    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
     "Documenten/Organigram-25-26.pdf",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Handleiding Praktijkdossier Pip1_2026.pdf",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Evaluation of Knowledge base.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Clarification 10 min lesson Start 2VA 28 Sept 2026 09;45.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 28 oct 2026 2VA 09;45.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 17 sept 2026 2VA 08;15.md",
-    "Lessen/HAVO 3/Lesplannen/Week 39/Lesplan 2 VWO Grammar; Past simple.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 3HB 30-seconds 06-11-2026.md",
-    "Lessen/HAVO 3/Lesplannen/Week 45/Week_45_Lesson_1_3HAVO_B_Theme_Words.md",
-    "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/Week_45_2VWO_Theme_Words_Question_First_Student_Cards.md",
-    "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/Week_45_Lesson_1_2VWO_Theme_Words_Read_the_Question_First.md",
-    "Lessen/VWO 2/Lesplannen/Week 45/Interactive Classroom exercises/T.A.S.K.md",
-    "Lessen/HAVO 3/Lesplannen/Week 45/Week_45_Lesson_2_3HAVO_C_Reading.md",
-    "Lessen/HAVO 3/Lesplannen/Week 44/Tests.md",
-    "Lessen/HAVO 3/Lesplannen/Week 44/Week_44_Lesson_2_3HAVO_A_Watching_Strategy.md",
-    "Lessen/HAVO 3/Lesplannen/Week 44/Week_44_Lesson_1_3HAVO_Getting_Started_and_Watching.md",
-    "Lessen/VWO 2/Lesplannen/Week 39/Week_45_Lesson_1_3HAVO_B_Theme_Words 1 1.md",
+    "Lessen/HAVO 3/Lesplannen/Week 46/Week_46_Lesson_2_3HAVO_E_Grammar_4_and_5.md",
+    "Lessen/HAVO 3/Lesplannen/Week 46/Week_46_Lesson_1_3HAVO_D_Speaking_Stone_3.md",
+    "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
+    "Untitled.md",
+    "Lessen/VWO 2/Lesplannen/Week 46/Untitled.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
+    "Untitled 1.md",
+    "Organigram-25-26.pdf",
+    "Documenten/Verjaardag Myrthe 25.md",
+    "Verjaardag Myrthe 25.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Reflection.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Week_45_Lesson_1_3HAVO_B_Theme_Words 1.md",
-    "Stage Logboek/Week 3.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Reflection on Feedback from My Internship supervisor.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 3HB 30-seconds 06-11-2026.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 28 oct 2026 2VA 09;45.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Lesson Reflection 17 Sept 2026 2VA 08;15.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Evaluation of Knowledge base.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Clarification 10 min lesson Start 2VA 28 Sept 2026 09;45.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/2VWO-Chapter 1 Final Test Recap LessonPlan.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Lesplan 2 VWO Grammar; Past simple.md",
+    "Lessen/VWO 2/Lesplannen/Week 39/Week_45_Lesson_1_3HAVO_B_Theme_Words 1 1.md",
+    "Documenten/Planners/Planner  Year 2 Theme 1.pdf",
+    "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
+    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Test Yourself, Grammar Rehearsal & Self Study.md",
+    "Lessen/VWO 2/Lesplannen/Week 41/Lesplan 2 VWO ; Reading Matters.md",
+    "Lessen/HAVO 3/Lesplannen/Week 45/Week_45_Lesson_1_3HAVO_B_Theme_Words.md",
+    "Lessen/HAVO 3/Lesplannen/Week 45/Week_45_Lesson_2_3HAVO_C_Reading.md",
+    "Lessen/VWO 2/Lesplannen/Week 45/Week_45_Lesson_3_2VWO_Reading_Main_Idea.md",
     "5 November-1793796251561.webp",
-    "Support_Templates",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files",
-    "Lessen/HAVO 3/Lesplannen/Week 50",
-    "5 November-1793796391713.webp",
+    "5 November-1793796258996.webp",
     "5 November-1793796263920.webp",
+    "5 November-1793796391713.webp",
+    "Support_Templates/Lesson_plan_1.md",
+    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_01_Learning_objectives.md",
+    "Support_Templates",
+    "Lessen/VWO 2/Lesplannen/Week 50",
+    "Lessen/VWO 2/Lesplannen/Week 49",
+    "Lessen/VWO 2/Lesplannen/Week 48",
+    "Lessen/VWO 2/Lesplannen/Week 47",
+    "Lessen/VWO 2/Lesplannen/Week 46",
+    "Lessen/HAVO 3/Lesplannen/Week 50",
+    "Documenten/Bijlages/Pasted image 20261001111610.png",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
-    "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
-    "Documenten/Bijlages/2 Oct 2026-1790882224469.webp",
     "Documenten/Bijlages/Pasted image 20261001111847.png",
-    "Documenten/Bijlages/Pasted image 20261001111654.png",
-    "Documenten/Bijlages/Pasted image 20261001111610.png"
+    "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
+    "Documenten/Bijlages/2 Oct 2026-1790882224469.webp"
   ]
 }
