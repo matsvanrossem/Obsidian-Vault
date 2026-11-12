@@ -11,17 +11,37 @@
             "id": "7597cd27741d58c8",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage Logboek/Klassenmanagement observatie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Klassenmanagement observatie"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c62a56a1bf9fd73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f61caf9ce907498",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 46/12 November.canvas",
+                "file": "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
                 "viewState": {
-                  "x": -287.94185401510555,
-                  "y": 785.1090264338137,
-                  "zoom": -0.3974978347664752
+                  "x": -81.47304832713965,
+                  "y": -319.82490125464693,
+                  "zoom": -0.506910328804181
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "12 November"
+              "title": "Plattegrond"
             }
           }
         ]
@@ -264,6 +284,7 @@
   "active": "7597cd27741d58c8",
   "lastOpenFiles": [
     "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
+    "Stage Logboek/Klassenmanagement observatie.md",
     "Lessen/HAVO 3/Lesplannen/Week 46/12 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 46/11 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 45/5 November.canvas",
@@ -276,7 +297,6 @@
     "Lessen/VWO 2/Lesplannen/Week 47/19 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/18 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/PLattegrond 1.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 46/11 November 2026.canvas",
     "Documenten/Organigram-25-26.pdf",
     "Untitled.md",
     "Untitled 1.md",
@@ -306,7 +326,6 @@
     "5 November-1793796263920.webp",
     "5 November-1793796391713.webp",
     "Support_Templates/Lesson_plan_1.md",
-    "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Task_01_Learning_objectives.md",
     "Support_Templates",
     "Lessen/VWO 2/Lesplannen/Week 50",
     "Lessen/VWO 2/Lesplannen/Week 49",
