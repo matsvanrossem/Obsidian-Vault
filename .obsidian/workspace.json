@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
+                "file": "Lessen/VWO 2/Lesplannen/Week 46/12 November 2026.canvas",
                 "viewState": {
-                  "x": 401.5,
-                  "y": -330.5,
-                  "zoom": -0.5868897831722437
+                  "x": 0,
+                  "y": 0.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Plattegrond"
+              "title": "12 November 2026"
             }
           }
         ],
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 326,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -281,6 +282,7 @@
   },
   "active": "28b32a733f30eea6",
   "lastOpenFiles": [
+    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 46/11 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/20 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/19 November.canvas",
@@ -288,7 +290,6 @@
     "Lessen/VWO 2/Lesplannen/Week 46/PLattegrond 1.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/12 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/11 November 2026.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
     "Documenten/Organigram-25-26.pdf",
     "Lessen/HAVO 3/Lesplannen/Week 46/Week_46_Lesson_2_3HAVO_E_Grammar_4_and_5.md",
     "Lessen/HAVO 3/Lesplannen/Week 46/Week_46_Lesson_1_3HAVO_D_Speaking_Stone_3.md",
