@@ -37,7 +37,7 @@
 		{"id":"93924cdba1142039","type":"text","text":"","x":1165,"y":27,"width":250,"height":60,"color":"4"},
 		{"id":"7c3ed7127d7e55da","type":"text","text":"**Roos**","x":1165,"y":-33,"width":250,"height":60,"color":"4"},
 		{"id":"e8593fd6bc16d357","type":"text","text":"**Tigo**","x":915,"y":-33,"width":250,"height":60,"color":"4"},
-		{"id":"f69d4b75c3a9e8c6","x":1819,"y":-840,"width":849,"height":1328,"type":"text","text":""}
+		{"id":"f69d4b75c3a9e8c6","x":1819,"y":-840,"width":849,"height":807,"type":"text","text":"## **Start ready** Sit in your assigned seat, get materials out, and begin the task on the board.\n\n## **Listen during instruction** Stop talking when you give the attention signal. One person speaks at a time.\n\n## **Work as instructed** Start promptly; use a quiet voice during group work and silence during individual work.\n\n## **Treat people respectfully** No insults, calling across the room, or interfering with someone else’s work."}
 	],
 	"edges":[]
 }
