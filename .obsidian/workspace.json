@@ -4,45 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "89825a10d4a40ab2",
+        "id": "26e1e762c55145a6",
         "type": "tabs",
         "children": [
           {
-            "id": "c74fa011b3d83cb7",
+            "id": "7597cd27741d58c8",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
+                "file": "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
                 "viewState": {
-                  "x": 147.44537361430952,
-                  "y": 80.17056793873749,
-                  "zoom": -0.10365711058633242
+                  "x": 1523.3290464749036,
+                  "y": -350.6167896424791,
+                  "zoom": -1.5868897831722435
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "6 November"
-            }
-          },
-          {
-            "id": "28b32a733f30eea6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 46/12 November 2026.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "12 November 2026"
+              "title": "Plattegrond"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326,
-    "collapsed": true
+    "width": 326
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -280,23 +261,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28b32a733f30eea6",
+  "active": "7597cd27741d58c8",
   "lastOpenFiles": [
-    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 46/12 November.canvas",
     "Lessen/HAVO 3/Lesplannen/Week 46/11 November.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 46/Week_46_Lesson_2_3HAVO_E_Grammar_4_and_5.md",
+    "Lessen/HAVO 3/Lesplannen/Week 46/Week_46_Lesson_1_3HAVO_D_Speaking_Stone_3.md",
+    "Untitled.base",
+    "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 46/12 November 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/20 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/19 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/18 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/PLattegrond 1.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 46/12 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/11 November 2026.canvas",
     "Documenten/Organigram-25-26.pdf",
-    "Lessen/HAVO 3/Lesplannen/Week 46/Week_46_Lesson_2_3HAVO_E_Grammar_4_and_5.md",
-    "Lessen/HAVO 3/Lesplannen/Week 46/Week_46_Lesson_1_3HAVO_D_Speaking_Stone_3.md",
-    "Lessen/HAVO 3/Lesplannen/Week 45/6 November.canvas",
     "Untitled.md",
-    "Lessen/VWO 2/Lesplannen/Week 46/Untitled.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/5 November.canvas",
     "Untitled 1.md",
     "Organigram-25-26.pdf",
     "Documenten/Verjaardag Myrthe 25.md",
@@ -331,7 +312,6 @@
     "Lessen/VWO 2/Lesplannen/Week 48",
     "Lessen/VWO 2/Lesplannen/Week 47",
     "Lessen/VWO 2/Lesplannen/Week 46",
-    "Lessen/HAVO 3/Lesplannen/Week 50",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
     "Documenten/Bijlages/Pasted image 20261001211715.png",
