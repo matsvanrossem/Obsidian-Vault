@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"62c3c910736339e5","type":"text","text":"# **Homework** \n### **Exercises 31-32**. Countries & Cultures: Singapore, **exercises 33-35.**","x":-325,"y":32,"width":650,"height":233,"color":"1"},
+		{"id":"62c3c910736339e5","type":"text","text":"# **Homework** \n### **Exercises 31-32**. Countries & Cultures: Singapore, **exercises 33-35.**","x":-325,"y":32,"width":650,"height":138,"color":"1"},
 		{"id":"a40e49dec9d4422f","type":"text","text":"\n## **10:50** -\tReading\n## **11:10** - Countries and Cultures Singapore\n## **11:35** - Homework \n","x":-324,"y":-163,"width":649,"height":156,"color":"4"},
 		{"id":"bc5d6b4dc39788d2","type":"text","text":"# **Today's Class: Reviewing the Test**","x":-301,"y":-264,"width":602,"height":68,"color":"2"},
-		{"id":"b6269c925cdf428e","x":576,"y":-324,"width":400,"height":400,"type":"file","file":"Documenten/Bijlages/90s_kids_share.mp4"}
+		{"id":"b6269c925cdf428e","type":"file","file":"Documenten/Bijlages/90s_kids_share.mp4","x":689,"y":-332,"width":400,"height":400}
 	],
 	"edges":[]
 }
