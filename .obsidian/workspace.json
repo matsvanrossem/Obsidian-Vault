@@ -13,36 +13,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
+                "file": "Lessen/VWO 2/Lesplannen/week 47/18 November.canvas",
                 "viewState": {
-                  "x": 1461.2389675217778,
-                  "y": 452.02450675164675,
-                  "zoom": -1.3883116272504696
+                  "x": 0,
+                  "y": 0.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "4 November 2026"
-            }
-          },
-          {
-            "id": "c97d8b4edfb07f10",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
-                "viewState": {
-                  "x": 401.5,
-                  "y": -330.5,
-                  "zoom": -0.5274736083905224
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Plattegrond"
+              "title": "18 November"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,12 +261,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c97d8b4edfb07f10",
+  "active": "6880d1be5c8e992a",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 45/Canvas/4 November 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
     "Stage Logboek/Klassenmanagement observatie.md",
     "Lessen/HAVO 3/Lesplannen/Week 46/12 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/PLattegrond 1.canvas",
-    "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/12 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 46/11 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/week 47/20 November.canvas",
@@ -323,7 +306,6 @@
     "Lessen/HAVO 3/Lesplannen/Week 44/Week_44_Lesson_1_3HAVO_Getting_Started_and_Watching.md",
     "Lessen/VWO 2/Lesplannen/Week 39/Week_45_Lesson_1_3HAVO_B_Theme_Words 1 1.md",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files/Week_45_Lesson_1_3HAVO_B_Theme_Words 1.md",
-    "Stage Logboek/Week 3.md",
     "5 November-1793796251561.webp",
     "Support_Templates",
     "Schoolopdrachten/Deadlines and exercises/Pip1/Praktijkdossier/Praktijkdossier files",

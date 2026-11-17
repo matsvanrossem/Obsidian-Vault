@@ -2,7 +2,7 @@
   "remoteURL": "https://github.com/matsvanrossem/Obsidian-Vault.git",
   "gitLocation": "",
   "syncinterval": 30,
-  "isSyncOnLoad": false,
+  "isSyncOnLoad": true,
   "checkStatusOnLoad": true,
   "noticeLevel": "ALL",
   "showSyncSuccessNotice": true
