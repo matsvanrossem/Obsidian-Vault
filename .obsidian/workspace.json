@@ -39,17 +39,14 @@
             "id": "370ec93118a11b3c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 47/18 November.canvas",
-                "viewState": {
-                  "x": 1416.3622003362716,
-                  "y": 168.44596674193338,
-                  "zoom": 0.3719434367551747
-                }
+                "file": "Documenten/Planners/Crime_Weekly_Lesson_Planner_3HAVO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "18 November"
+              "icon": "lucide-file",
+              "title": "Crime_Weekly_Lesson_Planner_3HAVO"
             }
           }
         ],
@@ -144,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255,
-    "collapsed": true
+    "width": 255
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -293,8 +289,8 @@
   },
   "active": "370ec93118a11b3c",
   "lastOpenFiles": [
-    "Lessen/VWO 2/Lesplannen/Week 47/PLattegrond 1.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/18 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 47/PLattegrond 1.canvas",
     "18 November-1794993722411.webp",
     "18 November-1794993721347.webp",
     "Pasted image 20261118102147.png",
