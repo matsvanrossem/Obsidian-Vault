@@ -43,9 +43,9 @@
               "state": {
                 "file": "Lessen/VWO 2/Lesplannen/Week 47/18 November.canvas",
                 "viewState": {
-                  "x": 1594.0612519890765,
-                  "y": -245.88986810098504,
-                  "zoom": -1.3333333333333333
+                  "x": 1416.3622003362716,
+                  "y": 168.44596674193338,
+                  "zoom": 0.3719434367551747
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255
+    "width": 255,
+    "collapsed": true
   },
   "right": {
     "id": "e2b37f469a836683",
@@ -292,6 +293,8 @@
   },
   "active": "370ec93118a11b3c",
   "lastOpenFiles": [
+    "Lessen/VWO 2/Lesplannen/Week 47/PLattegrond 1.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 47/18 November.canvas",
     "18 November-1794993722411.webp",
     "18 November-1794993721347.webp",
     "Pasted image 20261118102147.png",
@@ -310,8 +313,6 @@
     "Lessen/VWO 2/Lesplannen/Week 46/12 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/20 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 47/19 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 47/18 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 46/PLattegrond 1.canvas",
     "Documenten/Organigram-25-26.pdf",
     "Organigram-25-26.pdf",
     "Documenten/Verjaardag Myrthe 25.md",
@@ -346,7 +347,6 @@
     "Lessen/VWO 2/Lesplannen/Week 47",
     "Documenten/Bijlages/Pasted image 20261001111610.png",
     "Documenten/Bijlages/How to give a Writing class-1791188215802.webp",
-    "Documenten/Bijlages/Pasted image 20261001211715.png",
-    "Documenten/Bijlages/Pasted image 20261001111847.png"
+    "Documenten/Bijlages/Pasted image 20261001211715.png"
   ]
 }
