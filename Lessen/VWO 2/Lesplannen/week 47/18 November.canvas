@@ -3,7 +3,25 @@
 		{"id":"62c3c910736339e5","type":"text","text":"# **Homework** \n### **Exercises 31-32**. Countries & Cultures: Singapore, **exercises 33-35.**","x":-325,"y":32,"width":650,"height":138,"color":"1"},
 		{"id":"a40e49dec9d4422f","type":"text","text":"\n## **10:50** -\tReading\n## **11:10** - Countries and Cultures Singapore\n## **11:35** - Homework \n","x":-324,"y":-163,"width":649,"height":156,"color":"4"},
 		{"id":"bc5d6b4dc39788d2","type":"text","text":"# **Today's Class: Reviewing the Test**","x":-301,"y":-264,"width":602,"height":68,"color":"2"},
-		{"id":"b6269c925cdf428e","type":"file","file":"Documenten/Bijlages/90s_kids_share.mp4","x":388,"y":-264,"width":400,"height":400}
+		{"id":"6d7412f2e5f38f1d","x":672,"y":-261,"width":502,"height":130,"type":"text","text":"## Why do people in Singapore speak English, and why can Singaporean English sound different?"},
+		{"id":"b6269c925cdf428e","type":"file","file":"Documenten/Bijlages/90s_kids_share.mp4","x":723,"y":32,"width":400,"height":400},
+		{"id":"2745f61ee6aaecca","x":1309,"y":-226,"width":446,"height":167,"type":"text","text":"**Geography and history:** Singapore is a country in Southeast Asia. Britain established a trading post there in **1819**, and Singapore was subsequently ruled by Britain. English became associated with trade, administration and some schools."},
+		{"id":"60bd9a12286b9af4","x":1288,"y":32,"width":488,"height":116,"type":"text","text":"**Four official languages:** **English, Malay, Mandarin Chinese and Tamil**. **Malay is the national language**, while English is the main common **working language**."},
+		{"id":"b840b7750f1fccf3","x":1248,"y":258,"width":600,"height":136,"type":"text","text":"**Why English?** English connects people whose home languages differ. It is also useful in schooling, government, international business and communication beyond Singapore. The choice has roots in colonial history, but post-independence policy developed its everyday role."},
+		{"id":"cf7e9f226eb548ac","x":1276,"y":-596,"width":512,"height":335,"type":"text","text":"![[18 November-1794993721347.webp]]"},
+		{"id":"c269424f2c2f2739","x":1848,"y":-226,"width":580,"height":129,"type":"text","text":"**Singapore is not part of Malaysia** because it separated on **August 9, 1965**, becoming an independent nation after less than two years in the Malaysian federation. It also has a predominantly ethnic Chinese population rather than a Malay majority."},
+		{"id":"4c34e6635b4fbd06","x":1883,"y":-59,"width":545,"height":120,"type":"text","text":"**Investing in Human Capital:** Lacking natural resources, the nation poured resources into top-tier education, technical schools, and an English-speaking, highly skilled workforce."},
+		{"id":"2cdf68edd070f63f","x":1947,"y":109,"width":418,"height":246,"type":"text","text":"**Singapore English:** Standard English in formal settings; informal \n**Singlish** in many everyday situations.  \n**Listen respectfully:** differences are not automatically mistakes."}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fef716e33f5a3142","fromNode":"a40e49dec9d4422f","fromSide":"right","toNode":"6d7412f2e5f38f1d","toSide":"left"},
+		{"id":"8259b5aa41bead6d","fromNode":"6d7412f2e5f38f1d","fromSide":"bottom","toNode":"b6269c925cdf428e","toSide":"top"},
+		{"id":"41fd091c363b4394","fromNode":"2745f61ee6aaecca","fromSide":"bottom","toNode":"60bd9a12286b9af4","toSide":"top"},
+		{"id":"c2c26d48410d6cac","fromNode":"6d7412f2e5f38f1d","fromSide":"right","toNode":"2745f61ee6aaecca","toSide":"left"},
+		{"id":"499a75d36ac6bc9f","fromNode":"60bd9a12286b9af4","fromSide":"bottom","toNode":"b840b7750f1fccf3","toSide":"top"},
+		{"id":"165c8862d0fce62a","fromNode":"2745f61ee6aaecca","fromSide":"right","toNode":"cf7e9f226eb548ac","toSide":"left"},
+		{"id":"5ba09e63a049ccf7","fromNode":"b840b7750f1fccf3","fromSide":"right","toNode":"2cdf68edd070f63f","toSide":"left"},
+		{"id":"05535ab08713c398","fromNode":"2cdf68edd070f63f","fromSide":"top","toNode":"4c34e6635b4fbd06","toSide":"bottom"},
+		{"id":"144364fd09e57dfa","fromNode":"4c34e6635b4fbd06","fromSide":"top","toNode":"c269424f2c2f2739","toSide":"bottom"}
+	]
 }
