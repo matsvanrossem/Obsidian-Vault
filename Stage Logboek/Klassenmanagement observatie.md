@@ -9,12 +9,12 @@
 	*Ik merkte meteen dat de manier waarop ik de groepjes afging voor lichte onrust zorgde bij groepjes waar ik niet aanwezig was. ik heb expliciet op deze manier ingezet om de leerlingen even de ruimte te geven na mijn "Strenge praatje"* *Het idee hierachter was vanuit een pedagogisch perspectie. Ik wilde met de ruimte die ik ze ga aangeven dat ik ze aangesproken heb maar niet afgeschreven. Ik wilde ze laten merken dat ik ze vertrouw in hun kunnen. Dit merkte ik bij de meeste ook op dat ze hier ook geen misbruik van maakte. het viel me wel op dat Dave en Amin bij elkaar waren gaan zitten wat niet mijn intenties waren. omdat het lokaal zo uitkwam en er veel uitval was heb ik dit gelaten.*
     
 - Hoe kun je voorkomen dat je alleen maar individuele vragen aan het beantwoorden bent?
-	*De vraaggroepen klassikaal bespreken en individuele vragen na de les laten komen. Dit heb ik wel in 2VA uitgevoerd en dit werkte erg goed. Ik was een beetje uit m'n ritme *
+	*De vraaggroepen klassikaal bespreken en individuele vragen na de les laten komen. Dit heb ik wel in 2VA uitgevoerd en dit werkte erg goed. Ik was een beetje uit m'n ritme*
     
 - Het nabespreken duurt bijna 30 minuten. Wat vind je van die tijdsduur?
-    
+    *Ik vind het belangrijk dat de leerlingen ruim de tijd krijgen om te zien waar hun valkuilen liggen. ik denk dat ze meer baat hebben bij inzicht in hun vaardigheden dan snel de toets bespreken *
 - Wat is de opbrengst van de les?
-    
+    *ik hoop dat de leerlingen zich m*
 - Hoe kun je de individuele stoorzenders aanpakken?
     
 - Hoe ervaar jij het tempo van de les?
@@ -24,3 +24,5 @@
 - Waarom ging de les moeizamer dan verwacht?
     
 - Wat zou je volgende keer anders doen?
+
+Veilig fundament in het nederlands en dan door in het engels waar nodig. 

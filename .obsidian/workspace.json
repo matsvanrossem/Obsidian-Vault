@@ -22,29 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6c62a56a1bf9fd73",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0f61caf9ce907498",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Lessen/HAVO 3/Lesplannen/Week 46/Plattegrond.canvas",
-                "viewState": {
-                  "x": -81.47304832713965,
-                  "y": -319.82490125464693,
-                  "zoom": -0.506910328804181
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Plattegrond"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
