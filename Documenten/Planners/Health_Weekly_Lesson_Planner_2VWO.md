@@ -46,11 +46,11 @@
 
 ## Week 47
 
-| Lesson | Activities in class | My plan (Werkplein) | Done |
-|:--:|---|---|:--:|
-| 1 | E Writing & Grammar + Culture<br>Exercises 31-32. Countries & Cultures: Singapore, exercises 33-35. | ______________________ | ☐ |
-| 2 | F Listening<br>Exercises 36-40. Practise listening for specific information. | ______________________ | ☐ |
-| 3 | G Reading<br>Exercises 41-45. Reading strategy: false friends. | ______________________ | ☐ |
+| Lesson | Activities in class                                                                                 | My plan (Werkplein)    | Done |
+| :----: | --------------------------------------------------------------------------------------------------- | ---------------------- | :--: |
+|   1    | E Writing & Grammar + Culture<br>Exercises 31-32. Countries & Cultures: Singapore, exercises 33-35. | ______________________ |  ☐   |
+|   2    | F Listening<br>Exercises 36-40. Practise listening for specific information.                        | ______________________ |  ☐   |
+|   3    | G Reading<br>Exercises 41-45. Reading strategy: false friends.                                      | ______________________ |  ☐   |
 
 **Homework / preparation**
 
