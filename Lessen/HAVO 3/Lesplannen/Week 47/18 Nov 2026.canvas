@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5627350301d9a950","type":"text","text":"https://www.youtube.com/watch?v=Z8uW15pmF68","x":414,"y":248,"width":424,"height":61},
+		{"id":"177acacb97276ae8","type":"text","text":"# **New Homework** \n### - **Countries & Cultures:** exercises 32, 32a–32e, 33–34.**","x":-264,"y":162,"width":650,"height":172,"color":"1"},
+		{"id":"066b8595e572308c","type":"text","text":"\n## **13:35** -\tMulticultural London English\n## **13:50** -\tGrammar E Exercises \n## **14:20** -   Homework for next week\n\n","x":-263,"y":-33,"width":649,"height":156,"color":"4"},
+		{"id":"6c08340b6564a1e4","type":"text","text":"# **Today's Class: Countries and Cultures**","x":-240,"y":-134,"width":602,"height":68,"color":"2"}
+	],
+	"edges":[]
+}

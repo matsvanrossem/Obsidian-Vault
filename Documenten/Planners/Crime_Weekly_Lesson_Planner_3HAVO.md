@@ -45,10 +45,10 @@
 
 ## Week 48 | Listening Practice & Countries & Cultures
 
-| Lesson | Activities in class | Homework / preparation | My plan (Werkplein) | Done |
-|:--:|---|---|---|:--:|
-| 1 | **Listening skills practice:** practise listening strategies; revisit difficult exercises from **F (35–39)**. Use remaining time to catch up on **A–G**. | Complete unfinished assignments and note difficult topics. | ____________________ | ☐ |
-| 2 | **Countries & Cultures:** exercises **32, 32a–32e, 33–34**. Continue independent work or practise reading if time permits. | Review Theme Words, Stone 3 and Grammar 4–5. | ____________________ | ☐ |
+| Lesson | Activities in class                                                                                                                                      | Homework / preparation                                     | My plan (Werkplein)  | Done |
+| :----: | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------- | :--: |
+|   1    | **Listening skills practice:** practise listening strategies; revisit difficult exercises from **F (35–39)**. Use remaining time to catch up on **A–G**. | Complete unfinished assignments and note difficult topics. | ____________________ |  ☐   |
+|   2    | **Countries & Cultures:** exercises **32, 32a–32e, 33–34**. Continue independent work or practise reading if time permits.                               | Review Theme Words, Stone 3 and Grammar 4–5.               | ____________________ |  ☐   |
 
 **My weekly goal:** _________________________________________________
 
