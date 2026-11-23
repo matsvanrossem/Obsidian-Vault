@@ -17,6 +17,7 @@ En voor alle herinneringen die je met je mee wilt dragen, hebben we  iets voor j
 
 
 # _Alles wat je wilt bewaren._
+
 Jouw leven bestaat uit ontelbaar veel memorabele momenten.
 Sommige zijn groot en onvergetelijk. Andere zijn zo klein dat we ze nauwelijks opmerken.
 En toch zijn het vaak juist die kleine momenten die achteraf het meest waardevol blijken.
@@ -38,6 +39,7 @@ Met de juiste gereedschappen toon jij de weelde van jouw leven
 
 
 # _Alles wat nog komen gaat._
+
 Er zijn mensen die naar de wereld kijken en zien wat er is.
 En er zijn mensen die naar de wereld kijken en zich verwonderen over alles wat er te ontdekken valt.
 Met jouw mateloze nieuwsgierigheid, je enthousiasme en je eindeloze interesse in alles om je heen, weet je zelfs in de kleinste dingen iets bijzonders te vinden.
@@ -51,14 +53,14 @@ De eerste stapjes, de eerste woordjes, de grote avonturen en de ontelbare kleine
 Momenten waarvan jij je zeer bewust bent hoe dierbaar ze later zullen zijn.
 We weten allemaal hoe graag je die momenten wilt bewaren. Hoe belangrijk je het vindt om later terug te kunnen kijken op alles wat wij samen hebben meegemaakt.
 Maar we hopen ook dat je jezelf daarin niet vergeet.
-Dat je niet alleen vastlegt hoe je kindje groeit, maar ook hoe jij groeit. Als moeder, als vrouw en als de nieuwsgierige, bijzondere persoon die je altijd bent geweest.
+Dat je niet alleen vastlegt hoe Oliver groeit, maar ook hoe jij groeit. Als moeder, als vrouw en als de nieuwsgierige, bijzondere persoon die je altijd bent geweest.
 Daarom hebben wij  het initiatief genomen je alle mogelijkheden te geven om alles vast te leggen.
 Iets dat je mee kunt nemen op alle avonturen die nog gaan komen. Iets waarmee je herinneringen kunt verzamelen en verhalen kunt vertellen zonder woorden.
 Zodat je over vijf, tien of misschien wel vijfentwintig jaar terug kunt kijken op momenten die je anders misschien vergeten zou zijn.
-En zodatOllie later niet alleen kan zien hoe hij  zelf is opgegroeid, maar ook hoe zijn moeder de wereld zag.
+En zodat Ollie later niet alleen kan zien hoe hij  zelf is opgegroeid, maar ook hoe zijn moeder de wereld zag.
 Want uiteindelijk is dat misschien wel het mooiste wat je kunt bewaren.
 Niet alleen een moment, maar de manier waarop jij dat moment hebt beleefd.
-Dus, namens je vader, je moeder, je zusje, je opa en oma en mij:
+Dus, namens je vader, je moeder, je zusje, je opa en oma , Puksie en mij:
 Blijf ontdekken, blijf verwonderen en blijf vooral kijken naar de wereld zoals alleen jij dat kunt.
 Voor alles wat je met je meedraagt.
 Voor alle herinneringen die je wilt bewaren.
