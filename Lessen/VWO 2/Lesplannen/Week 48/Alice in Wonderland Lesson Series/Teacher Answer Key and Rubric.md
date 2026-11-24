@@ -1,4 +1,4 @@
-# Teacher Answer Key | Alice in Wonderland (Unadapted Source Text)
+# Teacher Answer Key | Alice in Wonderland 
 
 All reading answers below refer to the original Carroll extracts in the student reader. Additional grammar and false-friend tasks are teacher-written and are **not** quotations from the novel. For open responses, accept accurate equivalent phrasing. Do not require students to understand every nineteenth-century word.
 
@@ -51,9 +51,3 @@ All reading answers below refer to the original Carroll extracts in the student 
 
 Dear Alice, you have had a strange day, and you have met some very rude people. You should find a calmer place because you seem upset. You could speak to someone who is kind and explain how you feel. You do not have to stay at a party that makes you uncomfortable. If you have a headache, you should rest for a little while. You can take care of yourself and ask for help. I hope you feel better soon.
 
-## Notes for authenticity
-
-- The selected texts are three **verbatim original passages**, not simplified or adapted retellings. Only quotation glyphs were adjusted from ASCII backticks for print readability.
-- Do not add health symptoms to Carroll's story as if he wrote them. A *headache* belongs to the fictional **student response**, not the quoted tea-party scene.
-- Highlight literary grammar only where it occurs. The grammar practice transforms the **situation** into new sentences; it does not claim those are the words of the book.
-- For vulnerable readers, read the passage aloud and supply a separate gloss list. Do not alter the prose itself.

@@ -11,17 +11,14 @@
             "id": "fa3746b923321720",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lessen/VWO 2/Lesplannen/Week 48/25 November.canvas",
-                "viewState": {
-                  "x": 330.7017467622715,
-                  "y": 134.2573776675466,
-                  "zoom": 0.3445295238244947
-                }
+                "file": "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "25 November"
+              "icon": "lucide-file",
+              "title": "Lesson 3"
             }
           }
         ]
@@ -264,22 +261,23 @@
   },
   "active": "fa3746b923321720",
   "lastOpenFiles": [
-    "Lessen/VWO 2/Lesplannen/week 47/18 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 48/25 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 2.md",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 1.md",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 3.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student Reader and Workbook 3.md",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student Reader and Workbook 1.md",
+    "Lessen/VWO 2/Lesplannen/Week 48/Introduction_to_Alice_in_Wonderland.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 48/27 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 48/26 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 48/25 November.canvas",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Teacher Answer Key and Rubric.md",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student Reader and Workbook 2.md",
+    "Lessen/VWO 2/Lesplannen/week 47/18 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 48/25 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 48/27 November 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 48/26 November 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 48/27 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 48/26 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student Reader and Workbook 2.md",
-    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student Reader and Workbook 1.md",
-    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson_3_A_Mad_Tea_Party_Original_Text.md",
     "Lessen/VWO 2/Lesplannen/week 47/19 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson_1_Down_the_Rabbit_Hole_Original_Text.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/README_Overview 1.md",
-    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson_2_Advice_from_a_Caterpillar_Original_Text.md",
-    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Teacher_Answer_Key_and_Rubric 1.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Teacher_Answer_Key_and_Rubric.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student_Reader_and_Workbook.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/README_Overview.md",
@@ -294,7 +292,6 @@
     "Lessen/VWO 2/Lesplannen/week 47/PLattegrond 1.canvas",
     "3HB_korte_toelichting.xlsx",
     "2VA_korte_toelichting.xlsx",
-    "Lessen/VWO 2/Lesplannen/week 47/20 November.canvas",
     "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Instructie VIL.pdf",
     "Untitled-1795426573818.webp",
     "kerndoelen-1795431799589.webp",
