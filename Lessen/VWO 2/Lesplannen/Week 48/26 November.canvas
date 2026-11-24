@@ -1,0 +1,218 @@
+{
+	"nodes": [
+		{
+			"id": "0e33ba0e43cf7d50",
+			"type": "text",
+			"text": "# **26 November 2026 | 2 VWO**\n### Alice in Wonderland | Lesson 2 of 3",
+			"x": -360,
+			"y": -335,
+			"width": 650,
+			"height": 80,
+			"color": "2"
+		},
+		{
+			"id": "9c76dfc69779aa67",
+			"type": "text",
+			"text": "## **Today | 30 minutes**\n**0–3 min**  Quick review of yesterday\n**3–6 min**  Predict (Q1)\n**6–12 min**  Read and skim (Q2)\n**12–18 min**  TASK + evidence (Q3–5)\n**18–22 min**  False friends (Q6)\n**22–27 min**  Present perfect + advice (Q7–8)\n**27–30 min**  Exit ticket (Q9)",
+			"x": -360,
+			"y": -225,
+			"width": 650,
+			"height": 252,
+			"color": "4"
+		},
+		{
+			"id": "f3fa5a630ebd8478",
+			"type": "text",
+			"text": "# **Homework**\nWrite a **3-line dialogue** between Alice and a friend.\n\nUse **one present perfect form** and **two modals**.",
+			"x": -360,
+			"y": 55,
+			"width": 650,
+			"height": 200,
+			"color": "1"
+		},
+		{
+			"id": "fd2d0809e8e04270",
+			"type": "text",
+			"text": "## **Class routine**\n1. Follow the text without changing its words.\n2. Work **individually first**, then with your assigned partner.\n3. Use **voice level 0** or **1** as instructed.\n4. When time is up, finish your sentence and listen.",
+			"x": -360,
+			"y": 281,
+			"width": 650,
+			"height": 186,
+			"color": "6"
+		},
+		{
+			"id": "44a5f97dd3995de7",
+			"type": "text",
+			"text": "## **Big question**\nWho are you? Why does Alice struggle to answer?",
+			"x": 450,
+			"y": -335,
+			"width": 600,
+			"height": 112,
+			"color": "5"
+		},
+		{
+			"id": "a5436460730e2406",
+			"type": "text",
+			"text": "## **Learning goals**\n**I can:** explain Alice’s problem; copy **one** clue; infer tone from words; recognise false friends; use the present perfect and supportive modals.",
+			"x": 450,
+			"y": -195,
+			"width": 600,
+			"height": 154,
+			"color": "4"
+		},
+		{
+			"id": "41c61f19364c69e2",
+			"type": "text",
+			"text": "**0–3 | Retrieval, silence**\nWhat happened to Alice in Lesson 1? Write **one** idea and **one** advice sentence with *should*.\n\n**3–6 | Prediction**\nDo **Q1**: write **one possible reason** someone might feel confused about who they are.",
+			"x": 450,
+			"y": -10,
+			"width": 600,
+			"height": 195,
+			"color": "3"
+		},
+		{
+			"id": "db52f124037cd113",
+			"type": "text",
+			"text": "## **TASK before every answer**\n**T** Task: circle the instruction word.\n**A** Answer: letter, phrase or full sentence?\n**S** Special conditions: *exactly*, *copy*, *English*, *two*.\n**K** Keep checking: did you follow **all** instructions?\n\n**Reading focus:** skim dialogue; scan for a **direct clue**; interpret tone.\n**Team roles:** Question Decoder / Evidence Finder.\n**Voice level:** 0 reading, 1 pair work.",
+			"x": 450,
+			"y": 218,
+			"width": 600,
+			"height": 230,
+			"color": "3"
+		},
+		{
+			"id": "9b77fca3437450ae",
+			"type": "text",
+			"text": "## **Original novel | Chapter V: Advice from a Caterpillar**\n*Lewis Carroll, Alice’s Adventures in Wonderland (1865)*\n\n> The Caterpillar and Alice looked at each other for some time in silence: at last the Caterpillar took the hookah out of its mouth, and addressed her in a languid, sleepy voice.\n\n> ‘Who are you?’ said the Caterpillar.\n\n> This was not an encouraging opening for a conversation. Alice replied, rather shyly, ‘I--I hardly know, sir, just at present-- at least I know who I was when I got up this morning, but I think I must have been changed several times since then.’\n\n> ‘What do you mean by that?’ said the Caterpillar sternly. ‘Explain yourself!’\n\n> ‘I can't explain myself, I'm afraid, sir’ said Alice, ‘because I'm not myself, you see.’\n\n> ‘I don't see,’ said the Caterpillar.\n\n> ‘I'm afraid I can't put it more clearly,’ Alice replied very politely, ‘for I can't understand it myself to begin with; and being so many different sizes in a day is very confusing.’",
+			"x": 1140,
+			"y": -335,
+			"width": 830,
+			"height": 705
+		},
+		{
+			"id": "402bcb23fd2a4e4e",
+			"type": "text",
+			"text": "## **Context and vocabulary support**\nAlice has changed size several times and meets a Caterpillar who asks a difficult question.\n\n**Mini-glossary outside the original:**\n*Caterpillar* = rups\n*languid* = loom\n*sternly* = streng\n\nThe historical story mentions a hookah; the task is about language.",
+			"x": 1140,
+			"y": 400,
+			"width": 830,
+			"height": 160,
+			"color": "6"
+		},
+		{
+			"id": "c561b76ddf92a784",
+			"type": "text",
+			"text": "**6–12 | Read the original conversation**\nListen to the voices: who sounds **shy**? Who sounds **stern**?\n\n**Q2:** skim the passage. Choose **A, B or C** and write only the letter.",
+			"x": 2050,
+			"y": -335,
+			"width": 630,
+			"height": 200,
+			"color": "5"
+		},
+		{
+			"id": "f76f50a883a72729",
+			"type": "text",
+			"text": "**12–18 | TASK + evidence in pairs**\n**Q3:** copy **ONE short phrase** showing that Alice feels unsure.\n**Q4:** explain whether *copy* allows a Dutch translation. **Yes/no + 5–10 English words.**\n**Q5:** match *sternly*, *confusing*, *at present* with their meanings.",
+			"x": 2050,
+			"y": -107,
+			"width": 630,
+			"height": 230,
+			"color": "5"
+		},
+		{
+			"id": "574ad03e2c5f638c",
+			"type": "text",
+			"text": "**18–22 | False-friend detective**\n**Q6:** choose what **eventually** and **actual** mean in the *new* examples.\n\nThese are teacher-written sentences, not lines from Carroll.",
+			"x": 2050,
+			"y": 151,
+			"width": 630,
+			"height": 174,
+			"color": "3"
+		},
+		{
+			"id": "09bfc34f7f5de3c1",
+			"type": "text",
+			"text": "**22–27 | Individual language lab**\n**Q7:** complete TWO sentences with **has + past participle** (*change*, *ask*).\n**Q8:** write one kind sentence with **should / could**, plus one with **doesn’t have to**.\n\nOriginal text: **must have been changed** is not the simple pattern from Grammar 3.",
+			"x": 2050,
+			"y": 354,
+			"width": 630,
+			"height": 218,
+			"color": "4"
+		},
+		{
+			"id": "0bdc494487051592",
+			"type": "text",
+			"text": "**27–30 | Exit ticket: Q9**\nName Alice’s feeling in **ONE word** and give **ONE exact clue** from the text.",
+			"x": 2050,
+			"y": 601,
+			"width": 630,
+			"height": 164,
+			"color": "1"
+		}
+	],
+	"edges": [
+		{
+			"id": "3eab119f6cb502b6",
+			"fromNode": "9c76dfc69779aa67",
+			"fromSide": "right",
+			"toNode": "44a5f97dd3995de7",
+			"toSide": "left"
+		},
+		{
+			"id": "d794e05c296c18fb",
+			"fromNode": "44a5f97dd3995de7",
+			"fromSide": "right",
+			"toNode": "9b77fca3437450ae",
+			"toSide": "left"
+		},
+		{
+			"id": "7ff772412e990569",
+			"fromNode": "9b77fca3437450ae",
+			"fromSide": "right",
+			"toNode": "c561b76ddf92a784",
+			"toSide": "left"
+		},
+		{
+			"id": "0d863a6ba1ca25ad",
+			"fromNode": "c561b76ddf92a784",
+			"fromSide": "bottom",
+			"toNode": "f76f50a883a72729",
+			"toSide": "top"
+		},
+		{
+			"id": "e51fa4d305deb155",
+			"fromNode": "f76f50a883a72729",
+			"fromSide": "bottom",
+			"toNode": "574ad03e2c5f638c",
+			"toSide": "top"
+		},
+		{
+			"id": "e4c94cacce138769",
+			"fromNode": "574ad03e2c5f638c",
+			"fromSide": "bottom",
+			"toNode": "09bfc34f7f5de3c1",
+			"toSide": "top"
+		},
+		{
+			"id": "cf304ca26fbfb8ad",
+			"fromNode": "09bfc34f7f5de3c1",
+			"fromSide": "bottom",
+			"toNode": "0bdc494487051592",
+			"toSide": "top"
+		},
+		{
+			"id": "53f7457350f8a8c7",
+			"fromNode": "db52f124037cd113",
+			"fromSide": "right",
+			"toNode": "f76f50a883a72729",
+			"toSide": "left"
+		},
+		{
+			"id": "f17f750a571fefcd",
+			"fromNode": "41c61f19364c69e2",
+			"fromSide": "right",
+			"toNode": "9b77fca3437450ae",
+			"toSide": "left"
+		}
+	]
+}
