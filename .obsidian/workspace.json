@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Lesson 3"
             }
+          },
+          {
+            "id": "8da72e457b5bb28c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 3"
+            }
+          },
+          {
+            "id": "32742dd291c466fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 2"
+            }
+          },
+          {
+            "id": "8136f08ccb66f701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 1"
+            }
+          },
+          {
+            "id": "bb6c55092e28a7b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessen/HAVO 3/Lesplannen/Week 48/Week_48_Lesson_1_3HAVO_Listening_Review_and_Catch_Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week_48_Lesson_1_3HAVO_Listening_Review_and_Catch_Up"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -259,24 +316,35 @@
       "print:Print note": false
     }
   },
-  "active": "fa3746b923321720",
+  "active": "bb6c55092e28a7b2",
   "lastOpenFiles": [
-    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 2.md",
+    "Lessen/HAVO 3/Lesplannen/Week 48/Plattegrond t201.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 48/Week_48_Lesson_2_3HAVO_Countries_and_Cultures.md",
+    "Lessen/HAVO 3/Lesplannen/Week 47/Week_47_Lesson_2_3HAVO_G_Reading.md",
+    "Lessen/HAVO 3/Lesplannen/Week 47/Week_47_Lesson_1_3HAVO_F_Listening.md",
+    "Lessen/HAVO 3/Lesplannen/Week 48/Week_48_Lesson_1_3HAVO_Listening_Review_and_Catch_Up.md",
+    "Lessen/HAVO 3/Lesplannen/Week 48/25 November.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 48/26 November.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 47/18 Nov 2026.canvas",
+    "Lessen/HAVO 3/Lesplannen/Week 47/19 november 2026.canvas",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 1.md",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student Reader and Workbook 1.md",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/~WRL0001.tmp",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/~WRD0000.tmp",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student Reader and Workbook 1.docx",
+    "Lessen/VWO 2/Lesplannen/Week 48/25 November.canvas",
+    "file:C:/Users/Matsv/Downloads/Lesson 1.pdf",
+    "file:C:/Users/Matsv/Downloads/Lesson 2.pdf",
+    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 2.md",
+    "file:C:/Users/Matsv/Downloads/Lesson 3.pdf",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Lesson 3.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student Reader and Workbook 3.md",
-    "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student Reader and Workbook 1.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Introduction_to_Alice_in_Wonderland.canvas",
     "Lessen/VWO 2/Lesplannen/Week 48/27 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 48/26 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 48/25 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Teacher Answer Key and Rubric.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student Reader and Workbook 2.md",
     "Lessen/VWO 2/Lesplannen/week 47/18 November.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 48/25 November 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 48/27 November 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/Week 48/26 November 2026.canvas",
-    "Lessen/VWO 2/Lesplannen/week 47/19 November.canvas",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/README_Overview 1.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Teacher_Answer_Key_and_Rubric.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Student_Reader_and_Workbook.md",
@@ -289,25 +357,14 @@
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series/Chapter_I_Original_Bottle_Excerpt_Exact_Digital_Transcript.txt",
     "Documenten/Planners/Health_Weekly_Lesson_Planner_2VWO.md",
     "Lessen/VWO 2/Lesplannen/Week 48/Alice in Wonderland Lesson Series",
-    "Lessen/VWO 2/Lesplannen/week 47/PLattegrond 1.canvas",
-    "3HB_korte_toelichting.xlsx",
-    "2VA_korte_toelichting.xlsx",
-    "Schoolopdrachten/Deadlines and exercises/Pedagogiek/Instructie VIL.pdf",
     "Untitled-1795426573818.webp",
     "kerndoelen-1795431799589.webp",
-    "file:C:/Users/Matsv/Downloads/Instructie VIL.pdf",
     "Documenten/Bijlages/kerndoelen.md",
     "Documenten/Bijlages/Alles wat nog komen gaat.md",
-    "Alles wat nog komen gaat.pdf",
     "Documenten/Bijlages/Alles wat je wilt bewaren.md",
     "Documenten/Bijlages/Alles wat je met je meedraagt.md",
-    "Alles wat je met je meedraagt.pdf",
     "Documenten/Bijlages/25 jaar.md",
     "Documenten/Bijlages/Chapter 2 Study Guide.md",
-    "Documenten/Bijlages/Verjaardag Myrthe 25.md",
-    "Documenten/Bijlages/Stagebespreking.md",
-    "Documenten/Bijlages/Sectievergaderingen.md",
-    "Documenten/Bijlages/De Berg.md",
     "Documenten/Bijlages/2 Oct 2026-1790882224469.webp",
     "Documenten/Bijlages/2 Oct 2026-1790882227649.webp",
     "18 November-1794993721347.webp",

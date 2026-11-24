@@ -14,7 +14,7 @@ I can explain Alice's difficulty in one sentence, copy a clue word-for-word, und
 
 ## Materials and preparation
 
-Reader Lesson 2, pair roles (Question Decoder / Evidence Finder), Laptops.
+Reader Lesson 2, pair roles (Question Decoder / Evidence Finder), Laptops, board.
 
 ## 30-minute EDI sequence
 

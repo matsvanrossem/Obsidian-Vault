@@ -12,7 +12,7 @@ I can describe the main problem, copy one sentence of advice exactly, find two r
 
 ## Materials and preparation
 
-Reader Lesson 3; highlighters, two-colour pens, exit slips. Pre-teach *civil* = beleefd, *remark* = opmerking, *invited* = uitgenodigd; present them as a separate mini-glossary. Avoid implying that the novel itself contains all the later grammar examples.
+Reader Lesson 3; Laptops, board.
 
 ## 30-minute EDI sequence
 
