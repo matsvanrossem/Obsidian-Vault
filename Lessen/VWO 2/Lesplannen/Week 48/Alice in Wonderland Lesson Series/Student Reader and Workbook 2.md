@@ -39,7 +39,7 @@ Do not translate every unfamiliar word. First explore the text, then skim for it
 **1. Predict.** What would make someone confused about who they are? Write **one possible reason**.  
 ________________________________________________________
 
-### Reading detectives (7 minutes)
+### Reading detectives 
 
 **2. Skim. Choose ONE main idea. Write only A, B or C.**  
 A. The Caterpillar tells Alice how to leave Wonderland.  
@@ -58,7 +58,7 @@ ________________________________________________________
 (b) **confusing** = *puzzling / delicious*  
 (c) **at present** = *right now / a gift*
 
-### Language lab
+### Language 
 
 
 > [!note]
