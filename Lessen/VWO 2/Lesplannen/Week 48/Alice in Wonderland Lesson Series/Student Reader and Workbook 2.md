@@ -1,4 +1,4 @@
-# Alice's Adventures in Wonderland: Original Text Reader and Workbook
+# Alice's Adventures in Wonderland
 
 **Class:** 2 VWO  
 **Author:** Lewis Carroll, *Alice's Adventures in Wonderland* (1865)
